@@ -1,0 +1,2262 @@
+fileFormatVersion: 2
+guid: 3e6e3fbbd4f0c68479fb409fb1712e7e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8679259084567339369
+    second: Man_Mob_0
+  - first:
+      213: 1923959085784356360
+    second: Man_Mob_1
+  - first:
+      213: 7728251575481739412
+    second: Man_Mob_2
+  - first:
+      213: -2907966485219760120
+    second: Man_Mob_3
+  - first:
+      213: 1416097610337490278
+    second: Man_Mob_4
+  - first:
+      213: -3891423302370853878
+    second: Man_Mob_5
+  - first:
+      213: -6286889656886297173
+    second: Man_Mob_6
+  - first:
+      213: -189634167839109029
+    second: Man_Mob_7
+  - first:
+      213: -6520768988803865854
+    second: Man_Mob_8
+  - first:
+      213: 1951514934289708629
+    second: Man_Mob_9
+  - first:
+      213: -7220443958745408606
+    second: Man_Mob_10
+  - first:
+      213: 5724780741315074048
+    second: Man_Mob_11
+  - first:
+      213: 2917081913983542535
+    second: Man_Mob_12
+  - first:
+      213: 5771864250475083909
+    second: Man_Mob_13
+  - first:
+      213: -7932166091641499082
+    second: Man_Mob_14
+  - first:
+      213: -7062282397752152738
+    second: Man_Mob_15
+  - first:
+      213: 5202925317289481663
+    second: Man_Mob_16
+  - first:
+      213: 5305024071337698574
+    second: Man_Mob_17
+  - first:
+      213: -1233442477387460434
+    second: Man_Mob_18
+  - first:
+      213: -3050496177403424426
+    second: Man_Mob_19
+  - first:
+      213: 6805975254885481745
+    second: Man_Mob_20
+  - first:
+      213: 5634355899479122640
+    second: Man_Mob_21
+  - first:
+      213: 4217691855839581322
+    second: Man_Mob_22
+  - first:
+      213: 8010443024999801082
+    second: Man_Mob_23
+  - first:
+      213: -8100696225824155364
+    second: Man_Mob_24
+  - first:
+      213: 395753991020267595
+    second: Man_Mob_25
+  - first:
+      213: -323166491155794753
+    second: Man_Mob_26
+  - first:
+      213: -3834156737866344974
+    second: Man_Mob_27
+  - first:
+      213: -2455458343812397783
+    second: Man_Mob_28
+  - first:
+      213: -7070798815609205533
+    second: Man_Mob_29
+  - first:
+      213: -7307642677236015308
+    second: Man_Mob_30
+  - first:
+      213: 2016289546122769477
+    second: Man_Mob_31
+  - first:
+      213: -1341809054334937423
+    second: Man_Mob_32
+  - first:
+      213: 2902298857957815413
+    second: Man_Mob_33
+  - first:
+      213: 6949714551623395082
+    second: Man_Mob_34
+  - first:
+      213: -2476720090386219283
+    second: Man_Mob_35
+  - first:
+      213: -8143469305557274628
+    second: Man_Mob_36
+  - first:
+      213: -4433568685113341030
+    second: Man_Mob_37
+  - first:
+      213: -8362137327149142660
+    second: Man_Mob_38
+  - first:
+      213: 5858203210907534942
+    second: Man_Mob_39
+  - first:
+      213: -7102155995390712587
+    second: Man_Mob_40
+  - first:
+      213: -8847755433319823941
+    second: Man_Mob_41
+  - first:
+      213: -3285342368491625428
+    second: Man_Mob_42
+  - first:
+      213: -8882147921325413069
+    second: Man_Mob_43
+  - first:
+      213: 4500895094836876300
+    second: Man_Mob_44
+  - first:
+      213: 530847810832363131
+    second: Man_Mob_45
+  - first:
+      213: 5618222562044510572
+    second: Man_Mob_46
+  - first:
+      213: 2834222502059162887
+    second: Man_Mob_47
+  - first:
+      213: -5240242876051471387
+    second: Man_Mob_48
+  - first:
+      213: -1110065710870816113
+    second: Man_Mob_49
+  - first:
+      213: 3341631088974691885
+    second: Man_Mob_50
+  - first:
+      213: 6060444177504616453
+    second: Man_Mob_51
+  - first:
+      213: -6041673590257257854
+    second: Man_Mob_52
+  - first:
+      213: 7119751198161717426
+    second: Man_Mob_53
+  - first:
+      213: 3398137603685666781
+    second: Man_Mob_54
+  - first:
+      213: -6339128900245176480
+    second: Man_Mob_55
+  - first:
+      213: -5168628023084871117
+    second: Man_Mob_56
+  - first:
+      213: -3441375685176722319
+    second: Man_Mob_57
+  - first:
+      213: -936436255094742569
+    second: Man_Mob_58
+  - first:
+      213: -3860556402788379339
+    second: Man_Mob_59
+  - first:
+      213: -1655751431358150288
+    second: Man_Mob_60
+  - first:
+      213: -1201761401326456968
+    second: Man_Mob_61
+  - first:
+      213: -7992359841627572505
+    second: Man_Mob_62
+  - first:
+      213: -7529615644155609525
+    second: Man_Mob_63
+  - first:
+      213: 2774956168110317583
+    second: Man_Mob_64
+  - first:
+      213: 8193093895436085964
+    second: Man_Mob_65
+  - first:
+      213: -3638530641922827010
+    second: Man_Mob_66
+  - first:
+      213: 8063974920768464856
+    second: Man_Mob_67
+  - first:
+      213: -1080734507067552002
+    second: Man_Mob_68
+  - first:
+      213: 293968603497635830
+    second: Man_Mob_69
+  - first:
+      213: 4042378189738256081
+    second: Man_Mob_70
+  - first:
+      213: -923809877345793594
+    second: Man_Mob_71
+  - first:
+      213: 3440256574245384170
+    second: Man_Mob_72
+  - first:
+      213: 367343555502615099
+    second: Man_Mob_73
+  - first:
+      213: -984390173528693069
+    second: Man_Mob_74
+  - first:
+      213: 7697871746208221457
+    second: Man_Mob_75
+  - first:
+      213: 3334371593102131508
+    second: Man_Mob_76
+  - first:
+      213: -3564718540591132638
+    second: Man_Mob_77
+  - first:
+      213: -7204894180569328981
+    second: Man_Mob_78
+  - first:
+      213: 8249026524960295092
+    second: Man_Mob_79
+  - first:
+      213: 4111105091263423395
+    second: Man_Mob_80
+  - first:
+      213: 2062981469630328401
+    second: Man_Mob_81
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Man_Mob_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 503
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e18c6e8d31d8780800000000000000
+      internalID: -8679259084567339369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 506
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806df8e489643ba10800000000000000
+      internalID: 1923959085784356360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 503
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4982173acd3404b60800000000000000
+      internalID: 7728251575481739412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 503
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8082cb583e3d4a7d0800000000000000
+      internalID: -2907966485219760120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_4
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 506
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6651277164df6a310800000000000000
+      internalID: 1416097610337490278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 503
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0cf187cf13eef9c0800000000000000
+      internalID: -3891423302370853878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 503
+        width: 289
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: badf63b9a2b70c8a0800000000000000
+      internalID: -6286889656886297173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_7
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 431
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b505ca4aab84e5df0800000000000000
+      internalID: -189634167839109029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_8
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 434
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20366f737239185a0800000000000000
+      internalID: -6520768988803865854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_9
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 431
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55635304e7c251b10800000000000000
+      internalID: 1951514934289708629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_10
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 431
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab5d5e9974dbcb90800000000000000
+      internalID: -7220443958745408606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_11
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 434
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0081517c0c1827f40800000000000000
+      internalID: 5724780741315074048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_12
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 431
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705a4bf9b8e8b7820800000000000000
+      internalID: 2917081913983542535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_13
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 431
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588f75584f7c91050800000000000000
+      internalID: 5771864250475083909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_14
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 434
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6325f4057f84be190800000000000000
+      internalID: -7932166091641499082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_15
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 431
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d2d7aa39bbdfd90800000000000000
+      internalID: -7062282397752152738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_16
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 431
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb51de18201843840800000000000000
+      internalID: 5202925317289481663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_17
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 434
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05eaf0294b3f9940800000000000000
+      internalID: 5305024071337698574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_18
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 431
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea051741a9ee1eee0800000000000000
+      internalID: -1233442477387460434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_19
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 359
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6519e2d83e57aa5d0800000000000000
+      internalID: -3050496177403424426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_20
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 362
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d3c894f6ea37e50800000000000000
+      internalID: 6805975254885481745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_21
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 359
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d26496a6d0413e40800000000000000
+      internalID: 5634355899479122640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_22
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 359
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8450678560488a30800000000000000
+      internalID: 4217691855839581322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_23
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 362
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af06e967d7fca2f60800000000000000
+      internalID: 8010443024999801082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_24
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 359
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c195762b3bb849f80800000000000000
+      internalID: -8100696225824155364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_25
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 359
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48c43578200e7500800000000000000
+      internalID: 395753991020267595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_26
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 362
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4795bd9c1e38bf0800000000000000
+      internalID: -323166491155794753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_27
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 359
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f55e4ad2c65acac0800000000000000
+      internalID: -3834156737866344974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_28
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 359
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9250b4855a57cedd0800000000000000
+      internalID: -2455458343812397783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_29
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 362
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec4c5d90f97fdd90800000000000000
+      internalID: -7070798815609205533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_30
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 359
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43fdcddd3b9069a90800000000000000
+      internalID: -7307642677236015308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_31
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 287
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5443bf0d8ac4bfb10800000000000000
+      internalID: 2016289546122769477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_32
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 290
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b696f736cfe06de0800000000000000
+      internalID: -1341809054334937423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_33
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 287
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574f89c2f69074820800000000000000
+      internalID: 2902298857957815413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_34
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 287
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0720e34098527060800000000000000
+      internalID: 6949714551623395082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_35
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 290
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deeb474333ce0add0800000000000000
+      internalID: -2476720090386219283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_36
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 287
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff26f200d59cfe80800000000000000
+      internalID: -8143469305557274628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_37
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 287
+        width: 289
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b068c55ccc872c0800000000000000
+      internalID: -4433568685113341030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_38
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 215
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7dad3cc768b3fb80800000000000000
+      internalID: -8362137327149142660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_39
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 218
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56423048c48c4150800000000000000
+      internalID: 5858203210907534942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_40
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 215
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4635340c2107d90800000000000000
+      internalID: -7102155995390712587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_41
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 215
+        width: 146
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb580719f45763580800000000000000
+      internalID: -8847755433319823941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_42
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 215
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c242488b58e1862d0800000000000000
+      internalID: -3285342368491625428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_43
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 218
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33dace276854cb480800000000000000
+      internalID: -8882147921325413069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_44
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 215
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04dc03fd34667e30800000000000000
+      internalID: 4500895094836876300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_45
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 215
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ee47a7543fd5700800000000000000
+      internalID: 530847810832363131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_46
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 218
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c618fbf47afe7fd40800000000000000
+      internalID: 5618222562044510572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_47
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 215
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70db7a9695e255720800000000000000
+      internalID: 2834222502059162887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_48
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 143
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e34e244edae647b0800000000000000
+      internalID: -5240242876051471387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_49
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 146
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a143a0e114890f0800000000000000
+      internalID: -1110065710870816113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_50
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 143
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2efcbc45cbdf5e20800000000000000
+      internalID: 3341631088974691885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_51
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 143
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5004f3daed50b1450800000000000000
+      internalID: 6060444177504616453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_52
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 146
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2827bdb31e9a72ca0800000000000000
+      internalID: -6041673590257257854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_53
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 143
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8479f1eff6ec260800000000000000
+      internalID: 7119751198161717426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_54
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 143
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfc49d752c982f20800000000000000
+      internalID: 3398137603685666781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_55
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 146
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f3973f9d3e608a0800000000000000
+      internalID: -6339128900245176480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_56
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 143
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33295e392385548b0800000000000000
+      internalID: -5168628023084871117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_57
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 143
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17cff5a2c07cd30d0800000000000000
+      internalID: -3441375685176722319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_58
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 146
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1e74cff2c1103f0800000000000000
+      internalID: -936436255094742569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_59
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 143
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5355070e76c8c6ac0800000000000000
+      internalID: -3860556402788379339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_60
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 71
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0798d8188d69509e0800000000000000
+      internalID: -1655751431358150288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_61
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 74
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f29296f5c725fe0800000000000000
+      internalID: -1201761401326456968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_62
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 71
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6f0b2c11f651190800000000000000
+      internalID: -7992359841627572505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_63
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 71
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e71ea177e618790800000000000000
+      internalID: -7529615644155609525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_64
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 74
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00ae7bbeef928620800000000000000
+      internalID: 2774956168110317583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_65
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 71
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccaa3e03d77b3b170800000000000000
+      internalID: 8193093895436085964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_66
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 71
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efcd0dfa8a7518dc0800000000000000
+      internalID: -3638530641922827010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_67
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 74
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d72016377ef8ef60800000000000000
+      internalID: 8063974920768464856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_68
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 71
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe4bb911b57001f0800000000000000
+      internalID: -1080734507067552002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_69
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 71
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff189a23e2641400800000000000000
+      internalID: 293968603497635830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_70
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 74
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6a22fcb89691830800000000000000
+      internalID: 4042378189738256081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_71
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 71
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c98ec4afc7fd23f0800000000000000
+      internalID: -923809877345793594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_72
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef2914802f3ebf20800000000000000
+      internalID: 3440256574245384170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_73
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a23487401191500800000000000000
+      internalID: 367343555502615099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_74
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6ef6a4a5eb652f0800000000000000
+      internalID: -984390173528693069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_75
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 146
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119c14f619554da60800000000000000
+      internalID: 7697871746208221457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_76
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43181043c41164e20800000000000000
+      internalID: 3334371593102131508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_77
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 2
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22011dfbf53978ec0800000000000000
+      internalID: -3564718540591132638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_78
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 0
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2d2ea7ae2130c90800000000000000
+      internalID: -7204894180569328981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_79
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 0
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b888035bed6a7270800000000000000
+      internalID: 8249026524960295092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_80
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 2
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a36e078c449d0930800000000000000
+      internalID: 4111105091263423395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Mob_81
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 0
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e678b67be21ac10800000000000000
+      internalID: 2062981469630328401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Man_Mob_0: -8679259084567339369
+      Man_Mob_1: 1923959085784356360
+      Man_Mob_10: -7220443958745408606
+      Man_Mob_11: 5724780741315074048
+      Man_Mob_12: 2917081913983542535
+      Man_Mob_13: 5771864250475083909
+      Man_Mob_14: -7932166091641499082
+      Man_Mob_15: -7062282397752152738
+      Man_Mob_16: 5202925317289481663
+      Man_Mob_17: 5305024071337698574
+      Man_Mob_18: -1233442477387460434
+      Man_Mob_19: -3050496177403424426
+      Man_Mob_2: 7728251575481739412
+      Man_Mob_20: 6805975254885481745
+      Man_Mob_21: 5634355899479122640
+      Man_Mob_22: 4217691855839581322
+      Man_Mob_23: 8010443024999801082
+      Man_Mob_24: -8100696225824155364
+      Man_Mob_25: 395753991020267595
+      Man_Mob_26: -323166491155794753
+      Man_Mob_27: -3834156737866344974
+      Man_Mob_28: -2455458343812397783
+      Man_Mob_29: -7070798815609205533
+      Man_Mob_3: -2907966485219760120
+      Man_Mob_30: -7307642677236015308
+      Man_Mob_31: 2016289546122769477
+      Man_Mob_32: -1341809054334937423
+      Man_Mob_33: 2902298857957815413
+      Man_Mob_34: 6949714551623395082
+      Man_Mob_35: -2476720090386219283
+      Man_Mob_36: -8143469305557274628
+      Man_Mob_37: -4433568685113341030
+      Man_Mob_38: -8362137327149142660
+      Man_Mob_39: 5858203210907534942
+      Man_Mob_4: 1416097610337490278
+      Man_Mob_40: -7102155995390712587
+      Man_Mob_41: -8847755433319823941
+      Man_Mob_42: -3285342368491625428
+      Man_Mob_43: -8882147921325413069
+      Man_Mob_44: 4500895094836876300
+      Man_Mob_45: 530847810832363131
+      Man_Mob_46: 5618222562044510572
+      Man_Mob_47: 2834222502059162887
+      Man_Mob_48: -5240242876051471387
+      Man_Mob_49: -1110065710870816113
+      Man_Mob_5: -3891423302370853878
+      Man_Mob_50: 3341631088974691885
+      Man_Mob_51: 6060444177504616453
+      Man_Mob_52: -6041673590257257854
+      Man_Mob_53: 7119751198161717426
+      Man_Mob_54: 3398137603685666781
+      Man_Mob_55: -6339128900245176480
+      Man_Mob_56: -5168628023084871117
+      Man_Mob_57: -3441375685176722319
+      Man_Mob_58: -936436255094742569
+      Man_Mob_59: -3860556402788379339
+      Man_Mob_6: -6286889656886297173
+      Man_Mob_60: -1655751431358150288
+      Man_Mob_61: -1201761401326456968
+      Man_Mob_62: -7992359841627572505
+      Man_Mob_63: -7529615644155609525
+      Man_Mob_64: 2774956168110317583
+      Man_Mob_65: 8193093895436085964
+      Man_Mob_66: -3638530641922827010
+      Man_Mob_67: 8063974920768464856
+      Man_Mob_68: -1080734507067552002
+      Man_Mob_69: 293968603497635830
+      Man_Mob_7: -189634167839109029
+      Man_Mob_70: 4042378189738256081
+      Man_Mob_71: -923809877345793594
+      Man_Mob_72: 3440256574245384170
+      Man_Mob_73: 367343555502615099
+      Man_Mob_74: -984390173528693069
+      Man_Mob_75: 7697871746208221457
+      Man_Mob_76: 3334371593102131508
+      Man_Mob_77: -3564718540591132638
+      Man_Mob_78: -7204894180569328981
+      Man_Mob_79: 8249026524960295092
+      Man_Mob_8: -6520768988803865854
+      Man_Mob_80: 4111105091263423395
+      Man_Mob_81: 2062981469630328401
+      Man_Mob_9: 1951514934289708629
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

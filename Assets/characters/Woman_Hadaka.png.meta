@@ -1,0 +1,1820 @@
+fileFormatVersion: 2
+guid: 5cc7145ee93f0014eb38a1c2444eea0e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1075817711532226824
+    second: Woman_Hadaka_0
+  - first:
+      213: -640477334538340691
+    second: Woman_Hadaka_1
+  - first:
+      213: -738754474510418406
+    second: Woman_Hadaka_2
+  - first:
+      213: 7678480585077455493
+    second: Woman_Hadaka_3
+  - first:
+      213: 2282462324026030260
+    second: Woman_Hadaka_4
+  - first:
+      213: 3678613965281337681
+    second: Woman_Hadaka_5
+  - first:
+      213: -2464567047457559630
+    second: Woman_Hadaka_6
+  - first:
+      213: 8619265939022934554
+    second: Woman_Hadaka_7
+  - first:
+      213: 9050272482782742470
+    second: Woman_Hadaka_8
+  - first:
+      213: 6884611194525184844
+    second: Woman_Hadaka_9
+  - first:
+      213: -7396156430572716103
+    second: Woman_Hadaka_10
+  - first:
+      213: 2404378120437930528
+    second: Woman_Hadaka_11
+  - first:
+      213: 2110602278102262254
+    second: Woman_Hadaka_12
+  - first:
+      213: -3790664327031191372
+    second: Woman_Hadaka_13
+  - first:
+      213: -1407873930174311987
+    second: Woman_Hadaka_14
+  - first:
+      213: -4591644293929026160
+    second: Woman_Hadaka_15
+  - first:
+      213: -8968160777798930906
+    second: Woman_Hadaka_16
+  - first:
+      213: 3082101020935928704
+    second: Woman_Hadaka_17
+  - first:
+      213: -595603123136784491
+    second: Woman_Hadaka_18
+  - first:
+      213: 4109767314159107722
+    second: Woman_Hadaka_19
+  - first:
+      213: -2564012820036166963
+    second: Woman_Hadaka_20
+  - first:
+      213: 5498794343405420342
+    second: Woman_Hadaka_21
+  - first:
+      213: -28909078446778665
+    second: Woman_Hadaka_22
+  - first:
+      213: -5468436699607896780
+    second: Woman_Hadaka_23
+  - first:
+      213: -5685714291783689363
+    second: Woman_Hadaka_24
+  - first:
+      213: -1583705127427523863
+    second: Woman_Hadaka_25
+  - first:
+      213: -2863142524322878825
+    second: Woman_Hadaka_26
+  - first:
+      213: 8411866662357981983
+    second: Woman_Hadaka_27
+  - first:
+      213: -5984440003324910373
+    second: Woman_Hadaka_28
+  - first:
+      213: 5115089288391236804
+    second: Woman_Hadaka_29
+  - first:
+      213: -1662384936194303836
+    second: Woman_Hadaka_30
+  - first:
+      213: 127524283650441881
+    second: Woman_Hadaka_31
+  - first:
+      213: 3698003960265390231
+    second: Woman_Hadaka_32
+  - first:
+      213: -1108319832753103818
+    second: Woman_Hadaka_33
+  - first:
+      213: -7632420455767726475
+    second: Woman_Hadaka_34
+  - first:
+      213: -3232839776293561356
+    second: Woman_Hadaka_35
+  - first:
+      213: 6841556127539168708
+    second: Woman_Hadaka_36
+  - first:
+      213: -5959593912850706116
+    second: Woman_Hadaka_37
+  - first:
+      213: -7369886626542603980
+    second: Woman_Hadaka_38
+  - first:
+      213: -5702237971237924980
+    second: Woman_Hadaka_39
+  - first:
+      213: -3095203062254500462
+    second: Woman_Hadaka_40
+  - first:
+      213: 306802531730612430
+    second: Woman_Hadaka_41
+  - first:
+      213: 4802901605627604694
+    second: Woman_Hadaka_42
+  - first:
+      213: 914566884181116817
+    second: Woman_Hadaka_43
+  - first:
+      213: 4193947889963639315
+    second: Woman_Hadaka_44
+  - first:
+      213: 4341013099844354846
+    second: Woman_Hadaka_45
+  - first:
+      213: 7024012162744773525
+    second: Woman_Hadaka_46
+  - first:
+      213: -6877943645726365505
+    second: Woman_Hadaka_47
+  - first:
+      213: 2157237885540636227
+    second: Woman_Hadaka_48
+  - first:
+      213: -3689531212329024696
+    second: Woman_Hadaka_49
+  - first:
+      213: 1105041773201826618
+    second: Woman_Hadaka_50
+  - first:
+      213: 5810778440611083516
+    second: Woman_Hadaka_51
+  - first:
+      213: -2202324980171486894
+    second: Woman_Hadaka_52
+  - first:
+      213: 7906660606491460302
+    second: Woman_Hadaka_53
+  - first:
+      213: -4773019312434281031
+    second: Woman_Hadaka_54
+  - first:
+      213: 8760886881380146786
+    second: Woman_Hadaka_55
+  - first:
+      213: 3320621469473739534
+    second: Woman_Hadaka_56
+  - first:
+      213: -6423117884159458920
+    second: Woman_Hadaka_57
+  - first:
+      213: -3221473797121966505
+    second: Woman_Hadaka_58
+  - first:
+      213: -7226967721873485655
+    second: Woman_Hadaka_59
+  - first:
+      213: -3774948080860268714
+    second: Woman_Hadaka_60
+  - first:
+      213: -7702939758463400090
+    second: Woman_Hadaka_61
+  - first:
+      213: 2296565009782944679
+    second: Woman_Hadaka_62
+  - first:
+      213: -419009861693811822
+    second: Woman_Hadaka_63
+  - first:
+      213: -4718183530025537638
+    second: Woman_Hadaka_64
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Woman_Hadaka_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 503
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809b3fa32821eee00800000000000000
+      internalID: 1075817711532226824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 503
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da63724f1419c17f0800000000000000
+      internalID: -640477334538340691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 503
+        width: 380
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e739238ba6fb5f0800000000000000
+      internalID: -738754474510418406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_3
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 503
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a7648e8617f8a60800000000000000
+      internalID: 7678480585077455493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_4
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 503
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8b8c4046fecaf10800000000000000
+      internalID: 2282462324026030260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 431
+        width: 145
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151a26a49ef0d0330800000000000000
+      internalID: 3678613965281337681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_6
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 431
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bba82304591ccdd0800000000000000
+      internalID: -2464567047457559630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_7
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 431
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12f51864b8cd9770800000000000000
+      internalID: 8619265939022934554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_8
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 431
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c702c86fd6099d70800000000000000
+      internalID: 9050272482782742470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_9
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 431
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43f95ab76d0b8f50800000000000000
+      internalID: 6884611194525184844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_10
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 431
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bffd74b9e29b5990800000000000000
+      internalID: -7396156430572716103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_11
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 431
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a9c6e59211e5120800000000000000
+      internalID: 2404378120437930528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_12
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 431
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee16a68e69d5a4d10800000000000000
+      internalID: 2110602278102262254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_13
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 431
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b88f8cd0ead46bc0800000000000000
+      internalID: -3790664327031191372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_14
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 431
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc15d67ae1a367ce0800000000000000
+      internalID: -1407873930174311987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 359
+        width: 190
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d396d97d33740c0800000000000000
+      internalID: -4591644293929026160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_16
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 359
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e24b6b941ba8380800000000000000
+      internalID: -8968160777798930906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_17
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 359
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b31c28c82d5ca20800000000000000
+      internalID: 3082101020935928704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_18
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 359
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597915a7d1efbb7f0800000000000000
+      internalID: -595603123136784491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_19
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 359
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ef6f50993d80930800000000000000
+      internalID: 4109767314159107722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_20
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 359
+        width: 92
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca5236ccebca6cd0800000000000000
+      internalID: -2564012820036166963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_21
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 359
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f7b9b4254af4c40800000000000000
+      internalID: 5498794343405420342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_22
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 359
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d65568a85b499ff0800000000000000
+      internalID: -28909078446778665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_23
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 287
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d69237bc53c14b0800000000000000
+      internalID: -5468436699607896780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_24
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 287
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b1fdfc9f84811b0800000000000000
+      internalID: -5685714291783689363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_25
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 287
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eab7b2d39c850ae0800000000000000
+      internalID: -1583705127427523863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_26
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 287
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a6b603b031448d0800000000000000
+      internalID: -2863142524322878825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_27
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 287
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b5cc35924fcb470800000000000000
+      internalID: 8411866662357981983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_28
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 287
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd46e2e168ff2fca0800000000000000
+      internalID: -5984440003324910373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_29
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 287
+        width: 191
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc17fc5b927cf640800000000000000
+      internalID: 5115089288391236804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_30
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 287
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a89d2e45b50ee8e0800000000000000
+      internalID: -1662384936194303836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_31
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 287
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992883b09ae05c100800000000000000
+      internalID: 127524283650441881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 215
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7983b9d4203f15330800000000000000
+      internalID: 3698003960265390231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_33
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 215
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c1b37fbf47e90f0800000000000000
+      internalID: -1108319832753103818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_34
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 215
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5762a85a802341690800000000000000
+      internalID: -7632420455767726475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_35
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 215
+        width: 290
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbd44e0a55a223d0800000000000000
+      internalID: -3232839776293561356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_36
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 215
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c58ed4cc0712fe50800000000000000
+      internalID: 6841556127539168708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_37
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 215
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3114fa59e44b4da0800000000000000
+      internalID: -5959593912850706116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_38
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 215
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431b6061927e8b990800000000000000
+      internalID: -7369886626542603980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_39
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 143
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f8e93e6c49dd0b0800000000000000
+      internalID: -5702237971237924980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_40
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 143
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2958e96c631ab05d0800000000000000
+      internalID: -3095203062254500462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_41
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 143
+        width: 191
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec06effe64bf14400800000000000000
+      internalID: 306802531730612430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_42
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 143
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de269e309557a240800000000000000
+      internalID: 4802901605627604694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_43
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 143
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19783fe4cb131bc00800000000000000
+      internalID: 914566884181116817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_44
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 143
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31228cba265e33a30800000000000000
+      internalID: 4193947889963639315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_45
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 143
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e134a852a606e3c30800000000000000
+      internalID: 4341013099844354846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_46
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 143
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59bec62e8dd4a7160800000000000000
+      internalID: 7024012162744773525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_47
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 143
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb82353f1b2ac80a0800000000000000
+      internalID: -6877943645726365505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3461aa76d6c00fd10800000000000000
+      internalID: 2157237885540636227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_49
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 71
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843896d09e62cccc0800000000000000
+      internalID: -3689531212329024696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_50
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 71
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33a9a153a5e55f00800000000000000
+      internalID: 1105041773201826618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_51
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 71
+        width: 146
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf43f15743804a050800000000000000
+      internalID: 5810778440611083516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_52
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 71
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259c8e45915cf61e0800000000000000
+      internalID: -2202324980171486894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_53
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 71
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec28f792ee91abd60800000000000000
+      internalID: 7906660606491460302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_54
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 71
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b586405934d2cdb0800000000000000
+      internalID: -4773019312434281031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_55
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 71
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e1b02933ce49970800000000000000
+      internalID: 8760886881380146786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_56
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 71
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03948112a7351e20800000000000000
+      internalID: 3320621469473739534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_57
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 71
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8918734c0508cd6a0800000000000000
+      internalID: -6423117884159458920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_58
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ef05d46a60b43d0800000000000000
+      internalID: -3221473797121966505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_59
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a05486a527a4bb90800000000000000
+      internalID: -7226967721873485655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_60
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657f7c298b0bc9bc0800000000000000
+      internalID: -3774948080860268714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_61
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 290
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6674e820a19a91590800000000000000
+      internalID: -7702939758463400090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_62
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 0
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a334bb65b90fdf10800000000000000
+      internalID: 2296565009782944679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_63
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 0
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293da5430c06f2af0800000000000000
+      internalID: -419009861693811822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Hadaka_64
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 0
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9faab3d315a58eb0800000000000000
+      internalID: -4718183530025537638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Woman_Hadaka_0: 1075817711532226824
+      Woman_Hadaka_1: -640477334538340691
+      Woman_Hadaka_10: -7396156430572716103
+      Woman_Hadaka_11: 2404378120437930528
+      Woman_Hadaka_12: 2110602278102262254
+      Woman_Hadaka_13: -3790664327031191372
+      Woman_Hadaka_14: -1407873930174311987
+      Woman_Hadaka_15: -4591644293929026160
+      Woman_Hadaka_16: -8968160777798930906
+      Woman_Hadaka_17: 3082101020935928704
+      Woman_Hadaka_18: -595603123136784491
+      Woman_Hadaka_19: 4109767314159107722
+      Woman_Hadaka_2: -738754474510418406
+      Woman_Hadaka_20: -2564012820036166963
+      Woman_Hadaka_21: 5498794343405420342
+      Woman_Hadaka_22: -28909078446778665
+      Woman_Hadaka_23: -5468436699607896780
+      Woman_Hadaka_24: -5685714291783689363
+      Woman_Hadaka_25: -1583705127427523863
+      Woman_Hadaka_26: -2863142524322878825
+      Woman_Hadaka_27: 8411866662357981983
+      Woman_Hadaka_28: -5984440003324910373
+      Woman_Hadaka_29: 5115089288391236804
+      Woman_Hadaka_3: 7678480585077455493
+      Woman_Hadaka_30: -1662384936194303836
+      Woman_Hadaka_31: 127524283650441881
+      Woman_Hadaka_32: 3698003960265390231
+      Woman_Hadaka_33: -1108319832753103818
+      Woman_Hadaka_34: -7632420455767726475
+      Woman_Hadaka_35: -3232839776293561356
+      Woman_Hadaka_36: 6841556127539168708
+      Woman_Hadaka_37: -5959593912850706116
+      Woman_Hadaka_38: -7369886626542603980
+      Woman_Hadaka_39: -5702237971237924980
+      Woman_Hadaka_4: 2282462324026030260
+      Woman_Hadaka_40: -3095203062254500462
+      Woman_Hadaka_41: 306802531730612430
+      Woman_Hadaka_42: 4802901605627604694
+      Woman_Hadaka_43: 914566884181116817
+      Woman_Hadaka_44: 4193947889963639315
+      Woman_Hadaka_45: 4341013099844354846
+      Woman_Hadaka_46: 7024012162744773525
+      Woman_Hadaka_47: -6877943645726365505
+      Woman_Hadaka_48: 2157237885540636227
+      Woman_Hadaka_49: -3689531212329024696
+      Woman_Hadaka_5: 3678613965281337681
+      Woman_Hadaka_50: 1105041773201826618
+      Woman_Hadaka_51: 5810778440611083516
+      Woman_Hadaka_52: -2202324980171486894
+      Woman_Hadaka_53: 7906660606491460302
+      Woman_Hadaka_54: -4773019312434281031
+      Woman_Hadaka_55: 8760886881380146786
+      Woman_Hadaka_56: 3320621469473739534
+      Woman_Hadaka_57: -6423117884159458920
+      Woman_Hadaka_58: -3221473797121966505
+      Woman_Hadaka_59: -7226967721873485655
+      Woman_Hadaka_6: -2464567047457559630
+      Woman_Hadaka_60: -3774948080860268714
+      Woman_Hadaka_61: -7702939758463400090
+      Woman_Hadaka_62: 2296565009782944679
+      Woman_Hadaka_63: -419009861693811822
+      Woman_Hadaka_64: -4718183530025537638
+      Woman_Hadaka_7: 8619265939022934554
+      Woman_Hadaka_8: 9050272482782742470
+      Woman_Hadaka_9: 6884611194525184844
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

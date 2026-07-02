@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: 7b407f23c276f7e49b08cd5934a5ff7f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8978861551105458674
+    second: '!Mizugi_0'
+  - first:
+      213: -4363838332144737574
+    second: '!Mizugi_1'
+  - first:
+      213: -1455357962909280072
+    second: '!Mizugi_2'
+  - first:
+      213: 632711706718626608
+    second: '!Mizugi_3'
+  - first:
+      213: -8168124016747247015
+    second: '!Mizugi_4'
+  - first:
+      213: 7195549027051905009
+    second: '!Mizugi_5'
+  - first:
+      213: -6646670508988293006
+    second: '!Mizugi_6'
+  - first:
+      213: -2837711976234995689
+    second: '!Mizugi_7'
+  - first:
+      213: 5269993633523151169
+    second: '!Mizugi_8'
+  - first:
+      213: 1767370581699081900
+    second: '!Mizugi_9'
+  - first:
+      213: -5976886891484017271
+    second: '!Mizugi_10'
+  - first:
+      213: -565268103587180090
+    second: '!Mizugi_11'
+  - first:
+      213: -2881498109505568282
+    second: '!Mizugi_12'
+  - first:
+      213: -1918902278153786207
+    second: '!Mizugi_13'
+  - first:
+      213: 6573794193676097456
+    second: '!Mizugi_14'
+  - first:
+      213: -5057161549120988934
+    second: '!Mizugi_15'
+  - first:
+      213: -1577845781153414919
+    second: '!Mizugi_16'
+  - first:
+      213: -1628302289213428941
+    second: '!Mizugi_17'
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '!Mizugi_0'
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 503
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1cd0932035b9c70800000000000000
+      internalID: 8978861551105458674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Mizugi_1'
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 503
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2a74358288073c0800000000000000
+      internalID: -4363838332144737574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Mizugi_2'
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 503
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b891cfb4a78dcbe0800000000000000
+      internalID: -1455357962909280072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Mizugi_3'
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 527
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033e13ce1f7d7c800800000000000000
+      internalID: 632711706718626608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Mizugi_4'
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 503
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a817cbb7ef4ae80800000000000000
+      internalID: -8168124016747247015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Mizugi_5'
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 503
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff165967b9bbd360800000000000000
+      internalID: 7195549027051905009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Mizugi_6'
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 431
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27020bc336842c3a0800000000000000
+      internalID: -6646670508988293006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Mizugi_7'
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 431
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71034a11efb6e98d0800000000000000
+      internalID: -2837711976234995689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Mizugi_8'
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 431
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141b7beb947c22940800000000000000
+      internalID: 5269993633523151169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Mizugi_9'
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 431
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca636ac1e26f68810800000000000000
+      internalID: 1767370581699081900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Mizugi_10'
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 359
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d08620a05dd0da0800000000000000
+      internalID: -5976886891484017271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Mizugi_11'
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 359
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1d3da97a3c728f0800000000000000
+      internalID: -565268103587180090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Mizugi_12'
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 359
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e106f97cbcd208d0800000000000000
+      internalID: -2881498109505568282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Mizugi_13'
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 359
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aca4f77b80be55e0800000000000000
+      internalID: -1918902278153786207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Mizugi_14'
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 287
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7d69c5dfeca3b50800000000000000
+      internalID: 6573794193676097456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Mizugi_15'
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 287
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af811e47d5a51d9b0800000000000000
+      internalID: -5057161549120988934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Mizugi_16'
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 287
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f080003f9d5a1ae0800000000000000
+      internalID: -1577845781153414919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Mizugi_17'
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 287
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b6a70f1bb1769e0800000000000000
+      internalID: -1628302289213428941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      '!Mizugi_0': 8978861551105458674
+      '!Mizugi_1': -4363838332144737574
+      '!Mizugi_10': -5976886891484017271
+      '!Mizugi_11': -565268103587180090
+      '!Mizugi_12': -2881498109505568282
+      '!Mizugi_13': -1918902278153786207
+      '!Mizugi_14': 6573794193676097456
+      '!Mizugi_15': -5057161549120988934
+      '!Mizugi_16': -1577845781153414919
+      '!Mizugi_17': -1628302289213428941
+      '!Mizugi_2': -1455357962909280072
+      '!Mizugi_3': 632711706718626608
+      '!Mizugi_4': -8168124016747247015
+      '!Mizugi_5': 7195549027051905009
+      '!Mizugi_6': -6646670508988293006
+      '!Mizugi_7': -2837711976234995689
+      '!Mizugi_8': 5269993633523151169
+      '!Mizugi_9': 1767370581699081900
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

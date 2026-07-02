@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: f4351580c78d5ee4bb7da6b4e8609006
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1351200959946644111
+    second: $Ev5CpR_0
+  - first:
+      213: -7770384860422472872
+    second: $Ev5CpR_1
+  - first:
+      213: -3718449678161148012
+    second: $Ev5CpR_2
+  - first:
+      213: -8034374813423118403
+    second: $Ev5CpR_3
+  - first:
+      213: -5736075557602487682
+    second: $Ev5CpR_4
+  - first:
+      213: 7213887944707181246
+    second: $Ev5CpR_5
+  - first:
+      213: 909007523074038454
+    second: $Ev5CpR_6
+  - first:
+      213: -5803477126805961684
+    second: $Ev5CpR_7
+  - first:
+      213: -4328670062655754482
+    second: $Ev5CpR_8
+  - first:
+      213: 6853377763505204841
+    second: $Ev5CpR_9
+  - first:
+      213: -3633903073300846796
+    second: $Ev5CpR_10
+  - first:
+      213: -5712607185440138509
+    second: $Ev5CpR_11
+  - first:
+      213: -1080699940146225196
+    second: $Ev5CpR_12
+  - first:
+      213: -4223995629587107810
+    second: $Ev5CpR_13
+  - first:
+      213: -1639808317505010718
+    second: $Ev5CpR_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: $Ev5CpR_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 95
+        width: 56
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175a63ac2e19f3de0800000000000000
+      internalID: -1351200959946644111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $Ev5CpR_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 95
+        width: 56
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85bf172832c0a2490800000000000000
+      internalID: -7770384860422472872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $Ev5CpR_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 95
+        width: 56
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4970a0a08b9656cc0800000000000000
+      internalID: -3718449678161148012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $Ev5CpR_3
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 95
+        width: 56
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7d195dcaa208090800000000000000
+      internalID: -8034374813423118403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $Ev5CpR_4
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 95
+        width: 56
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e729d40ebad5560b0800000000000000
+      internalID: -5736075557602487682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $Ev5CpR_5
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 95
+        width: 56
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba8eb96dd0ec1460800000000000000
+      internalID: 7213887944707181246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $Ev5CpR_6
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 95
+        width: 56
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba5cfea6817d9c00800000000000000
+      internalID: 909007523074038454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $Ev5CpR_7
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 95
+        width: 56
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2440a22d48e57fa0800000000000000
+      internalID: -5803477126805961684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $Ev5CpR_8
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 95
+        width: 56
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f298523897de3c0800000000000000
+      internalID: -4328670062655754482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $Ev5CpR_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 77
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ee941e3c61c1f50800000000000000
+      internalID: 6853377763505204841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $Ev5CpR_10
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 138
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437e3b77868c19dc0800000000000000
+      internalID: -3633903073300846796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $Ev5CpR_11
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 77
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa1f72180eb8b0b0800000000000000
+      internalID: -5712607185440138509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $Ev5CpR_12
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 0
+        width: 138
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df5cc651259001f0800000000000000
+      internalID: -1080699940146225196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $Ev5CpR_13
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 77
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1078a5ca5a5165c0800000000000000
+      internalID: -4223995629587107810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $Ev5CpR_14
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 0
+        width: 138
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e30267f50b3e39e0800000000000000
+      internalID: -1639808317505010718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      $Ev5CpR_0: -1351200959946644111
+      $Ev5CpR_1: -7770384860422472872
+      $Ev5CpR_10: -3633903073300846796
+      $Ev5CpR_11: -5712607185440138509
+      $Ev5CpR_12: -1080699940146225196
+      $Ev5CpR_13: -4223995629587107810
+      $Ev5CpR_14: -1639808317505010718
+      $Ev5CpR_2: -3718449678161148012
+      $Ev5CpR_3: -8034374813423118403
+      $Ev5CpR_4: -5736075557602487682
+      $Ev5CpR_5: 7213887944707181246
+      $Ev5CpR_6: 909007523074038454
+      $Ev5CpR_7: -5803477126805961684
+      $Ev5CpR_8: -4328670062655754482
+      $Ev5CpR_9: 6853377763505204841
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

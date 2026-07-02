@@ -1,0 +1,2210 @@
+fileFormatVersion: 2
+guid: 6cefd735f65cd46489253454ec290b22
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3920276533558980454
+    second: kemuri4_0
+  - first:
+      213: 7213298820048657878
+    second: kemuri4_1
+  - first:
+      213: 6368694526588102355
+    second: kemuri4_2
+  - first:
+      213: -5229002709200297057
+    second: kemuri4_3
+  - first:
+      213: 3371345052761739603
+    second: kemuri4_4
+  - first:
+      213: -141949519507925949
+    second: kemuri4_5
+  - first:
+      213: 2389460929344318385
+    second: kemuri4_6
+  - first:
+      213: -4334349962142529042
+    second: kemuri4_7
+  - first:
+      213: 8645053819305745583
+    second: kemuri4_8
+  - first:
+      213: 4715065812241403819
+    second: kemuri4_9
+  - first:
+      213: 8414367489486527160
+    second: kemuri4_10
+  - first:
+      213: -8068913405435729755
+    second: kemuri4_11
+  - first:
+      213: 2216983154679621474
+    second: kemuri4_12
+  - first:
+      213: -8312392055743081611
+    second: kemuri4_13
+  - first:
+      213: 5425960153330083997
+    second: kemuri4_14
+  - first:
+      213: -1281714880884524428
+    second: kemuri4_15
+  - first:
+      213: 5107198325995526675
+    second: kemuri4_16
+  - first:
+      213: -8681352991915008108
+    second: kemuri4_17
+  - first:
+      213: 4143452630113108809
+    second: kemuri4_18
+  - first:
+      213: 9092218018919279709
+    second: kemuri4_19
+  - first:
+      213: -743723311790868731
+    second: kemuri4_20
+  - first:
+      213: 2375561411395686086
+    second: kemuri4_21
+  - first:
+      213: -8151907529142324157
+    second: kemuri4_22
+  - first:
+      213: -5630970405899355456
+    second: kemuri4_23
+  - first:
+      213: 262616706947878287
+    second: kemuri4_24
+  - first:
+      213: 4745391768118064181
+    second: kemuri4_25
+  - first:
+      213: 2033608186817451584
+    second: kemuri4_26
+  - first:
+      213: -7075700876942216369
+    second: kemuri4_27
+  - first:
+      213: -3009790055375532954
+    second: kemuri4_28
+  - first:
+      213: 386342550602854269
+    second: kemuri4_29
+  - first:
+      213: 8185388987107094469
+    second: kemuri4_30
+  - first:
+      213: -1121339736142463828
+    second: kemuri4_31
+  - first:
+      213: 7958762183418248042
+    second: kemuri4_32
+  - first:
+      213: 987696393249907370
+    second: kemuri4_33
+  - first:
+      213: 3922661764424971061
+    second: kemuri4_34
+  - first:
+      213: 6105329066895235802
+    second: kemuri4_35
+  - first:
+      213: 5906403315105647449
+    second: kemuri4_36
+  - first:
+      213: 1670702026877250915
+    second: kemuri4_37
+  - first:
+      213: 8468492859682470258
+    second: kemuri4_38
+  - first:
+      213: 8252471505355481080
+    second: kemuri4_39
+  - first:
+      213: -881839147077832939
+    second: kemuri4_40
+  - first:
+      213: -2795669239575026320
+    second: kemuri4_41
+  - first:
+      213: 4217697108432540087
+    second: kemuri4_42
+  - first:
+      213: 2093021174310389265
+    second: kemuri4_43
+  - first:
+      213: 2105133039907721456
+    second: kemuri4_44
+  - first:
+      213: 3600688929741310164
+    second: kemuri4_45
+  - first:
+      213: 8931212292998175989
+    second: kemuri4_46
+  - first:
+      213: -4648087314545712322
+    second: kemuri4_47
+  - first:
+      213: 7099356861664976281
+    second: kemuri4_48
+  - first:
+      213: 3377192375865351296
+    second: kemuri4_49
+  - first:
+      213: 8053768272992179660
+    second: kemuri4_50
+  - first:
+      213: 1006424454615872280
+    second: kemuri4_51
+  - first:
+      213: 3265941469463808537
+    second: kemuri4_52
+  - first:
+      213: -2396606993727672138
+    second: kemuri4_53
+  - first:
+      213: 1720686205133705694
+    second: kemuri4_54
+  - first:
+      213: -3710156835941740207
+    second: kemuri4_55
+  - first:
+      213: -1879235645560062412
+    second: kemuri4_56
+  - first:
+      213: -5406513981830576693
+    second: kemuri4_57
+  - first:
+      213: 3064410560818829661
+    second: kemuri4_58
+  - first:
+      213: 6446339884498596018
+    second: kemuri4_59
+  - first:
+      213: 140088009084048501
+    second: kemuri4_60
+  - first:
+      213: 3149805684533443220
+    second: kemuri4_61
+  - first:
+      213: 1534304524431504883
+    second: kemuri4_62
+  - first:
+      213: 6797477016830893594
+    second: kemuri4_63
+  - first:
+      213: 2911799806291265449
+    second: kemuri4_64
+  - first:
+      213: 4011346519445460156
+    second: kemuri4_65
+  - first:
+      213: 150055499575850884
+    second: kemuri4_66
+  - first:
+      213: -458817752582625587
+    second: kemuri4_67
+  - first:
+      213: -4607056206159905218
+    second: kemuri4_68
+  - first:
+      213: 5207331279531343423
+    second: kemuri4_69
+  - first:
+      213: -6340752911199156656
+    second: kemuri4_70
+  - first:
+      213: -4418310555278742441
+    second: kemuri4_71
+  - first:
+      213: -7558223152810439962
+    second: kemuri4_72
+  - first:
+      213: 6983294529196575427
+    second: kemuri4_73
+  - first:
+      213: 4465964917454549250
+    second: kemuri4_74
+  - first:
+      213: 7032926019841793402
+    second: kemuri4_75
+  - first:
+      213: -6474439560164936338
+    second: kemuri4_76
+  - first:
+      213: 4023364498852552882
+    second: kemuri4_77
+  - first:
+      213: -3533861606017652995
+    second: kemuri4_78
+  - first:
+      213: 8114005364689481909
+    second: kemuri4_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kemuri4_0
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 668
+        width: 46
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f251c9cbe976630800000000000000
+      internalID: 3920276533558980454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_1
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 663
+        width: 64
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd9eb32f09ca1460800000000000000
+      internalID: 7213298820048657878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_2
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 628
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6224cdde5226850800000000000000
+      internalID: 6368694526588102355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_3
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 602
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93af8c8db9de67b0800000000000000
+      internalID: -5229002709200297057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_4
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 608
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351522d967c69ce20800000000000000
+      internalID: 3371345052761739603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_5
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 607
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34451b10aa1b70ef0800000000000000
+      internalID: -141949519507925949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_6
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 605
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb2e3a2e02192120800000000000000
+      internalID: 2389460929344318385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_7
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 598
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9444e7cab49d3c0800000000000000
+      internalID: -4334349962142529042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_8
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 596
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac5adb25a669f770800000000000000
+      internalID: 8645053819305745583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_9
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 573
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bafcc3fef574f6140800000000000000
+      internalID: 4715065812241403819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_10
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 558
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba907486a6d5c470800000000000000
+      internalID: 8414367489486527160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_11
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 591
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8ad993206750090800000000000000
+      internalID: -8068913405435729755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_12
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 548
+        width: 87
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26724bfde6e44ce10800000000000000
+      internalID: 2216983154679621474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_13
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 578
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57397ab577374ac80800000000000000
+      internalID: -8312392055743081611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_14
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 561
+        width: 50
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98e9a0f202ec4b40800000000000000
+      internalID: 5425960153330083997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_15
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 556
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47abb8d4b1f663ee0800000000000000
+      internalID: -1281714880884524428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_16
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 561
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ade6281d960e640800000000000000
+      internalID: 5107198325995526675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_17
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 566
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f912b1373a58780800000000000000
+      internalID: -8681352991915008108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_18
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 566
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943cc81d630808930800000000000000
+      internalID: 4143452630113108809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_19
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 551
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ce6169d1c0e2e70800000000000000
+      internalID: 9092218018919279709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_20
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 541
+        width: 54
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507378d9693cda5f0800000000000000
+      internalID: -743723311790868731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_21
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 555
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce8d547480b7f020800000000000000
+      internalID: 2375561411395686086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_22
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 516
+        width: 97
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344b3abfa4b9ede80800000000000000
+      internalID: -8151907529142324157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_23
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 533
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cab1afff36cad1b0800000000000000
+      internalID: -5630970405899355456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_24
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 546
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d06b9e08005a300800000000000000
+      internalID: 262616706947878287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_25
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 123
+        width: 632
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5347db2cba40bd140800000000000000
+      internalID: 4745391768118064181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_26
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 523
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04694931fd3d83c10800000000000000
+      internalID: 2033608186817451584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_27
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 539
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4370f48a8f0ecd90800000000000000
+      internalID: -7075700876942216369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_28
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 503
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c86d424e31b36d0800000000000000
+      internalID: -3009790055375532954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_29
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 518
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f2d4ab0809c5500800000000000000
+      internalID: 386342550602854269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_30
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 517
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cfa9ec6ae7589170800000000000000
+      internalID: 8185388987107094469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_31
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 526
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cacb2ba73733070f0800000000000000
+      internalID: -1121339736142463828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_32
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 512
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6bf47ad904337e60800000000000000
+      internalID: 7958762183418248042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_33
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 503
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa26899f2a005bd00800000000000000
+      internalID: 987696393249907370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_34
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 508
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533be827718107630800000000000000
+      internalID: 3922661764424971061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_35
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 507
+        width: 36
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada582d507c7ab450800000000000000
+      internalID: 6105329066895235802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_36
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 489
+        width: 40
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95bcf098582c7f150800000000000000
+      internalID: 5906403315105647449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_37
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 491
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d2b8544a68f2710800000000000000
+      internalID: 1670702026877250915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_38
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 477
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2793e4c4361268570800000000000000
+      internalID: 8468492859682470258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_39
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 501
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff1fb35c1ba68270800000000000000
+      internalID: 8252471505355481080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_40
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 486
+        width: 64
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f6469c7f313c3f0800000000000000
+      internalID: -881839147077832939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_41
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 484
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075e4a183a9c339d0800000000000000
+      internalID: -2795669239575026320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_42
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 472
+        width: 68
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1505e7c25488a30800000000000000
+      internalID: 4217697108432540087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_43
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 491
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11644223ba7eb0d10800000000000000
+      internalID: 2093021174310389265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_44
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 480
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f053a8a85fe63d10800000000000000
+      internalID: 2105133039907721456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_45
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 469
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d889eb118738f130800000000000000
+      internalID: 3600688929741310164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_46
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 147
+        width: 558
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc12c9c24a02fb70800000000000000
+      internalID: 8931212292998175989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_47
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 479
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33e08bc63dae7fb0800000000000000
+      internalID: -4648087314545712322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_48
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 274
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99dd541a37bf58260800000000000000
+      internalID: 7099356861664976281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_49
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 215
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c9c9d92923ede20800000000000000
+      internalID: 3377192375865351296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_50
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 133
+        width: 210
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc59207d29bb4cf60800000000000000
+      internalID: 8053768272992179660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_51
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 166
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81335ae85b987fd00800000000000000
+      internalID: 1006424454615872280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_52
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 166
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a8b987674f25d20800000000000000
+      internalID: 3265941469463808537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_53
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 167
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b035a013aa8dbed0800000000000000
+      internalID: -2396606993727672138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_54
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 167
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1d8eaacfa11e710800000000000000
+      internalID: 1720686205133705694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_55
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 149
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15194b4d300e28cc0800000000000000
+      internalID: -3710156835941740207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_56
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 144
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ef321132d9be5e0800000000000000
+      internalID: -1879235645560062412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_57
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 146
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc54ecfad2438f4b0800000000000000
+      internalID: -5406513981830576693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_58
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 147
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59df8b4b29f68a20800000000000000
+      internalID: 3064410560818829661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_59
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 148
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0b8f488fff57950800000000000000
+      internalID: 6446339884498596018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_60
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 149
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5741fb25d41b1f100800000000000000
+      internalID: 140088009084048501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_61
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 150
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a3f1ae49b56bb20800000000000000
+      internalID: 3149805684533443220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_62
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 151
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5b30cf5d1fa4510800000000000000
+      internalID: 1534304524431504883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_63
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 152
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e561d055d755e50800000000000000
+      internalID: 6797477016830893594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_64
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 156
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7ca071f7ac86820800000000000000
+      internalID: 2911799806291265449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_65
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 122
+        width: 152
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4db8a086a2ba730800000000000000
+      internalID: 4011346519445460156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_66
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 139
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487ffcc8eaa151200800000000000000
+      internalID: 150055499575850884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_67
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 139
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc66ba85fa3f1a9f0800000000000000
+      internalID: -458817752582625587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_68
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 144
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e749b2ac27010c0800000000000000
+      internalID: -4607056206159905218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_69
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 140
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3efe388538244840800000000000000
+      internalID: 5207331279531343423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_70
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 146
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056437f62de1108a0800000000000000
+      internalID: -6340752911199156656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_71
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 143
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c604d85f10fa2c0800000000000000
+      internalID: -4418310555278742441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_72
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 143
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eac993761ccb1790800000000000000
+      internalID: -7558223152810439962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_73
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 120
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cac0be0065a9e060800000000000000
+      internalID: 6983294529196575427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_74
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 134
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2013c344e6b4afd30800000000000000
+      internalID: 4465964917454549250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_75
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 138
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d9548f3f8f99160800000000000000
+      internalID: 7032926019841793402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_76
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 119
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65f1a8e58b2626a0800000000000000
+      internalID: -6474439560164936338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_77
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 118
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0260ce1bcd5d730800000000000000
+      internalID: 4023364498852552882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_78
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 119
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df62defa79335fec0800000000000000
+      internalID: -3533861606017652995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kemuri4_79
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 119
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b03eeba3ecba9070800000000000000
+      internalID: 8114005364689481909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      kemuri4_0: 3920276533558980454
+      kemuri4_1: 7213298820048657878
+      kemuri4_10: 8414367489486527160
+      kemuri4_11: -8068913405435729755
+      kemuri4_12: 2216983154679621474
+      kemuri4_13: -8312392055743081611
+      kemuri4_14: 5425960153330083997
+      kemuri4_15: -1281714880884524428
+      kemuri4_16: 5107198325995526675
+      kemuri4_17: -8681352991915008108
+      kemuri4_18: 4143452630113108809
+      kemuri4_19: 9092218018919279709
+      kemuri4_2: 6368694526588102355
+      kemuri4_20: -743723311790868731
+      kemuri4_21: 2375561411395686086
+      kemuri4_22: -8151907529142324157
+      kemuri4_23: -5630970405899355456
+      kemuri4_24: 262616706947878287
+      kemuri4_25: 4745391768118064181
+      kemuri4_26: 2033608186817451584
+      kemuri4_27: -7075700876942216369
+      kemuri4_28: -3009790055375532954
+      kemuri4_29: 386342550602854269
+      kemuri4_3: -5229002709200297057
+      kemuri4_30: 8185388987107094469
+      kemuri4_31: -1121339736142463828
+      kemuri4_32: 7958762183418248042
+      kemuri4_33: 987696393249907370
+      kemuri4_34: 3922661764424971061
+      kemuri4_35: 6105329066895235802
+      kemuri4_36: 5906403315105647449
+      kemuri4_37: 1670702026877250915
+      kemuri4_38: 8468492859682470258
+      kemuri4_39: 8252471505355481080
+      kemuri4_4: 3371345052761739603
+      kemuri4_40: -881839147077832939
+      kemuri4_41: -2795669239575026320
+      kemuri4_42: 4217697108432540087
+      kemuri4_43: 2093021174310389265
+      kemuri4_44: 2105133039907721456
+      kemuri4_45: 3600688929741310164
+      kemuri4_46: 8931212292998175989
+      kemuri4_47: -4648087314545712322
+      kemuri4_48: 7099356861664976281
+      kemuri4_49: 3377192375865351296
+      kemuri4_5: -141949519507925949
+      kemuri4_50: 8053768272992179660
+      kemuri4_51: 1006424454615872280
+      kemuri4_52: 3265941469463808537
+      kemuri4_53: -2396606993727672138
+      kemuri4_54: 1720686205133705694
+      kemuri4_55: -3710156835941740207
+      kemuri4_56: -1879235645560062412
+      kemuri4_57: -5406513981830576693
+      kemuri4_58: 3064410560818829661
+      kemuri4_59: 6446339884498596018
+      kemuri4_6: 2389460929344318385
+      kemuri4_60: 140088009084048501
+      kemuri4_61: 3149805684533443220
+      kemuri4_62: 1534304524431504883
+      kemuri4_63: 6797477016830893594
+      kemuri4_64: 2911799806291265449
+      kemuri4_65: 4011346519445460156
+      kemuri4_66: 150055499575850884
+      kemuri4_67: -458817752582625587
+      kemuri4_68: -4607056206159905218
+      kemuri4_69: 5207331279531343423
+      kemuri4_7: -4334349962142529042
+      kemuri4_70: -6340752911199156656
+      kemuri4_71: -4418310555278742441
+      kemuri4_72: -7558223152810439962
+      kemuri4_73: 6983294529196575427
+      kemuri4_74: 4465964917454549250
+      kemuri4_75: 7032926019841793402
+      kemuri4_76: -6474439560164936338
+      kemuri4_77: 4023364498852552882
+      kemuri4_78: -3533861606017652995
+      kemuri4_79: 8114005364689481909
+      kemuri4_8: 8645053819305745583
+      kemuri4_9: 4715065812241403819
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

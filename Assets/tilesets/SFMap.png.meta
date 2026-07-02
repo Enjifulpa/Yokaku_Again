@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: 62fbd7e4bae6c744cb61fb8878204534
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5039446327920360946
+    second: SFMap_0
+  - first:
+      213: 4383382594580110648
+    second: SFMap_1
+  - first:
+      213: 4544838918958743858
+    second: SFMap_2
+  - first:
+      213: 8062782966784102264
+    second: SFMap_3
+  - first:
+      213: 4758128676899927343
+    second: SFMap_4
+  - first:
+      213: -9061753239203389911
+    second: SFMap_5
+  - first:
+      213: 5708030786350694979
+    second: SFMap_6
+  - first:
+      213: 3843698736764892317
+    second: SFMap_7
+  - first:
+      213: -3935015691334015042
+    second: SFMap_8
+  - first:
+      213: 7085805133520269443
+    second: SFMap_9
+  - first:
+      213: -3014357010816320450
+    second: SFMap_10
+  - first:
+      213: 2476587241611337601
+    second: SFMap_11
+  - first:
+      213: 1052197841256975476
+    second: SFMap_12
+  - first:
+      213: -9075381061762098661
+    second: SFMap_13
+  - first:
+      213: 3806504440290457722
+    second: SFMap_14
+  - first:
+      213: 9087275371977858602
+    second: SFMap_15
+  - first:
+      213: 1364254483878020943
+    second: SFMap_16
+  - first:
+      213: 3186202000750051144
+    second: SFMap_17
+  - first:
+      213: -1213166244315168292
+    second: SFMap_18
+  - first:
+      213: -9185892608093163726
+    second: SFMap_19
+  - first:
+      213: -6622998572375369230
+    second: SFMap_20
+  - first:
+      213: 6183292494752466726
+    second: SFMap_21
+  - first:
+      213: -7599901877501810080
+    second: SFMap_22
+  - first:
+      213: -2704104751174369580
+    second: SFMap_23
+  - first:
+      213: -7031400966785776120
+    second: SFMap_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SFMap_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 638
+        width: 83
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0209afc34a401ab0800000000000000
+      internalID: -5039446327920360946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFMap_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 719
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83dd390ee37e4dc30800000000000000
+      internalID: 4383382594580110648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFMap_2
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 575
+        width: 83
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23108edcae2821f30800000000000000
+      internalID: 4544838918958743858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFMap_3
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 722
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f8c3cc362c4ef60800000000000000
+      internalID: 8062782966784102264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFMap_4
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 335
+        width: 433
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25383e62d4480240800000000000000
+      internalID: 4758128676899927343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFMap_5
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 677
+        width: 95
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e590fa07f2e3280800000000000000
+      internalID: -9061753239203389911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFMap_6
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 674
+        width: 143
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3424d6bf1cff63f40800000000000000
+      internalID: 5708030786350694979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFMap_7
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 623
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d943d74e2af875530800000000000000
+      internalID: 3843698736764892317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFMap_8
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 623
+        width: 89
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7a27cc3140469c0800000000000000
+      internalID: -3935015691334015042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFMap_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 527
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3807d1b0a36d55260800000000000000
+      internalID: 7085805133520269443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFMap_10
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 527
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3cb518f44ada26d0800000000000000
+      internalID: -3014357010816320450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFMap_11
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 527
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f128789fa9e5220800000000000000
+      internalID: 2476587241611337601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFMap_12
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 527
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c0e81ac582a9e00800000000000000
+      internalID: 1052197841256975476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFMap_13
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 536
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1adc5cf105cd0280800000000000000
+      internalID: -9075381061762098661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFMap_14
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 347
+        width: 92
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78b577ee9b63d430800000000000000
+      internalID: 3806504440290457722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFMap_15
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 47
+        width: 193
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e55eaedcc7c1e70800000000000000
+      internalID: 9087275371977858602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFMap_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 488
+        width: 89
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4788c6993ecee210800000000000000
+      internalID: 1364254483878020943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFMap_17
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 449
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f7855a6d9a73c20800000000000000
+      internalID: 3186202000750051144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFMap_18
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 338
+        width: 65
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1891a7ab7f92fe0800000000000000
+      internalID: -1213166244315168292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFMap_19
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 434
+        width: 68
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f68b58757258080800000000000000
+      internalID: -9185892608093163726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFMap_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 502
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f995a973e16614a0800000000000000
+      internalID: -6622998572375369230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFMap_21
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 287
+        width: 140
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6274f0473c77fc550800000000000000
+      internalID: 6183292494752466726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFMap_22
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 101
+        width: 221
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a2ea72289b78690800000000000000
+      internalID: -7599901877501810080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFMap_23
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 0
+        width: 131
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de3ec64e07197ad0800000000000000
+      internalID: -2704104751174369580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFMap_24
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 0
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806456d13127b6e90800000000000000
+      internalID: -7031400966785776120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SFMap_0: -5039446327920360946
+      SFMap_1: 4383382594580110648
+      SFMap_10: -3014357010816320450
+      SFMap_11: 2476587241611337601
+      SFMap_12: 1052197841256975476
+      SFMap_13: -9075381061762098661
+      SFMap_14: 3806504440290457722
+      SFMap_15: 9087275371977858602
+      SFMap_16: 1364254483878020943
+      SFMap_17: 3186202000750051144
+      SFMap_18: -1213166244315168292
+      SFMap_19: -9185892608093163726
+      SFMap_2: 4544838918958743858
+      SFMap_20: -6622998572375369230
+      SFMap_21: 6183292494752466726
+      SFMap_22: -7599901877501810080
+      SFMap_23: -2704104751174369580
+      SFMap_24: -7031400966785776120
+      SFMap_3: 8062782966784102264
+      SFMap_4: 4758128676899927343
+      SFMap_5: -9061753239203389911
+      SFMap_6: 5708030786350694979
+      SFMap_7: 3843698736764892317
+      SFMap_8: -3935015691334015042
+      SFMap_9: 7085805133520269443
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

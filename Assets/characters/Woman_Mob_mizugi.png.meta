@@ -1,0 +1,2574 @@
+fileFormatVersion: 2
+guid: a0c7e618ba8dda544b7030193dc70bef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2248497947740001971
+    second: Woman_Mob_mizugi_0
+  - first:
+      213: -5970079765993367893
+    second: Woman_Mob_mizugi_1
+  - first:
+      213: 7686208245262355774
+    second: Woman_Mob_mizugi_2
+  - first:
+      213: -2126177395576397109
+    second: Woman_Mob_mizugi_3
+  - first:
+      213: -4172560434641442555
+    second: Woman_Mob_mizugi_4
+  - first:
+      213: 5553673938029719969
+    second: Woman_Mob_mizugi_5
+  - first:
+      213: 1377021167678791472
+    second: Woman_Mob_mizugi_6
+  - first:
+      213: -2238094633286183783
+    second: Woman_Mob_mizugi_7
+  - first:
+      213: -8918761852569887381
+    second: Woman_Mob_mizugi_8
+  - first:
+      213: -1867105569780900264
+    second: Woman_Mob_mizugi_9
+  - first:
+      213: -4865067244511552092
+    second: Woman_Mob_mizugi_10
+  - first:
+      213: 3761001822437163309
+    second: Woman_Mob_mizugi_11
+  - first:
+      213: -6381195620950696575
+    second: Woman_Mob_mizugi_12
+  - first:
+      213: 6281292280555516933
+    second: Woman_Mob_mizugi_13
+  - first:
+      213: -1065984595902361871
+    second: Woman_Mob_mizugi_14
+  - first:
+      213: -5215042032006211566
+    second: Woman_Mob_mizugi_15
+  - first:
+      213: 3001242946385589618
+    second: Woman_Mob_mizugi_16
+  - first:
+      213: -3358740103680412371
+    second: Woman_Mob_mizugi_17
+  - first:
+      213: 4885319055834773095
+    second: Woman_Mob_mizugi_18
+  - first:
+      213: -993812582443289462
+    second: Woman_Mob_mizugi_19
+  - first:
+      213: 7098000288450586468
+    second: Woman_Mob_mizugi_20
+  - first:
+      213: 6134938453075961222
+    second: Woman_Mob_mizugi_21
+  - first:
+      213: -3073807943100409562
+    second: Woman_Mob_mizugi_22
+  - first:
+      213: -3425059561687337373
+    second: Woman_Mob_mizugi_23
+  - first:
+      213: -3654023716624375866
+    second: Woman_Mob_mizugi_24
+  - first:
+      213: 6811112704864929809
+    second: Woman_Mob_mizugi_25
+  - first:
+      213: 3539616036481574262
+    second: Woman_Mob_mizugi_26
+  - first:
+      213: -7582488537312236688
+    second: Woman_Mob_mizugi_27
+  - first:
+      213: 947383317145333042
+    second: Woman_Mob_mizugi_28
+  - first:
+      213: 6625161737917148873
+    second: Woman_Mob_mizugi_29
+  - first:
+      213: 8837338042786541102
+    second: Woman_Mob_mizugi_30
+  - first:
+      213: -4939815197367565572
+    second: Woman_Mob_mizugi_31
+  - first:
+      213: -1253542582771464400
+    second: Woman_Mob_mizugi_32
+  - first:
+      213: -6242006174286342019
+    second: Woman_Mob_mizugi_33
+  - first:
+      213: -7089815490971767583
+    second: Woman_Mob_mizugi_34
+  - first:
+      213: 9217026379812479609
+    second: Woman_Mob_mizugi_35
+  - first:
+      213: 8921343852853329318
+    second: Woman_Mob_mizugi_36
+  - first:
+      213: 7896464900401682885
+    second: Woman_Mob_mizugi_37
+  - first:
+      213: 6290528050883645862
+    second: Woman_Mob_mizugi_38
+  - first:
+      213: -8045230789084590161
+    second: Woman_Mob_mizugi_39
+  - first:
+      213: -215195192993076792
+    second: Woman_Mob_mizugi_40
+  - first:
+      213: -4668885053691757398
+    second: Woman_Mob_mizugi_41
+  - first:
+      213: -6940251522949625532
+    second: Woman_Mob_mizugi_42
+  - first:
+      213: 2978369576283822318
+    second: Woman_Mob_mizugi_43
+  - first:
+      213: -3702954191566944444
+    second: Woman_Mob_mizugi_44
+  - first:
+      213: 5191052880675832822
+    second: Woman_Mob_mizugi_45
+  - first:
+      213: 1884000295856448891
+    second: Woman_Mob_mizugi_46
+  - first:
+      213: -6749235485154996383
+    second: Woman_Mob_mizugi_47
+  - first:
+      213: -5316328524261377455
+    second: Woman_Mob_mizugi_48
+  - first:
+      213: -6891620184824390280
+    second: Woman_Mob_mizugi_49
+  - first:
+      213: 2147914352373364792
+    second: Woman_Mob_mizugi_50
+  - first:
+      213: -889514927578527489
+    second: Woman_Mob_mizugi_51
+  - first:
+      213: 6936960115299740923
+    second: Woman_Mob_mizugi_52
+  - first:
+      213: 5146368888418866531
+    second: Woman_Mob_mizugi_53
+  - first:
+      213: 5120757373626409703
+    second: Woman_Mob_mizugi_54
+  - first:
+      213: 3103271647731319577
+    second: Woman_Mob_mizugi_55
+  - first:
+      213: -3162355566017377761
+    second: Woman_Mob_mizugi_56
+  - first:
+      213: 3836049110690033083
+    second: Woman_Mob_mizugi_57
+  - first:
+      213: -2339340640834424638
+    second: Woman_Mob_mizugi_58
+  - first:
+      213: 8744754322997908959
+    second: Woman_Mob_mizugi_59
+  - first:
+      213: -5099275622570823666
+    second: Woman_Mob_mizugi_60
+  - first:
+      213: 2649920741224731611
+    second: Woman_Mob_mizugi_61
+  - first:
+      213: 3912326885053533127
+    second: Woman_Mob_mizugi_62
+  - first:
+      213: 7796673114625744323
+    second: Woman_Mob_mizugi_63
+  - first:
+      213: 4645581039403125709
+    second: Woman_Mob_mizugi_64
+  - first:
+      213: -7792075395482763376
+    second: Woman_Mob_mizugi_65
+  - first:
+      213: -3942211818769779002
+    second: Woman_Mob_mizugi_66
+  - first:
+      213: -3993200346126038195
+    second: Woman_Mob_mizugi_67
+  - first:
+      213: 5581078120387298604
+    second: Woman_Mob_mizugi_68
+  - first:
+      213: 3992908077728245522
+    second: Woman_Mob_mizugi_69
+  - first:
+      213: -63880417459443835
+    second: Woman_Mob_mizugi_70
+  - first:
+      213: -4014939476459835240
+    second: Woman_Mob_mizugi_71
+  - first:
+      213: -1702669114838897731
+    second: Woman_Mob_mizugi_72
+  - first:
+      213: -7769395931607364752
+    second: Woman_Mob_mizugi_73
+  - first:
+      213: -3650420785595849273
+    second: Woman_Mob_mizugi_74
+  - first:
+      213: 7173512527800196514
+    second: Woman_Mob_mizugi_75
+  - first:
+      213: 8481601411857834537
+    second: Woman_Mob_mizugi_76
+  - first:
+      213: -6224052508490602869
+    second: Woman_Mob_mizugi_77
+  - first:
+      213: 2057108379646788172
+    second: Woman_Mob_mizugi_78
+  - first:
+      213: -6401994390142405892
+    second: Woman_Mob_mizugi_79
+  - first:
+      213: -2130119926176546903
+    second: Woman_Mob_mizugi_80
+  - first:
+      213: 7761980105128528669
+    second: Woman_Mob_mizugi_81
+  - first:
+      213: -2023286998405702749
+    second: Woman_Mob_mizugi_82
+  - first:
+      213: 140238361599409181
+    second: Woman_Mob_mizugi_83
+  - first:
+      213: -6414128324430518700
+    second: Woman_Mob_mizugi_84
+  - first:
+      213: 7835768812180755711
+    second: Woman_Mob_mizugi_85
+  - first:
+      213: 4744347220301940503
+    second: Woman_Mob_mizugi_86
+  - first:
+      213: 6712550120601976176
+    second: Woman_Mob_mizugi_87
+  - first:
+      213: 8256700554061821403
+    second: Woman_Mob_mizugi_88
+  - first:
+      213: -1253499412917587511
+    second: Woman_Mob_mizugi_89
+  - first:
+      213: -5538593688363567060
+    second: Woman_Mob_mizugi_90
+  - first:
+      213: 2326071065498684013
+    second: Woman_Mob_mizugi_91
+  - first:
+      213: -5077284670210164635
+    second: Woman_Mob_mizugi_92
+  - first:
+      213: 3607465915671448128
+    second: Woman_Mob_mizugi_93
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 503
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4923c2970bbbc0e0800000000000000
+      internalID: -2248497947740001971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 503
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6d73b6514062da0800000000000000
+      internalID: -5970079765993367893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 503
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d8a800da5eaaa60800000000000000
+      internalID: 7686208245262355774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 503
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc224377cec4e72e0800000000000000
+      internalID: -2126177395576397109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_4
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 503
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509e85154661816c0800000000000000
+      internalID: -4172560434641442555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 503
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a13b92a50d921d40800000000000000
+      internalID: 5553673938029719969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_6
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 503
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f10bbc4792c1310800000000000000
+      internalID: 1377021167678791472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_7
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 503
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994d449f9c0b0f0e0800000000000000
+      internalID: -2238094633286183783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_8
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 503
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d544549513a3480800000000000000
+      internalID: -8918761852569887381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_9
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 503
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e5e0b6065b616e0800000000000000
+      internalID: -1867105569780900264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_10
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 503
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad108a0e1fcb7cb0800000000000000
+      internalID: -4865067244511552092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_11
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 503
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21c6f91b33c13430800000000000000
+      internalID: 3761001822437163309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 431
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d94fa44607177a0800000000000000
+      internalID: -6381195620950696575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_13
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 431
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5043ae8ac02ab2750800000000000000
+      internalID: 6281292280555516933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_14
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 431
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe833968acd431f0800000000000000
+      internalID: -1065984595902361871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_15
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 431
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218d98107e270a7b0800000000000000
+      internalID: -5215042032006211566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_16
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 431
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275b5f7fe8e86a920800000000000000
+      internalID: 3001242946385589618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_17
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 431
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25354bcbab5361d0800000000000000
+      internalID: -3358740103680412371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_18
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 431
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7667a793cc32cc340800000000000000
+      internalID: 4885319055834773095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_19
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 431
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a847722c8b44532f0800000000000000
+      internalID: -993812582443289462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_20
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 431
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467a7b0d7a9218260800000000000000
+      internalID: 7098000288450586468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_21
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 434
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6852a7ec40ea32550800000000000000
+      internalID: 6134938453075961222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_22
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 434
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629d9b326f3a755d0800000000000000
+      internalID: -3073807943100409562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_23
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 434
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3663213b97eb770d0800000000000000
+      internalID: -3425059561687337373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 359
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf50c12acc4a4dc0800000000000000
+      internalID: -3654023716624375866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_25
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 359
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118cf921beee58e50800000000000000
+      internalID: 6811112704864929809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_26
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 359
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675a2cf080e3f1130800000000000000
+      internalID: 3539616036481574262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_27
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 359
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b680c59d695c690800000000000000
+      internalID: -7582488537312236688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_28
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 359
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d24948b18c52d00800000000000000
+      internalID: 947383317145333042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_29
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 359
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ceaf00cf7d41fb50800000000000000
+      internalID: 6625161737917148873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_30
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 359
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e6650b02884aa70800000000000000
+      internalID: 8837338042786541102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_31
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 359
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf284d01040427bb0800000000000000
+      internalID: -4939815197367565572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_32
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 359
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037c41b99a58a9ee0800000000000000
+      internalID: -1253542582771464400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_33
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 359
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d781edfb470ff59a0800000000000000
+      internalID: -6242006174286342019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_34
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 365
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ece099df5aeb9d90800000000000000
+      internalID: -7089815490971767583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_35
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 359
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972a02698a479ef70800000000000000
+      internalID: 9217026379812479609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 287
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6adff6487fafecb70800000000000000
+      internalID: 8921343852853329318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_37
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 287
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c958c95df0e59d60800000000000000
+      internalID: 7896464900401682885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_38
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 287
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1dc820fe17c4750800000000000000
+      internalID: 6290528050883645862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_39
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 287
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fafc3980939995090800000000000000
+      internalID: -8045230789084590161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_40
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 287
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9a644bc19730df0800000000000000
+      internalID: -215195192993076792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_41
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 287
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac729dc7c9c43fb0800000000000000
+      internalID: -4668885053691757398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_42
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 287
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44949bac2064faf90800000000000000
+      internalID: -6940251522949625532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_43
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 290
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee85a3c795b455920800000000000000
+      internalID: 2978369576283822318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_44
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 287
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447cb1828c67c9cc0800000000000000
+      internalID: -3702954191566944444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_45
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 287
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f383f277135a0840800000000000000
+      internalID: 5191052880675832822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_46
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 287
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7521478940552a10800000000000000
+      internalID: 1884000295856448891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_47
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 215
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f00e1d516e552a0800000000000000
+      internalID: -6749235485154996383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_48
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 218
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15abf12df5b9836b0800000000000000
+      internalID: -5316328524261377455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_49
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 215
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d51ac84fb0c50a0800000000000000
+      internalID: -6891620184824390280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_50
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 215
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8387d2d29bceecd10800000000000000
+      internalID: 2147914352373364792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_51
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 215
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8464fd2eec7a3f0800000000000000
+      internalID: -889514927578527489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_52
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 215
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc6e75a878054060800000000000000
+      internalID: 6936960115299740923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_53
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 215
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3651455cc339b6740800000000000000
+      internalID: 5146368888418866531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_54
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 218
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2e6fb43b5901740800000000000000
+      internalID: 5120757373626409703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_55
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 215
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913019c2f19011b20800000000000000
+      internalID: 3103271647731319577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_56
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 215
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a0e0a1e5e0d14d0800000000000000
+      internalID: -3162355566017377761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_57
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 215
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbde1a787526c3530800000000000000
+      internalID: 3836049110690033083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_58
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 215
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0fd6ed41ef88fd0800000000000000
+      internalID: -2339340640834424638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd51a5e99bb9b5970800000000000000
+      internalID: 8744754322997908959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_60
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 146
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e007bd0a6dbbb39b0800000000000000
+      internalID: -5099275622570823666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_61
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 143
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3d3afcfd866c420800000000000000
+      internalID: 2649920741224731611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_62
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 143
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb83d4d2906b4630800000000000000
+      internalID: 3912326885053533127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_63
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 143
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd1b13a3e8533c60800000000000000
+      internalID: 7796673114625744323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_64
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 143
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbc9ec875b687040800000000000000
+      internalID: 4645581039403125709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_65
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 140
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f303546bcfcd390800000000000000
+      internalID: -7792075395482763376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_66
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 143
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c671e0dc337a49c0800000000000000
+      internalID: -3942211818769779002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_67
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 140
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4bc03c217d4598c0800000000000000
+      internalID: -3993200346126038195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_68
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 143
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25c36d0bf8f37d40800000000000000
+      internalID: 5581078120387298604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_69
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 143
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217a7c9cdb8a96730800000000000000
+      internalID: 3992908077728245522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_70
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 143
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587e939491d0d1ff0800000000000000
+      internalID: -63880417459443835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_71
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 71
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8903be671d11848c0800000000000000
+      internalID: -4014939476459835240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_72
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 74
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbbafff0677ee58e0800000000000000
+      internalID: -1702669114838897731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_73
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 71
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b8d21709f8d2490800000000000000
+      internalID: -7769395931607364752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_74
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 71
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c56bd1e2a9175dc0800000000000000
+      internalID: -3650420785595849273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_75
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 71
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad585b13af6d8360800000000000000
+      internalID: 7173512527800196514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_76
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 71
+        width: 89
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922ec30fb83b4b570800000000000000
+      internalID: 8481601411857834537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_77
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 74
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86e9005839bf99a0800000000000000
+      internalID: -6224052508490602869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_78
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 71
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4283591c215c8c10800000000000000
+      internalID: 2057108379646788172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_79
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 68
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2b489750c8727a0800000000000000
+      internalID: -6401994390142405892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_80
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 71
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aff347863b4072e0800000000000000
+      internalID: -2130119926176546903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_81
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 71
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1bc5d7e7c718bb60800000000000000
+      internalID: 7761980105128528669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_82
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab9c5dd137dbe3e0800000000000000
+      internalID: -2023286998405702749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_83
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1cf30ffb0a32f100800000000000000
+      internalID: 140238361599409181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_84
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4562c8eb5407cf6a0800000000000000
+      internalID: -6414128324430518700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_85
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff45e10183e3ebc60800000000000000
+      internalID: 7835768812180755711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_86
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717853509ae47d140800000000000000
+      internalID: 4744347220301940503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_87
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 0
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d7c7325c4c72d50800000000000000
+      internalID: 6712550120601976176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_88
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd530a57861b59270800000000000000
+      internalID: 8256700554061821403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_89
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 2
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1f2eedcecaa9ee0800000000000000
+      internalID: -1253499412917587511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_90
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 0
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c287ed99266f223b0800000000000000
+      internalID: -5538593688363567060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_91
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 0
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a0d5d5f4dd74020800000000000000
+      internalID: 2326071065498684013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_92
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 0
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56836983e7cd989b0800000000000000
+      internalID: -5077284670210164635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_mizugi_93
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 0
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a0dea132b401230800000000000000
+      internalID: 3607465915671448128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Woman_Mob_mizugi_0: -2248497947740001971
+      Woman_Mob_mizugi_1: -5970079765993367893
+      Woman_Mob_mizugi_10: -4865067244511552092
+      Woman_Mob_mizugi_11: 3761001822437163309
+      Woman_Mob_mizugi_12: -6381195620950696575
+      Woman_Mob_mizugi_13: 6281292280555516933
+      Woman_Mob_mizugi_14: -1065984595902361871
+      Woman_Mob_mizugi_15: -5215042032006211566
+      Woman_Mob_mizugi_16: 3001242946385589618
+      Woman_Mob_mizugi_17: -3358740103680412371
+      Woman_Mob_mizugi_18: 4885319055834773095
+      Woman_Mob_mizugi_19: -993812582443289462
+      Woman_Mob_mizugi_2: 7686208245262355774
+      Woman_Mob_mizugi_20: 7098000288450586468
+      Woman_Mob_mizugi_21: 6134938453075961222
+      Woman_Mob_mizugi_22: -3073807943100409562
+      Woman_Mob_mizugi_23: -3425059561687337373
+      Woman_Mob_mizugi_24: -3654023716624375866
+      Woman_Mob_mizugi_25: 6811112704864929809
+      Woman_Mob_mizugi_26: 3539616036481574262
+      Woman_Mob_mizugi_27: -7582488537312236688
+      Woman_Mob_mizugi_28: 947383317145333042
+      Woman_Mob_mizugi_29: 6625161737917148873
+      Woman_Mob_mizugi_3: -2126177395576397109
+      Woman_Mob_mizugi_30: 8837338042786541102
+      Woman_Mob_mizugi_31: -4939815197367565572
+      Woman_Mob_mizugi_32: -1253542582771464400
+      Woman_Mob_mizugi_33: -6242006174286342019
+      Woman_Mob_mizugi_34: -7089815490971767583
+      Woman_Mob_mizugi_35: 9217026379812479609
+      Woman_Mob_mizugi_36: 8921343852853329318
+      Woman_Mob_mizugi_37: 7896464900401682885
+      Woman_Mob_mizugi_38: 6290528050883645862
+      Woman_Mob_mizugi_39: -8045230789084590161
+      Woman_Mob_mizugi_4: -4172560434641442555
+      Woman_Mob_mizugi_40: -215195192993076792
+      Woman_Mob_mizugi_41: -4668885053691757398
+      Woman_Mob_mizugi_42: -6940251522949625532
+      Woman_Mob_mizugi_43: 2978369576283822318
+      Woman_Mob_mizugi_44: -3702954191566944444
+      Woman_Mob_mizugi_45: 5191052880675832822
+      Woman_Mob_mizugi_46: 1884000295856448891
+      Woman_Mob_mizugi_47: -6749235485154996383
+      Woman_Mob_mizugi_48: -5316328524261377455
+      Woman_Mob_mizugi_49: -6891620184824390280
+      Woman_Mob_mizugi_5: 5553673938029719969
+      Woman_Mob_mizugi_50: 2147914352373364792
+      Woman_Mob_mizugi_51: -889514927578527489
+      Woman_Mob_mizugi_52: 6936960115299740923
+      Woman_Mob_mizugi_53: 5146368888418866531
+      Woman_Mob_mizugi_54: 5120757373626409703
+      Woman_Mob_mizugi_55: 3103271647731319577
+      Woman_Mob_mizugi_56: -3162355566017377761
+      Woman_Mob_mizugi_57: 3836049110690033083
+      Woman_Mob_mizugi_58: -2339340640834424638
+      Woman_Mob_mizugi_59: 8744754322997908959
+      Woman_Mob_mizugi_6: 1377021167678791472
+      Woman_Mob_mizugi_60: -5099275622570823666
+      Woman_Mob_mizugi_61: 2649920741224731611
+      Woman_Mob_mizugi_62: 3912326885053533127
+      Woman_Mob_mizugi_63: 7796673114625744323
+      Woman_Mob_mizugi_64: 4645581039403125709
+      Woman_Mob_mizugi_65: -7792075395482763376
+      Woman_Mob_mizugi_66: -3942211818769779002
+      Woman_Mob_mizugi_67: -3993200346126038195
+      Woman_Mob_mizugi_68: 5581078120387298604
+      Woman_Mob_mizugi_69: 3992908077728245522
+      Woman_Mob_mizugi_7: -2238094633286183783
+      Woman_Mob_mizugi_70: -63880417459443835
+      Woman_Mob_mizugi_71: -4014939476459835240
+      Woman_Mob_mizugi_72: -1702669114838897731
+      Woman_Mob_mizugi_73: -7769395931607364752
+      Woman_Mob_mizugi_74: -3650420785595849273
+      Woman_Mob_mizugi_75: 7173512527800196514
+      Woman_Mob_mizugi_76: 8481601411857834537
+      Woman_Mob_mizugi_77: -6224052508490602869
+      Woman_Mob_mizugi_78: 2057108379646788172
+      Woman_Mob_mizugi_79: -6401994390142405892
+      Woman_Mob_mizugi_8: -8918761852569887381
+      Woman_Mob_mizugi_80: -2130119926176546903
+      Woman_Mob_mizugi_81: 7761980105128528669
+      Woman_Mob_mizugi_82: -2023286998405702749
+      Woman_Mob_mizugi_83: 140238361599409181
+      Woman_Mob_mizugi_84: -6414128324430518700
+      Woman_Mob_mizugi_85: 7835768812180755711
+      Woman_Mob_mizugi_86: 4744347220301940503
+      Woman_Mob_mizugi_87: 6712550120601976176
+      Woman_Mob_mizugi_88: 8256700554061821403
+      Woman_Mob_mizugi_89: -1253499412917587511
+      Woman_Mob_mizugi_9: -1867105569780900264
+      Woman_Mob_mizugi_90: -5538593688363567060
+      Woman_Mob_mizugi_91: 2326071065498684013
+      Woman_Mob_mizugi_92: -5077284670210164635
+      Woman_Mob_mizugi_93: 3607465915671448128
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

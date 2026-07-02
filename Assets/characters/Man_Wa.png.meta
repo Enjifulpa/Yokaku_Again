@@ -1,0 +1,2548 @@
+fileFormatVersion: 2
+guid: 5ed454dc096fd5243add1a887b8de4da
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 136908995766999310
+    second: Man_Wa_0
+  - first:
+      213: 9116863511324555847
+    second: Man_Wa_1
+  - first:
+      213: -5952605452777684901
+    second: Man_Wa_2
+  - first:
+      213: -3766999222055136640
+    second: Man_Wa_3
+  - first:
+      213: -4262533216398361496
+    second: Man_Wa_4
+  - first:
+      213: 3744960257173420899
+    second: Man_Wa_5
+  - first:
+      213: -4179328630347564727
+    second: Man_Wa_6
+  - first:
+      213: -5724427878635261558
+    second: Man_Wa_7
+  - first:
+      213: -1942661828761112383
+    second: Man_Wa_8
+  - first:
+      213: -8958537781565855034
+    second: Man_Wa_9
+  - first:
+      213: -3803920943628737794
+    second: Man_Wa_10
+  - first:
+      213: 28933696260079756
+    second: Man_Wa_11
+  - first:
+      213: 777580075935171831
+    second: Man_Wa_12
+  - first:
+      213: 3878533888332015325
+    second: Man_Wa_13
+  - first:
+      213: -4055250741346257465
+    second: Man_Wa_14
+  - first:
+      213: 3308934713145834905
+    second: Man_Wa_15
+  - first:
+      213: -4460905633309741642
+    second: Man_Wa_16
+  - first:
+      213: -4575036825955983339
+    second: Man_Wa_17
+  - first:
+      213: 5564997153790441530
+    second: Man_Wa_18
+  - first:
+      213: 8051810730287153096
+    second: Man_Wa_19
+  - first:
+      213: 4921451694069473572
+    second: Man_Wa_20
+  - first:
+      213: 2628556758319822728
+    second: Man_Wa_21
+  - first:
+      213: -8503393917192004425
+    second: Man_Wa_22
+  - first:
+      213: -7664237548861835350
+    second: Man_Wa_23
+  - first:
+      213: 518183277003168302
+    second: Man_Wa_24
+  - first:
+      213: 6984866347828557834
+    second: Man_Wa_25
+  - first:
+      213: -238884489123400637
+    second: Man_Wa_26
+  - first:
+      213: -1462057428618564983
+    second: Man_Wa_27
+  - first:
+      213: -2670142633744495809
+    second: Man_Wa_28
+  - first:
+      213: 1163155272953653829
+    second: Man_Wa_29
+  - first:
+      213: 3926876178477184262
+    second: Man_Wa_30
+  - first:
+      213: -8656387598336781177
+    second: Man_Wa_31
+  - first:
+      213: 4254094366107888851
+    second: Man_Wa_32
+  - first:
+      213: -5521336818267758101
+    second: Man_Wa_33
+  - first:
+      213: -3364792901377623866
+    second: Man_Wa_34
+  - first:
+      213: -1182643906497814135
+    second: Man_Wa_35
+  - first:
+      213: -6574435173977475953
+    second: Man_Wa_36
+  - first:
+      213: -8225350107491851933
+    second: Man_Wa_37
+  - first:
+      213: -3677753490087246166
+    second: Man_Wa_38
+  - first:
+      213: 4937597028005861350
+    second: Man_Wa_39
+  - first:
+      213: -4111169797210690114
+    second: Man_Wa_40
+  - first:
+      213: 4897132887654545166
+    second: Man_Wa_41
+  - first:
+      213: 5474365768164312240
+    second: Man_Wa_42
+  - first:
+      213: -8655513413769659613
+    second: Man_Wa_43
+  - first:
+      213: 3211049236068013192
+    second: Man_Wa_44
+  - first:
+      213: 5664755298057374895
+    second: Man_Wa_45
+  - first:
+      213: 1327010069893834502
+    second: Man_Wa_46
+  - first:
+      213: 8435050780398818272
+    second: Man_Wa_47
+  - first:
+      213: 4577092263956577164
+    second: Man_Wa_48
+  - first:
+      213: -3568672398669620439
+    second: Man_Wa_49
+  - first:
+      213: 8015505228603443661
+    second: Man_Wa_50
+  - first:
+      213: 4439124616605809852
+    second: Man_Wa_51
+  - first:
+      213: -6600357877443871703
+    second: Man_Wa_52
+  - first:
+      213: -2187904161191916239
+    second: Man_Wa_53
+  - first:
+      213: 3582342703801550573
+    second: Man_Wa_54
+  - first:
+      213: 5223881467517083056
+    second: Man_Wa_55
+  - first:
+      213: -6997588969968858616
+    second: Man_Wa_56
+  - first:
+      213: 8922050730570285658
+    second: Man_Wa_57
+  - first:
+      213: -1460314496195060072
+    second: Man_Wa_58
+  - first:
+      213: -7849733844170308224
+    second: Man_Wa_59
+  - first:
+      213: -1873956929855555193
+    second: Man_Wa_60
+  - first:
+      213: 4393975879650490516
+    second: Man_Wa_61
+  - first:
+      213: -8116861783397753893
+    second: Man_Wa_62
+  - first:
+      213: -779603664680488081
+    second: Man_Wa_63
+  - first:
+      213: 5243874819269092757
+    second: Man_Wa_64
+  - first:
+      213: -3459087491737900195
+    second: Man_Wa_65
+  - first:
+      213: 2195665103910084934
+    second: Man_Wa_66
+  - first:
+      213: -1520288634907150060
+    second: Man_Wa_67
+  - first:
+      213: -8132172230455058053
+    second: Man_Wa_68
+  - first:
+      213: 4061697439270424170
+    second: Man_Wa_69
+  - first:
+      213: -7344621964207537618
+    second: Man_Wa_70
+  - first:
+      213: 4644384776169810513
+    second: Man_Wa_71
+  - first:
+      213: 7999528457742871954
+    second: Man_Wa_72
+  - first:
+      213: -6539741248066200647
+    second: Man_Wa_73
+  - first:
+      213: 1959204851033407912
+    second: Man_Wa_74
+  - first:
+      213: -7986043993581153795
+    second: Man_Wa_75
+  - first:
+      213: 4387135804860704759
+    second: Man_Wa_76
+  - first:
+      213: -2736073332727638917
+    second: Man_Wa_77
+  - first:
+      213: -6889994870275608066
+    second: Man_Wa_78
+  - first:
+      213: -2344816800683558355
+    second: Man_Wa_79
+  - first:
+      213: 997426139413669055
+    second: Man_Wa_80
+  - first:
+      213: 8422150034903965335
+    second: Man_Wa_81
+  - first:
+      213: -6996473624274622623
+    second: Man_Wa_82
+  - first:
+      213: -4050226814275325738
+    second: Man_Wa_83
+  - first:
+      213: -7865158288195517285
+    second: Man_Wa_84
+  - first:
+      213: 5185101193872459151
+    second: Man_Wa_85
+  - first:
+      213: 5608850496851955981
+    second: Man_Wa_86
+  - first:
+      213: -1246557572444087707
+    second: Man_Wa_87
+  - first:
+      213: 7494108478016341466
+    second: Man_Wa_88
+  - first:
+      213: -2135869651331918344
+    second: Man_Wa_89
+  - first:
+      213: -2301901932735364069
+    second: Man_Wa_90
+  - first:
+      213: -533052226837904892
+    second: Man_Wa_91
+  - first:
+      213: -800991114732255217
+    second: Man_Wa_92
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Man_Wa_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 503
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e095f3b910666e100800000000000000
+      internalID: 136908995766999310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 503
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a78327f0b958e70800000000000000
+      internalID: 9116863511324555847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 503
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50022301e8146da0800000000000000
+      internalID: -5952605452777684901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 503
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0821b3c7a2ee8bbc0800000000000000
+      internalID: -3766999222055136640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_4
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 503
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86cb541af9078d4c0800000000000000
+      internalID: -4262533216398361496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 503
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36bf6c22385c8f330800000000000000
+      internalID: 3744960257173420899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 503
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9497384f0ca0006c0800000000000000
+      internalID: -4179328630347564727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_7
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 503
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a813a977c2fbe80b0800000000000000
+      internalID: -5724427878635261558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_8
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 503
+        width: 95
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0bbf10c574a05e0800000000000000
+      internalID: -1942661828761112383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_9
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 503
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cae9de1a51eca380800000000000000
+      internalID: -8958537781565855034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_10
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 503
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef227594e02c53bc0800000000000000
+      internalID: -3803920943628737794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 431
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c800f9f1b0bc66000800000000000000
+      internalID: 28933696260079756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_12
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 431
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4898295f48aca00800000000000000
+      internalID: 777580075935171831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_13
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 431
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd62857a50253d530800000000000000
+      internalID: 3878533888332015325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_14
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 431
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5bae6bfead8b7c0800000000000000
+      internalID: -4055250741346257465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_15
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 431
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d34021792bbed20800000000000000
+      internalID: 3308934713145834905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_16
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 431
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bda80e16fda712c0800000000000000
+      internalID: -4460905633309741642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_17
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 431
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51020921f343280c0800000000000000
+      internalID: -4575036825955983339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_18
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 431
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a383dbf3d67da3d40800000000000000
+      internalID: 5564997153790441530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_19
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 431
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cfb179e237cdbf60800000000000000
+      internalID: 8051810730287153096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_20
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 431
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4216144ad328c4440800000000000000
+      internalID: 4921451694069473572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_21
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 431
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887fa9be1728a7420800000000000000
+      internalID: 2628556758319822728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_22
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 431
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc9d840940edf980800000000000000
+      internalID: -8503393917192004425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_23
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 359
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa731e16e8823a590800000000000000
+      internalID: -7664237548861835350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_24
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 359
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a525ae1f4f03700800000000000000
+      internalID: 518183277003168302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_25
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 359
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08b6e99fea3fe060800000000000000
+      internalID: 6984866347828557834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_26
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 359
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344f273a2df4facf0800000000000000
+      internalID: -238884489123400637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_27
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 359
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a28f5d38ab5bbe0800000000000000
+      internalID: -1462057428618564983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_28
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 359
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b8800fb6fb1fad0800000000000000
+      internalID: -2670142633744495809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_29
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 359
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a660fde8b542010800000000000000
+      internalID: 1163155272953653829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_30
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 359
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605731f24111f7630800000000000000
+      internalID: 3926876178477184262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_31
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 359
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7841a03c7555ed780800000000000000
+      internalID: -8656387598336781177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_32
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 359
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dce9dc6944990b30800000000000000
+      internalID: 4254094366107888851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_33
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 359
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be16dd5ca654063b0800000000000000
+      internalID: -5521336818267758101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_34
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 359
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c871a20faadd41d0800000000000000
+      internalID: -3364792901377623866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981ea6902a7669fe0800000000000000
+      internalID: -1182643906497814135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_36
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 287
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f843d38ca0ae2c4a0800000000000000
+      internalID: -6574435173977475953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_37
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 287
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3612ab138afa9dd80800000000000000
+      internalID: -8225350107491851933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_38
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 287
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa685e3bfaef5fcc0800000000000000
+      internalID: -3677753490087246166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_39
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 287
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e75052265ed58440800000000000000
+      internalID: 4937597028005861350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_40
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 287
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd21f1f9d032f6c0800000000000000
+      internalID: -4111169797210690114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_41
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 287
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07388a4a6c16f340800000000000000
+      internalID: 4897132887654545166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_42
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 287
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b40ef569aad8fb40800000000000000
+      internalID: 5474365768164312240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_43
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 287
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b71a7b86071e780800000000000000
+      internalID: -8655513413769659613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_44
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 287
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8849f107440ff8c20800000000000000
+      internalID: 3211049236068013192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_45
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 287
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: facc8303ee04d9e40800000000000000
+      internalID: 5664755298057374895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_46
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 287
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6076365b0ac7a6210800000000000000
+      internalID: 1327010069893834502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 215
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e39d047ef15f0570800000000000000
+      internalID: 8435050780398818272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_48
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 215
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8bf151e929158f30800000000000000
+      internalID: 4577092263956577164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_49
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 215
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b5e8d6c57897ec0800000000000000
+      internalID: -3568672398669620439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_50
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 215
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9c136998bcc3f60800000000000000
+      internalID: 8015505228603443661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_51
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 215
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc3b7eb150fa9d30800000000000000
+      internalID: 4439124616605809852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_52
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 215
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92cb18c0b71d664a0800000000000000
+      internalID: -6600357877443871703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_53
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 215
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d8e85e1c003a1e0800000000000000
+      internalID: -2187904161191916239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_54
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 215
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6cdc385b907b130800000000000000
+      internalID: 3582342703801550573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_55
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 215
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd1a147484fe7840800000000000000
+      internalID: 5223881467517083056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_56
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 215
+        width: 145
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a80d818e193ee90800000000000000
+      internalID: -6997588969968858616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_57
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 143
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5208af4edd71db70800000000000000
+      internalID: 8922050730570285658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_58
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 143
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e90f9e3bbebbbe0800000000000000
+      internalID: -1460314496195060072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_59
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 143
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0850edc88a4201390800000000000000
+      internalID: -7849733844170308224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_60
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 143
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789f397d91e5ef5e0800000000000000
+      internalID: -1873956929855555193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_61
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 143
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498b33248c98afc30800000000000000
+      internalID: 4393975879650490516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_62
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 143
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb12a5863d1b5f80800000000000000
+      internalID: -8116861783397753893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_63
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 143
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f637025f89a4e25f0800000000000000
+      internalID: -779603664680488081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_64
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 143
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59566296d5cf5c840800000000000000
+      internalID: 5243874819269092757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_65
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 143
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b27f7d04adeffc0800000000000000
+      internalID: -3459087491737900195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_66
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 143
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641284467c1987e10800000000000000
+      internalID: 2195665103910084934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_67
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 146
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419bb489a89d6eae0800000000000000
+      internalID: -1520288634907150060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_68
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 143
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b712e674178b42f80800000000000000
+      internalID: -8132172230455058053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_69
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 71
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ec3dc1d4c0e5830800000000000000
+      internalID: 4061697439270424170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_70
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 71
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22c0edac39a21a90800000000000000
+      internalID: -7344621964207537618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_71
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 71
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a65dfc85b247040800000000000000
+      internalID: 4644384776169810513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_72
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 71
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d646ebfb8040f60800000000000000
+      internalID: 7999528457742871954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_73
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 71
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb5b02ebfb2e35a0800000000000000
+      internalID: -6539741248066200647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_74
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 71
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a181148e6e703b10800000000000000
+      internalID: 1959204851033407912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_75
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 71
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df114f9bc4fdb2190800000000000000
+      internalID: -7986043993581153795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_76
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 71
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7ae1e35cc32ec30800000000000000
+      internalID: 4387135804860704759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_77
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 71
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74995bdcc3870ad0800000000000000
+      internalID: -2736073332727638917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_78
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 71
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef175f49b22d160a0800000000000000
+      internalID: -6889994870275608066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_79
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 74
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a73eb0b89857fd0800000000000000
+      internalID: -2344816800683558355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_80
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 71
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4e0790ac197dd00800000000000000
+      internalID: 997426139413669055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_81
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e9e7395dc71e470800000000000000
+      internalID: 8422150034903965335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_82
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167a8b0ce4887ee90800000000000000
+      internalID: -6996473624274622623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_83
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d07b53eb24bac7c0800000000000000
+      internalID: -4050226814275325738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_84
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9403e1553859d290800000000000000
+      internalID: -7865158288195517285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_85
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85c831601e25f740800000000000000
+      internalID: 5185101193872459151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_86
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 0
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0152275fc3a6dd40800000000000000
+      internalID: 5608850496851955981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_87
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a956e0e7653bee0800000000000000
+      internalID: -1246557572444087707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_88
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 0
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5486c84fb600860800000000000000
+      internalID: 7494108478016341466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_89
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 0
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5d2d15edddb52e0800000000000000
+      internalID: -2135869651331918344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_90
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 0
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14068f53600e00e0800000000000000
+      internalID: -2301901932735364069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_91
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 2
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402889ce2d73a98f0800000000000000
+      internalID: -533052226837904892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man_Wa_92
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 0
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08c32233de42e4f0800000000000000
+      internalID: -800991114732255217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Man_Wa_0: 136908995766999310
+      Man_Wa_1: 9116863511324555847
+      Man_Wa_10: -3803920943628737794
+      Man_Wa_11: 28933696260079756
+      Man_Wa_12: 777580075935171831
+      Man_Wa_13: 3878533888332015325
+      Man_Wa_14: -4055250741346257465
+      Man_Wa_15: 3308934713145834905
+      Man_Wa_16: -4460905633309741642
+      Man_Wa_17: -4575036825955983339
+      Man_Wa_18: 5564997153790441530
+      Man_Wa_19: 8051810730287153096
+      Man_Wa_2: -5952605452777684901
+      Man_Wa_20: 4921451694069473572
+      Man_Wa_21: 2628556758319822728
+      Man_Wa_22: -8503393917192004425
+      Man_Wa_23: -7664237548861835350
+      Man_Wa_24: 518183277003168302
+      Man_Wa_25: 6984866347828557834
+      Man_Wa_26: -238884489123400637
+      Man_Wa_27: -1462057428618564983
+      Man_Wa_28: -2670142633744495809
+      Man_Wa_29: 1163155272953653829
+      Man_Wa_3: -3766999222055136640
+      Man_Wa_30: 3926876178477184262
+      Man_Wa_31: -8656387598336781177
+      Man_Wa_32: 4254094366107888851
+      Man_Wa_33: -5521336818267758101
+      Man_Wa_34: -3364792901377623866
+      Man_Wa_35: -1182643906497814135
+      Man_Wa_36: -6574435173977475953
+      Man_Wa_37: -8225350107491851933
+      Man_Wa_38: -3677753490087246166
+      Man_Wa_39: 4937597028005861350
+      Man_Wa_4: -4262533216398361496
+      Man_Wa_40: -4111169797210690114
+      Man_Wa_41: 4897132887654545166
+      Man_Wa_42: 5474365768164312240
+      Man_Wa_43: -8655513413769659613
+      Man_Wa_44: 3211049236068013192
+      Man_Wa_45: 5664755298057374895
+      Man_Wa_46: 1327010069893834502
+      Man_Wa_47: 8435050780398818272
+      Man_Wa_48: 4577092263956577164
+      Man_Wa_49: -3568672398669620439
+      Man_Wa_5: 3744960257173420899
+      Man_Wa_50: 8015505228603443661
+      Man_Wa_51: 4439124616605809852
+      Man_Wa_52: -6600357877443871703
+      Man_Wa_53: -2187904161191916239
+      Man_Wa_54: 3582342703801550573
+      Man_Wa_55: 5223881467517083056
+      Man_Wa_56: -6997588969968858616
+      Man_Wa_57: 8922050730570285658
+      Man_Wa_58: -1460314496195060072
+      Man_Wa_59: -7849733844170308224
+      Man_Wa_6: -4179328630347564727
+      Man_Wa_60: -1873956929855555193
+      Man_Wa_61: 4393975879650490516
+      Man_Wa_62: -8116861783397753893
+      Man_Wa_63: -779603664680488081
+      Man_Wa_64: 5243874819269092757
+      Man_Wa_65: -3459087491737900195
+      Man_Wa_66: 2195665103910084934
+      Man_Wa_67: -1520288634907150060
+      Man_Wa_68: -8132172230455058053
+      Man_Wa_69: 4061697439270424170
+      Man_Wa_7: -5724427878635261558
+      Man_Wa_70: -7344621964207537618
+      Man_Wa_71: 4644384776169810513
+      Man_Wa_72: 7999528457742871954
+      Man_Wa_73: -6539741248066200647
+      Man_Wa_74: 1959204851033407912
+      Man_Wa_75: -7986043993581153795
+      Man_Wa_76: 4387135804860704759
+      Man_Wa_77: -2736073332727638917
+      Man_Wa_78: -6889994870275608066
+      Man_Wa_79: -2344816800683558355
+      Man_Wa_8: -1942661828761112383
+      Man_Wa_80: 997426139413669055
+      Man_Wa_81: 8422150034903965335
+      Man_Wa_82: -6996473624274622623
+      Man_Wa_83: -4050226814275325738
+      Man_Wa_84: -7865158288195517285
+      Man_Wa_85: 5185101193872459151
+      Man_Wa_86: 5608850496851955981
+      Man_Wa_87: -1246557572444087707
+      Man_Wa_88: 7494108478016341466
+      Man_Wa_89: -2135869651331918344
+      Man_Wa_9: -8958537781565855034
+      Man_Wa_90: -2301901932735364069
+      Man_Wa_91: -533052226837904892
+      Man_Wa_92: -800991114732255217
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

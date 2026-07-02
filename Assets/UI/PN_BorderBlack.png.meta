@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 04a858f989af41440a69c4d72889887f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4427375952997068309
+    second: PN_BorderBlack_0
+  - first:
+      213: 8210697747750875957
+    second: PN_BorderBlack_1
+  - first:
+      213: -5051749043178500559
+    second: PN_BorderBlack_2
+  - first:
+      213: -8879143534109095513
+    second: PN_BorderBlack_3
+  - first:
+      213: 2778011349715624218
+    second: PN_BorderBlack_4
+  - first:
+      213: 9025325564005122320
+    second: PN_BorderBlack_5
+  - first:
+      213: 1892582829604373907
+    second: PN_BorderBlack_6
+  - first:
+      213: 6153389575273849914
+    second: PN_BorderBlack_7
+  - first:
+      213: -2799258771552739645
+    second: PN_BorderBlack_8
+  - first:
+      213: -4108256550733137827
+    second: PN_BorderBlack_9
+  - first:
+      213: 3450962542131899266
+    second: PN_BorderBlack_10
+  - first:
+      213: 2227962492875097257
+    second: PN_BorderBlack_11
+  - first:
+      213: 7955267131154496916
+    second: PN_BorderBlack_12
+  - first:
+      213: -452075137830091008
+    second: PN_BorderBlack_13
+  - first:
+      213: -1854105156181594672
+    second: PN_BorderBlack_14
+  - first:
+      213: 4189099263830111528
+    second: PN_BorderBlack_15
+  - first:
+      213: 3592267957553571911
+    second: PN_BorderBlack_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PN_BorderBlack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 811
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1d08a270dce82c0800000000000000
+      internalID: -4427375952997068309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PN_BorderBlack_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 836
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5337ac4791242f170800000000000000
+      internalID: 8210697747750875957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PN_BorderBlack_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 835
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e0de2b20594e9b0800000000000000
+      internalID: -5051749043178500559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PN_BorderBlack_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 835
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a988bbdff1f6c480800000000000000
+      internalID: -8879143534109095513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PN_BorderBlack_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 836
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a11adc1aa9a7d8620800000000000000
+      internalID: 2778011349715624218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PN_BorderBlack_5
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 835
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01107c048c5604d70800000000000000
+      internalID: 9025325564005122320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PN_BorderBlack_6
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 835
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39582926e0ec34a10800000000000000
+      internalID: 1892582829604373907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PN_BorderBlack_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 836
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a342ac6773b356550800000000000000
+      internalID: 6153389575273849914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PN_BorderBlack_8
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 835
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ced3377af80729d0800000000000000
+      internalID: -2799258771552739645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PN_BorderBlack_9
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 835
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58316ffe6a8cf6c0800000000000000
+      internalID: -4108256550733137827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PN_BorderBlack_10
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 0
+        width: 836
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b63f8e52844ef20800000000000000
+      internalID: 3450962542131899266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PN_BorderBlack_11
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 835
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4c6b045105bee10800000000000000
+      internalID: 2227962492875097257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PN_BorderBlack_12
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 0
+        width: 835
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49dfdc59e49c66e60800000000000000
+      internalID: 7955267131154496916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PN_BorderBlack_13
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 0
+        width: 836
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0070addae08e9b9f0800000000000000
+      internalID: -452075137830091008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PN_BorderBlack_14
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 0
+        width: 835
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd63951f25e446e0800000000000000
+      internalID: -1854105156181594672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PN_BorderBlack_15
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 835
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825b17de59ba22a30800000000000000
+      internalID: 4189099263830111528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PN_BorderBlack_16
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 0
+        width: 824
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748affbbcac4ad130800000000000000
+      internalID: 3592267957553571911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PN_BorderBlack_0: -4427375952997068309
+      PN_BorderBlack_1: 8210697747750875957
+      PN_BorderBlack_10: 3450962542131899266
+      PN_BorderBlack_11: 2227962492875097257
+      PN_BorderBlack_12: 7955267131154496916
+      PN_BorderBlack_13: -452075137830091008
+      PN_BorderBlack_14: -1854105156181594672
+      PN_BorderBlack_15: 4189099263830111528
+      PN_BorderBlack_16: 3592267957553571911
+      PN_BorderBlack_2: -5051749043178500559
+      PN_BorderBlack_3: -8879143534109095513
+      PN_BorderBlack_4: 2778011349715624218
+      PN_BorderBlack_5: 9025325564005122320
+      PN_BorderBlack_6: 1892582829604373907
+      PN_BorderBlack_7: 6153389575273849914
+      PN_BorderBlack_8: -2799258771552739645
+      PN_BorderBlack_9: -4108256550733137827
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

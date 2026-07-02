@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: c542430f1e3d73541836af35e67a927a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 946161058817239306
+    second: 256_InSide_A5_0
+  - first:
+      213: 7626069318914776060
+    second: 256_InSide_A5_1
+  - first:
+      213: -7070293652561560888
+    second: 256_InSide_A5_2
+  - first:
+      213: -2487010545336783531
+    second: 256_InSide_A5_3
+  - first:
+      213: -7679679653834563562
+    second: 256_InSide_A5_4
+  - first:
+      213: 7439682512491056660
+    second: 256_InSide_A5_5
+  - first:
+      213: 6932753840474533744
+    second: 256_InSide_A5_6
+  - first:
+      213: -8226518020678012179
+    second: 256_InSide_A5_7
+  - first:
+      213: 396714247430727707
+    second: 256_InSide_A5_8
+  - first:
+      213: -1103522837558661297
+    second: 256_InSide_A5_9
+  - first:
+      213: -8208666418130129845
+    second: 256_InSide_A5_10
+  - first:
+      213: 2072824933715312769
+    second: 256_InSide_A5_11
+  - first:
+      213: 8307090223588750439
+    second: 256_InSide_A5_12
+  - first:
+      213: -6131749991689786640
+    second: 256_InSide_A5_13
+  - first:
+      213: 7146460170097909002
+    second: 256_InSide_A5_14
+  - first:
+      213: 2669746136338840496
+    second: 256_InSide_A5_15
+  - first:
+      213: -2533229064539945008
+    second: 256_InSide_A5_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 256_InSide_A5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 530
+        width: 384
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09eb135870712d00800000000000000
+      internalID: 946161058817239306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256_InSide_A5_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 353
+        width: 289
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb9b6214ad35d960800000000000000
+      internalID: 7626069318914776060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256_InSide_A5_2
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 479
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca7e5d026541ed90800000000000000
+      internalID: -7070293652561560888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256_InSide_A5_3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 401
+        width: 50
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55dec84f51d5c7dd0800000000000000
+      internalID: -2487010545336783531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256_InSide_A5_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 431
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61065642b0c4c6590800000000000000
+      internalID: -7679679653834563562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256_InSide_A5_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 290
+        width: 145
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e07b6f3df0f3760800000000000000
+      internalID: 7439682512491056660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256_InSide_A5_6
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 344
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fa5b8f2e6163060800000000000000
+      internalID: 6932753840474533744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256_InSide_A5_7
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 278
+        width: 193
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de23327327985dd80800000000000000
+      internalID: -8226518020678012179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256_InSide_A5_8
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 296
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18e1739189618500800000000000000
+      internalID: 396714247430727707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256_InSide_A5_9
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 248
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4fe8c173df7fa0f0800000000000000
+      internalID: -1103522837558661297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256_InSide_A5_10
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 242
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ceca35265f41e80800000000000000
+      internalID: -8208666418130129845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256_InSide_A5_11
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 263
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1808caf7b4724cc10800000000000000
+      internalID: 2072824933715312769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256_InSide_A5_12
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 251
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764b026ab86b84370800000000000000
+      internalID: 8307090223588750439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256_InSide_A5_13
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 257
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa63d5bed5a7eaa0800000000000000
+      internalID: -6131749991689786640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256_InSide_A5_14
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 257
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0dd92049a35d2360800000000000000
+      internalID: 7146460170097909002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256_InSide_A5_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 384
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bbb2f057f7dc0520800000000000000
+      internalID: 2669746136338840496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256_InSide_A5_16
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 248
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7c661669928dcd0800000000000000
+      internalID: -2533229064539945008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      256_InSide_A5_0: 946161058817239306
+      256_InSide_A5_1: 7626069318914776060
+      256_InSide_A5_10: -8208666418130129845
+      256_InSide_A5_11: 2072824933715312769
+      256_InSide_A5_12: 8307090223588750439
+      256_InSide_A5_13: -6131749991689786640
+      256_InSide_A5_14: 7146460170097909002
+      256_InSide_A5_15: 2669746136338840496
+      256_InSide_A5_16: -2533229064539945008
+      256_InSide_A5_2: -7070293652561560888
+      256_InSide_A5_3: -2487010545336783531
+      256_InSide_A5_4: -7679679653834563562
+      256_InSide_A5_5: 7439682512491056660
+      256_InSide_A5_6: 6932753840474533744
+      256_InSide_A5_7: -8226518020678012179
+      256_InSide_A5_8: 396714247430727707
+      256_InSide_A5_9: -1103522837558661297
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

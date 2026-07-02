@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: f77adbc2a8d92764186df225fc6f7947
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8493445588301731420
+    second: Woman_Town5_0
+  - first:
+      213: 4813382057611109377
+    second: Woman_Town5_1
+  - first:
+      213: 7736337544035133329
+    second: Woman_Town5_2
+  - first:
+      213: 2270392728382705042
+    second: Woman_Town5_3
+  - first:
+      213: 1665480257383697753
+    second: Woman_Town5_4
+  - first:
+      213: 6795966476549767700
+    second: Woman_Town5_5
+  - first:
+      213: 8539258275406307962
+    second: Woman_Town5_6
+  - first:
+      213: 4165996792610117942
+    second: Woman_Town5_7
+  - first:
+      213: -6339371345491740455
+    second: Woman_Town5_8
+  - first:
+      213: -6748809760154049444
+    second: Woman_Town5_9
+  - first:
+      213: 477916529364697343
+    second: Woman_Town5_10
+  - first:
+      213: 9002489062661745025
+    second: Woman_Town5_11
+  - first:
+      213: -8375610342189050388
+    second: Woman_Town5_12
+  - first:
+      213: 3932250704203441480
+    second: Woman_Town5_13
+  - first:
+      213: -6853976841639898236
+    second: Woman_Town5_14
+  - first:
+      213: 7351302871789200600
+    second: Woman_Town5_15
+  - first:
+      213: -1946876667647290750
+    second: Woman_Town5_16
+  - first:
+      213: -3647882332104454378
+    second: Woman_Town5_17
+  - first:
+      213: 4671972250551620469
+    second: Woman_Town5_18
+  - first:
+      213: 5204765783605402855
+    second: Woman_Town5_19
+  - first:
+      213: -1847835650396401700
+    second: Woman_Town5_20
+  - first:
+      213: -8568170721012627039
+    second: Woman_Town5_21
+  - first:
+      213: 1047999428379335399
+    second: Woman_Town5_22
+  - first:
+      213: -8558794613095099316
+    second: Woman_Town5_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Woman_Town5_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 506
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9aa26dc38312a80800000000000000
+      internalID: -8493445588301731420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Town5_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 503
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1042620aa719cc240800000000000000
+      internalID: 4813382057611109377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Town5_2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 506
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1976bb6e10efc5b60800000000000000
+      internalID: 7736337544035133329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Town5_3
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 506
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d81eb482e028f10800000000000000
+      internalID: 2270392728382705042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Town5_4
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 503
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d08c15879fc1710800000000000000
+      internalID: 1665480257383697753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Town5_5
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 506
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412463cf08f105e50800000000000000
+      internalID: 6795966476549767700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Town5_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 434
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7268e6982a818670800000000000000
+      internalID: 8539258275406307962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Town5_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 431
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63951fea20890d930800000000000000
+      internalID: 4165996792610117942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Town5_8
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 434
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8bca449570608a0800000000000000
+      internalID: -6339371345491740455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Town5_9
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 437
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c542455a7496752a0800000000000000
+      internalID: -6748809760154049444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Town5_10
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 434
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff002152d86e1a600800000000000000
+      internalID: 477916529364697343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Town5_11
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 437
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189ea42fa144fec70800000000000000
+      internalID: 9002489062661745025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Town5_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 362
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5dbb805cad3cb80800000000000000
+      internalID: -8375610342189050388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Town5_13
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 359
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84563d77e29229630800000000000000
+      internalID: 3932250704203441480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Town5_14
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 362
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483dc4f5068c1e0a0800000000000000
+      internalID: -6853976841639898236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Town5_15
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 362
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4ed455303150660800000000000000
+      internalID: 7351302871789200600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Town5_16
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 359
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282136b5cfd4bf4e0800000000000000
+      internalID: -1946876667647290750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Town5_17
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 362
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f8d74a85e106dc0800000000000000
+      internalID: -3647882332104454378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Town5_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 290
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5739c9a320e26d040800000000000000
+      internalID: 4671972250551620469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Town5_19
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 287
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec58e677ea0b3840800000000000000
+      internalID: 5204765783605402855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Town5_20
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 290
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdfc1d6244b2b56e0800000000000000
+      internalID: -1847835650396401700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Town5_21
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 290
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9c327102eb71980800000000000000
+      internalID: -8568170721012627039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Town5_22
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 287
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eadc557ded3b8e00800000000000000
+      internalID: 1047999428379335399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Town5_23
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 290
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4490f455ad093980800000000000000
+      internalID: -8558794613095099316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Woman_Town5_0: -8493445588301731420
+      Woman_Town5_1: 4813382057611109377
+      Woman_Town5_10: 477916529364697343
+      Woman_Town5_11: 9002489062661745025
+      Woman_Town5_12: -8375610342189050388
+      Woman_Town5_13: 3932250704203441480
+      Woman_Town5_14: -6853976841639898236
+      Woman_Town5_15: 7351302871789200600
+      Woman_Town5_16: -1946876667647290750
+      Woman_Town5_17: -3647882332104454378
+      Woman_Town5_18: 4671972250551620469
+      Woman_Town5_19: 5204765783605402855
+      Woman_Town5_2: 7736337544035133329
+      Woman_Town5_20: -1847835650396401700
+      Woman_Town5_21: -8568170721012627039
+      Woman_Town5_22: 1047999428379335399
+      Woman_Town5_23: -8558794613095099316
+      Woman_Town5_3: 2270392728382705042
+      Woman_Town5_4: 1665480257383697753
+      Woman_Town5_5: 6795966476549767700
+      Woman_Town5_6: 8539258275406307962
+      Woman_Town5_7: 4165996792610117942
+      Woman_Town5_8: -6339371345491740455
+      Woman_Town5_9: -6748809760154049444
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

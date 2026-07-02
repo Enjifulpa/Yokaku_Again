@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: 84c5d61922096be428de276fd2bef5b0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1444013862794549204
+    second: NetaTitle_moji_0
+  - first:
+      213: 3805109681908450313
+    second: NetaTitle_moji_1
+  - first:
+      213: 403331227835965409
+    second: NetaTitle_moji_2
+  - first:
+      213: 459104431846199337
+    second: NetaTitle_moji_3
+  - first:
+      213: 5591320930362443959
+    second: NetaTitle_moji_4
+  - first:
+      213: -532916219603981609
+    second: NetaTitle_moji_5
+  - first:
+      213: 5739196589769942903
+    second: NetaTitle_moji_6
+  - first:
+      213: 837630011953472731
+    second: NetaTitle_moji_7
+  - first:
+      213: 5519029113903568908
+    second: NetaTitle_moji_8
+  - first:
+      213: 8152440066294967609
+    second: NetaTitle_moji_9
+  - first:
+      213: -3759658181027718219
+    second: NetaTitle_moji_10
+  - first:
+      213: -7019819746459673189
+    second: NetaTitle_moji_11
+  - first:
+      213: 2169519052426184494
+    second: NetaTitle_moji_12
+  - first:
+      213: -2698683079149015595
+    second: NetaTitle_moji_13
+  - first:
+      213: -4000982985840212135
+    second: NetaTitle_moji_14
+  - first:
+      213: -5841698272352525247
+    second: NetaTitle_moji_15
+  - first:
+      213: -7992896264049593413
+    second: NetaTitle_moji_16
+  - first:
+      213: -1169499185791780032
+    second: NetaTitle_moji_17
+  - first:
+      213: -6883372531576162767
+    second: NetaTitle_moji_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NetaTitle_moji_0
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 289
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7db9e15fa2a0410800000000000000
+      internalID: 1444013862794549204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetaTitle_moji_1
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 289
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9048d8968177ec430800000000000000
+      internalID: 3805109681908450313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetaTitle_moji_2
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 289
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef1cf16d9be89500800000000000000
+      internalID: 403331227835965409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetaTitle_moji_3
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 289
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920100f5c011f5600800000000000000
+      internalID: 459104431846199337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetaTitle_moji_4
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 289
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8c57713cc589d40800000000000000
+      internalID: 5591320930362443959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetaTitle_moji_5
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 300
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dae5739583ba98f0800000000000000
+      internalID: -532916219603981609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetaTitle_moji_6
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 289
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777ee5d04e8b5af40800000000000000
+      internalID: 5739196589769942903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetaTitle_moji_7
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 310
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd461b3de0cdf9b00800000000000000
+      internalID: 837630011953472731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetaTitle_moji_8
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 245
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08d24fecb7879c40800000000000000
+      internalID: 5519029113903568908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetaTitle_moji_9
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 244
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d6c2cfb09432170800000000000000
+      internalID: 8152440066294967609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetaTitle_moji_10
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 250
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb93facdc203dbc0800000000000000
+      internalID: -3759658181027718219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetaTitle_moji_11
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 243
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d9ff81227949e90800000000000000
+      internalID: -7019819746459673189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetaTitle_moji_12
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 254
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e270e45651eab1e10800000000000000
+      internalID: 2169519052426184494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetaTitle_moji_13
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 243
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd27f9a90a5c8ad0800000000000000
+      internalID: -2698683079149015595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetaTitle_moji_14
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 264
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957cc982c27a978c0800000000000000
+      internalID: -4000982985840212135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetaTitle_moji_15
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 243
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1442a673f5e1eeea0800000000000000
+      internalID: -5841698272352525247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetaTitle_moji_16
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 198
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3f6ce2237831190800000000000000
+      internalID: -7992896264049593413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetaTitle_moji_17
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 199
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04bb5c1dfaa15cfe0800000000000000
+      internalID: -1169499185791780032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NetaTitle_moji_18
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 199
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136b8b6f6295970a0800000000000000
+      internalID: -6883372531576162767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NetaTitle_moji_0: 1444013862794549204
+      NetaTitle_moji_1: 3805109681908450313
+      NetaTitle_moji_10: -3759658181027718219
+      NetaTitle_moji_11: -7019819746459673189
+      NetaTitle_moji_12: 2169519052426184494
+      NetaTitle_moji_13: -2698683079149015595
+      NetaTitle_moji_14: -4000982985840212135
+      NetaTitle_moji_15: -5841698272352525247
+      NetaTitle_moji_16: -7992896264049593413
+      NetaTitle_moji_17: -1169499185791780032
+      NetaTitle_moji_18: -6883372531576162767
+      NetaTitle_moji_2: 403331227835965409
+      NetaTitle_moji_3: 459104431846199337
+      NetaTitle_moji_4: 5591320930362443959
+      NetaTitle_moji_5: -532916219603981609
+      NetaTitle_moji_6: 5739196589769942903
+      NetaTitle_moji_7: 837630011953472731
+      NetaTitle_moji_8: 5519029113903568908
+      NetaTitle_moji_9: 8152440066294967609
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

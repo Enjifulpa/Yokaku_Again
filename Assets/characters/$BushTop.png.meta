@@ -1,0 +1,476 @@
+fileFormatVersion: 2
+guid: 3b9673a0b47183740811a071b9ff36ff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2828302921422259863
+    second: $BushTop_0
+  - first:
+      213: 7799466983701682852
+    second: $BushTop_1
+  - first:
+      213: 1070316464930981296
+    second: $BushTop_2
+  - first:
+      213: 3338807032177182948
+    second: $BushTop_3
+  - first:
+      213: 7974907569161369791
+    second: $BushTop_4
+  - first:
+      213: -8461203968468505589
+    second: $BushTop_5
+  - first:
+      213: -6142592886074257488
+    second: $BushTop_6
+  - first:
+      213: -7385189034874114613
+    second: $BushTop_7
+  - first:
+      213: -5950456897291857124
+    second: $BushTop_8
+  - first:
+      213: -549533386210458986
+    second: $BushTop_9
+  - first:
+      213: 3333490861362144828
+    second: $BushTop_10
+  - first:
+      213: 689405862049246913
+    second: $BushTop_11
+  - first:
+      213: 6921393016357130729
+    second: $BushTop_12
+  - first:
+      213: -986130394175157235
+    second: $BushTop_13
+  - first:
+      213: 2540327214301863729
+    second: $BushTop_14
+  - first:
+      213: 7230126330335460529
+    second: $BushTop_15
+  - first:
+      213: 777244975375153889
+    second: $BushTop_16
+  - first:
+      213: 7105175617705661037
+    second: $BushTop_17
+  - first:
+      213: -7337657166784751454
+    second: $BushTop_18
+  - first:
+      213: -3876037700856901684
+    second: $BushTop_19
+  - first:
+      213: -3842098804868530203
+    second: $BushTop_20
+  - first:
+      213: -824454914184901974
+    second: $BushTop_21
+  - first:
+      213: -2236046688844086141
+    second: $BushTop_22
+  - first:
+      213: 3826035367292879886
+    second: $BushTop_23
+  - first:
+      213: 1902178925430093444
+    second: $BushTop_24
+  - first:
+      213: -8599607600534769422
+    second: $BushTop_25
+  - first:
+      213: -8379464670476829315
+    second: $BushTop_26
+  - first:
+      213: -940544698788958901
+    second: $BushTop_27
+  - first:
+      213: -9040397396196415264
+    second: $BushTop_28
+  - first:
+      213: -8568077215661905848
+    second: $BushTop_29
+  - first:
+      213: -4485349315093425671
+    second: $BushTop_30
+  - first:
+      213: 3525203737331097491
+    second: $BushTop_31
+  - first:
+      213: -3494460290499532773
+    second: $BushTop_32
+  - first:
+      213: 1281635010992887410
+    second: $BushTop_33
+  - first:
+      213: 3809200015153283297
+    second: $BushTop_34
+  - first:
+      213: 6551591283944933327
+    second: $BushTop_35
+  - first:
+      213: 8408644109761968438
+    second: $BushTop_36
+  - first:
+      213: -4467024200924886862
+    second: $BushTop_37
+  - first:
+      213: 8822039065451447286
+    second: $BushTop_38
+  - first:
+      213: 358223813221082947
+    second: $BushTop_39
+  - first:
+      213: -6953276732114115388
+    second: $BushTop_40
+  - first:
+      213: 8756339988053950133
+    second: $BushTop_41
+  - first:
+      213: -5923991994099410430
+    second: $BushTop_42
+  - first:
+      213: 6762420042478112450
+    second: $BushTop_43
+  - first:
+      213: 5242331546119328520
+    second: $BushTop_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: $BushTop_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796c294a586204720800000000000000
+      internalID: 2828302921422259863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $BushTop_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa1de8f5e54d3c60800000000000000
+      internalID: 7799466983701682852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $BushTop_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5867177278ade00800000000000000
+      internalID: 1070316464930981296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $BushTop_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e84f765e43d55e20800000000000000
+      internalID: 3338807032177182948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $BushTop_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8ff686e209cae60800000000000000
+      internalID: 7974907569161369791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $BushTop_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c2f4fe1d3c39a80800000000000000
+      internalID: -8461203968468505589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $BushTop_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e596c1e7d8deac64f80dfc566ce48214
+      internalID: -6142592886074257488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $BushTop_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f6dc0e6075b814d9d08e8c6cdd5380
+      internalID: -7385189034874114613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $BushTop_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9674ce99474e2f49bad0a24c24baaa0
+      internalID: -5950456897291857124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2d2ca008ae3b52a4bad07233b7bc3eff
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":true,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":48.0,"y":48.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+      - key: SpriteEditor.SliceOnImport
+        value: True
+    nameFileIdTable:
+      $BushTop_0: 2828302921422259863
+      $BushTop_1: 7799466983701682852
+      $BushTop_2: 1070316464930981296
+      $BushTop_3: 3338807032177182948
+      $BushTop_4: 7974907569161369791
+      $BushTop_5: -8461203968468505589
+      $BushTop_6: -6142592886074257488
+      $BushTop_7: -7385189034874114613
+      $BushTop_8: -5950456897291857124
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

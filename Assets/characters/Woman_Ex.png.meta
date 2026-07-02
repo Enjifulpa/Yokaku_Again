@@ -1,0 +1,1898 @@
+fileFormatVersion: 2
+guid: 89fdb82f2a480cb4c83c110956a0fcbe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7103467185120260532
+    second: Woman_Ex_0
+  - first:
+      213: -4537882956151536651
+    second: Woman_Ex_1
+  - first:
+      213: 1069836158396299039
+    second: Woman_Ex_2
+  - first:
+      213: -2593038374639110060
+    second: Woman_Ex_3
+  - first:
+      213: 587297597433514014
+    second: Woman_Ex_4
+  - first:
+      213: -8592327071251836324
+    second: Woman_Ex_5
+  - first:
+      213: 645574574854267642
+    second: Woman_Ex_6
+  - first:
+      213: -8844571508756558601
+    second: Woman_Ex_7
+  - first:
+      213: 8942419707150212233
+    second: Woman_Ex_8
+  - first:
+      213: -8129322657659347275
+    second: Woman_Ex_9
+  - first:
+      213: 6976734905619219501
+    second: Woman_Ex_10
+  - first:
+      213: 6335854285832558816
+    second: Woman_Ex_11
+  - first:
+      213: 5370241036030660861
+    second: Woman_Ex_12
+  - first:
+      213: 6341289858608455143
+    second: Woman_Ex_13
+  - first:
+      213: 511057376820994328
+    second: Woman_Ex_14
+  - first:
+      213: 7834594230694539334
+    second: Woman_Ex_15
+  - first:
+      213: 4004447410321773138
+    second: Woman_Ex_16
+  - first:
+      213: 2825753742739143942
+    second: Woman_Ex_17
+  - first:
+      213: -3958718875677065334
+    second: Woman_Ex_18
+  - first:
+      213: -6483299086873977688
+    second: Woman_Ex_19
+  - first:
+      213: 7140082294483656813
+    second: Woman_Ex_20
+  - first:
+      213: 2486557601024972914
+    second: Woman_Ex_21
+  - first:
+      213: -7163336036844072801
+    second: Woman_Ex_22
+  - first:
+      213: 605666170681102500
+    second: Woman_Ex_23
+  - first:
+      213: -2022818531582607092
+    second: Woman_Ex_24
+  - first:
+      213: 2554286609107851243
+    second: Woman_Ex_25
+  - first:
+      213: 5917325589827204560
+    second: Woman_Ex_26
+  - first:
+      213: -6591867531751659921
+    second: Woman_Ex_27
+  - first:
+      213: -5379401303883200559
+    second: Woman_Ex_28
+  - first:
+      213: -2693793291967244479
+    second: Woman_Ex_29
+  - first:
+      213: 777634725744731288
+    second: Woman_Ex_30
+  - first:
+      213: 2322278404116547952
+    second: Woman_Ex_31
+  - first:
+      213: -4908047783880879173
+    second: Woman_Ex_32
+  - first:
+      213: 1893911752014205597
+    second: Woman_Ex_33
+  - first:
+      213: -8820665441610150648
+    second: Woman_Ex_34
+  - first:
+      213: -5270824892743990834
+    second: Woman_Ex_35
+  - first:
+      213: 4595405406732016144
+    second: Woman_Ex_36
+  - first:
+      213: -4261478269661813981
+    second: Woman_Ex_37
+  - first:
+      213: -8932404180611464106
+    second: Woman_Ex_38
+  - first:
+      213: -526511468665311718
+    second: Woman_Ex_39
+  - first:
+      213: -4212899165597510634
+    second: Woman_Ex_40
+  - first:
+      213: 6170546722933961184
+    second: Woman_Ex_41
+  - first:
+      213: 2886211413229113911
+    second: Woman_Ex_42
+  - first:
+      213: 6302862687078561035
+    second: Woman_Ex_43
+  - first:
+      213: 5254809217938124189
+    second: Woman_Ex_44
+  - first:
+      213: -6168782158228252183
+    second: Woman_Ex_45
+  - first:
+      213: -7925001251045081070
+    second: Woman_Ex_46
+  - first:
+      213: 5429716674528518316
+    second: Woman_Ex_47
+  - first:
+      213: -5981919313188206163
+    second: Woman_Ex_48
+  - first:
+      213: -1069983083911350684
+    second: Woman_Ex_49
+  - first:
+      213: 8960908079559423059
+    second: Woman_Ex_50
+  - first:
+      213: -452798181055161272
+    second: Woman_Ex_51
+  - first:
+      213: 703148611300444337
+    second: Woman_Ex_52
+  - first:
+      213: 7025862603197494324
+    second: Woman_Ex_53
+  - first:
+      213: -59792836892653764
+    second: Woman_Ex_54
+  - first:
+      213: -606847890782749784
+    second: Woman_Ex_55
+  - first:
+      213: -4768488353943379396
+    second: Woman_Ex_56
+  - first:
+      213: 9170991484532692375
+    second: Woman_Ex_57
+  - first:
+      213: 8967440301413303350
+    second: Woman_Ex_58
+  - first:
+      213: -926224311167002202
+    second: Woman_Ex_59
+  - first:
+      213: 1304366528168950868
+    second: Woman_Ex_60
+  - first:
+      213: 1810294812614697230
+    second: Woman_Ex_61
+  - first:
+      213: 3297742893539307510
+    second: Woman_Ex_62
+  - first:
+      213: 1052108983592591651
+    second: Woman_Ex_63
+  - first:
+      213: -4648090745734472696
+    second: Woman_Ex_64
+  - first:
+      213: 518441168630116498
+    second: Woman_Ex_65
+  - first:
+      213: -6198947435529636343
+    second: Woman_Ex_66
+  - first:
+      213: -7636145466734931560
+    second: Woman_Ex_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Woman_Ex_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 503
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e434d1b3a6b6d90800000000000000
+      internalID: -7103467185120260532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 503
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3c94e7e733601c0800000000000000
+      internalID: -4537882956151536651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 503
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17741d5152d8de00800000000000000
+      internalID: 1069836158396299039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 503
+        width: 191
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458fda6365da30cd0800000000000000
+      internalID: -2593038374639110060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_4
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 503
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e180770ad00862800800000000000000
+      internalID: 587297597433514014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_5
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 503
+        width: 92
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52df048d0ce1c880800000000000000
+      internalID: -8592327071251836324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_6
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 503
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2663ac7aa85f800800000000000000
+      internalID: 645574574854267642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_7
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 503
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc4606c215c14580800000000000000
+      internalID: -8844571508756558601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 431
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c142d385bd91c70800000000000000
+      internalID: 8942419707150212233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_9
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 431
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be1ea52d18de2f80800000000000000
+      internalID: -8129322657659347275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_10
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 431
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24808dae6752d060800000000000000
+      internalID: 6976734905619219501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_11
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 431
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e89fa777e97de750800000000000000
+      internalID: 6335854285832558816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_12
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 431
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df055def4cde68a40800000000000000
+      internalID: 5370241036030660861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_13
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 431
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7edd4206789c00850800000000000000
+      internalID: 6341289858608455143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_14
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 431
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811224df9f3a71700800000000000000
+      internalID: 511057376820994328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_15
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 431
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6407fdf71f11abc60800000000000000
+      internalID: 7834594230694539334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_16
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 431
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25256f504b7a29730800000000000000
+      internalID: 4004447410321773138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_17
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 431
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d72babe08173720800000000000000
+      internalID: 2825753742739143942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_18
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 431
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f72a1282ecf09c0800000000000000
+      internalID: -3958718875677065334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_19
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 431
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac134a94d1b606a0800000000000000
+      internalID: -6483299086873977688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 359
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6021cd540ba61360800000000000000
+      internalID: 7140082294483656813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_21
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 359
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27814aab6f6028220800000000000000
+      internalID: 2486557601024972914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_22
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 359
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f909725d3d7b69c90800000000000000
+      internalID: -7163336036844072801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_23
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 359
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a01beb5c22c76800800000000000000
+      internalID: 605666170681102500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_24
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 359
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0101fb43418de3e0800000000000000
+      internalID: -2022818531582607092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_25
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 359
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be719664326a27320800000000000000
+      internalID: 2554286609107851243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_26
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 359
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5baf9c5409e1250800000000000000
+      internalID: 5917325589827204560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_27
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 359
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66e283b76bf484a0800000000000000
+      internalID: -6591867531751659921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_28
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 359
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7c4c1f3078855b0800000000000000
+      internalID: -5379401303883200559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_29
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 359
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14756f5f549bd9ad0800000000000000
+      internalID: -2693793291967244479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_30
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 359
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894e509b9a6baca00800000000000000
+      internalID: 777634725744731288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_31
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 359
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0798de297e36a3020800000000000000
+      internalID: 2322278404116547952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 287
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb313256b8c13ebb0800000000000000
+      internalID: -4908047783880879173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_33
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 287
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d929ebe34b6884a10800000000000000
+      internalID: 1893911752014205597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_34
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 287
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d4346c383b69580800000000000000
+      internalID: -8820665441610150648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_35
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 287
+        width: 146
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec145b2afa44ad6b0800000000000000
+      internalID: -5270824892743990834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_36
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 287
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01adb23bed826cf30800000000000000
+      internalID: 4595405406732016144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_37
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 287
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323e2ce87103cd4c0800000000000000
+      internalID: -4261478269661813981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_38
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 287
+        width: 92
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654807049b9b90480800000000000000
+      internalID: -8932404180611464106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_39
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 287
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ee80cdb9471b8f0800000000000000
+      internalID: -526511468665311718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_40
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 287
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6145500a786c885c0800000000000000
+      internalID: -4212899165597510634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_41
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 215
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1fd623d8f22a550800000000000000
+      internalID: 6170546722933961184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_42
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 215
+        width: 290
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73213301df1ed0820800000000000000
+      internalID: 2886211413229113911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_43
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 215
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05b16b4834487750800000000000000
+      internalID: 6302862687078561035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_44
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 215
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d66ad7425dce840800000000000000
+      internalID: 5254809217938124189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_45
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 215
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9990a8f45146aa0800000000000000
+      internalID: -6168782158228252183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_46
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 143
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2108ee2c95db40290800000000000000
+      internalID: -7925001251045081070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_47
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 143
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0a9403c8a3a5b40800000000000000
+      internalID: 5429716674528518316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_48
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 143
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da94e560414fbfca0800000000000000
+      internalID: -5981919313188206163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_49
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 143
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46679cfdd08a621f0800000000000000
+      internalID: -1069983083911350684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_50
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 143
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3543113eb6a8b5c70800000000000000
+      internalID: 8960908079559423059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_51
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 143
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c934f047657b9f0800000000000000
+      internalID: -452798181055161272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_52
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 143
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b84fd0cfe512c900800000000000000
+      internalID: 703148611300444337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_53
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 143
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434b94020d0e08160800000000000000
+      internalID: 7025862603197494324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_54
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 143
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3786ec4bb29b2ff0800000000000000
+      internalID: -59792836892653764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_55
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 71
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abf23dfe0b0497f0800000000000000
+      internalID: -606847890782749784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_56
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 71
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c322e9b4b1de2ddb0800000000000000
+      internalID: -4768488353943379396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_57
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 71
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79514b94a28e54f70800000000000000
+      internalID: 9170991484532692375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_58
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 71
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634034e417fb27c70800000000000000
+      internalID: 8967440301413303350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_59
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 71
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a95f8675e36523f0800000000000000
+      internalID: -926224311167002202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_60
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 71
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c7b60527a0a1210800000000000000
+      internalID: 1304366528168950868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_61
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 71
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01a1ac6a857f1910800000000000000
+      internalID: 1810294812614697230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_62
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 71
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ffaaf180bfe3cd20800000000000000
+      internalID: 3297742893539307510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_63
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 71
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321a808db87d99e00800000000000000
+      internalID: 1052108983592591651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_64
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 290
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c57b8e71aae7fb0800000000000000
+      internalID: -4648090745734472696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_65
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 0
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290f22dfe7fd13700800000000000000
+      internalID: 518441168630116498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_66
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 0
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906ffeb962ae8f9a0800000000000000
+      internalID: -6198947435529636343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Ex_67
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 0
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8911e02f726f60690800000000000000
+      internalID: -7636145466734931560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Woman_Ex_0: -7103467185120260532
+      Woman_Ex_1: -4537882956151536651
+      Woman_Ex_10: 6976734905619219501
+      Woman_Ex_11: 6335854285832558816
+      Woman_Ex_12: 5370241036030660861
+      Woman_Ex_13: 6341289858608455143
+      Woman_Ex_14: 511057376820994328
+      Woman_Ex_15: 7834594230694539334
+      Woman_Ex_16: 4004447410321773138
+      Woman_Ex_17: 2825753742739143942
+      Woman_Ex_18: -3958718875677065334
+      Woman_Ex_19: -6483299086873977688
+      Woman_Ex_2: 1069836158396299039
+      Woman_Ex_20: 7140082294483656813
+      Woman_Ex_21: 2486557601024972914
+      Woman_Ex_22: -7163336036844072801
+      Woman_Ex_23: 605666170681102500
+      Woman_Ex_24: -2022818531582607092
+      Woman_Ex_25: 2554286609107851243
+      Woman_Ex_26: 5917325589827204560
+      Woman_Ex_27: -6591867531751659921
+      Woman_Ex_28: -5379401303883200559
+      Woman_Ex_29: -2693793291967244479
+      Woman_Ex_3: -2593038374639110060
+      Woman_Ex_30: 777634725744731288
+      Woman_Ex_31: 2322278404116547952
+      Woman_Ex_32: -4908047783880879173
+      Woman_Ex_33: 1893911752014205597
+      Woman_Ex_34: -8820665441610150648
+      Woman_Ex_35: -5270824892743990834
+      Woman_Ex_36: 4595405406732016144
+      Woman_Ex_37: -4261478269661813981
+      Woman_Ex_38: -8932404180611464106
+      Woman_Ex_39: -526511468665311718
+      Woman_Ex_4: 587297597433514014
+      Woman_Ex_40: -4212899165597510634
+      Woman_Ex_41: 6170546722933961184
+      Woman_Ex_42: 2886211413229113911
+      Woman_Ex_43: 6302862687078561035
+      Woman_Ex_44: 5254809217938124189
+      Woman_Ex_45: -6168782158228252183
+      Woman_Ex_46: -7925001251045081070
+      Woman_Ex_47: 5429716674528518316
+      Woman_Ex_48: -5981919313188206163
+      Woman_Ex_49: -1069983083911350684
+      Woman_Ex_5: -8592327071251836324
+      Woman_Ex_50: 8960908079559423059
+      Woman_Ex_51: -452798181055161272
+      Woman_Ex_52: 703148611300444337
+      Woman_Ex_53: 7025862603197494324
+      Woman_Ex_54: -59792836892653764
+      Woman_Ex_55: -606847890782749784
+      Woman_Ex_56: -4768488353943379396
+      Woman_Ex_57: 9170991484532692375
+      Woman_Ex_58: 8967440301413303350
+      Woman_Ex_59: -926224311167002202
+      Woman_Ex_6: 645574574854267642
+      Woman_Ex_60: 1304366528168950868
+      Woman_Ex_61: 1810294812614697230
+      Woman_Ex_62: 3297742893539307510
+      Woman_Ex_63: 1052108983592591651
+      Woman_Ex_64: -4648090745734472696
+      Woman_Ex_65: 518441168630116498
+      Woman_Ex_66: -6198947435529636343
+      Woman_Ex_67: -7636145466734931560
+      Woman_Ex_7: -8844571508756558601
+      Woman_Ex_8: 8942419707150212233
+      Woman_Ex_9: -8129322657659347275
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

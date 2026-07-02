@@ -1,0 +1,1768 @@
+fileFormatVersion: 2
+guid: 18b911b89c87b8f46b268219ebf9b4cd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6230628753283188081
+    second: ExChara_0
+  - first:
+      213: -6617925709708077849
+    second: ExChara_1
+  - first:
+      213: -7726552710384676690
+    second: ExChara_2
+  - first:
+      213: -7253881261830502739
+    second: ExChara_3
+  - first:
+      213: 4180884425770129292
+    second: ExChara_4
+  - first:
+      213: -4773258883132304057
+    second: ExChara_5
+  - first:
+      213: 567855019301859413
+    second: ExChara_6
+  - first:
+      213: 1882225226779847524
+    second: ExChara_7
+  - first:
+      213: -2632934890914531787
+    second: ExChara_8
+  - first:
+      213: 2022901339474191740
+    second: ExChara_9
+  - first:
+      213: 3732012246808960375
+    second: ExChara_10
+  - first:
+      213: -2658805496067201907
+    second: ExChara_11
+  - first:
+      213: -2279220206939300765
+    second: ExChara_12
+  - first:
+      213: 189165614857284850
+    second: ExChara_13
+  - first:
+      213: -2651165835114052527
+    second: ExChara_14
+  - first:
+      213: 5990279352509522797
+    second: ExChara_15
+  - first:
+      213: -123765436242310661
+    second: ExChara_16
+  - first:
+      213: 8640933111972636768
+    second: ExChara_17
+  - first:
+      213: 2083300700504993943
+    second: ExChara_18
+  - first:
+      213: 6153844932795794028
+    second: ExChara_19
+  - first:
+      213: -8041286120592723730
+    second: ExChara_20
+  - first:
+      213: 3622276279591159909
+    second: ExChara_21
+  - first:
+      213: -6690531253306427381
+    second: ExChara_22
+  - first:
+      213: 5274511825969072796
+    second: ExChara_23
+  - first:
+      213: 2746870391322451607
+    second: ExChara_24
+  - first:
+      213: 6477270619372151316
+    second: ExChara_25
+  - first:
+      213: -7786129216554897172
+    second: ExChara_26
+  - first:
+      213: -6576676559650326797
+    second: ExChara_27
+  - first:
+      213: -2924066971247645256
+    second: ExChara_28
+  - first:
+      213: -7258197611941344127
+    second: ExChara_29
+  - first:
+      213: 6095298585963867401
+    second: ExChara_30
+  - first:
+      213: 5565744092750583453
+    second: ExChara_31
+  - first:
+      213: -95779672391146123
+    second: ExChara_32
+  - first:
+      213: 2668394143916746454
+    second: ExChara_33
+  - first:
+      213: -6258898361336779171
+    second: ExChara_34
+  - first:
+      213: -7836893078882502934
+    second: ExChara_35
+  - first:
+      213: 3025169866997177671
+    second: ExChara_36
+  - first:
+      213: 4497881111851668980
+    second: ExChara_37
+  - first:
+      213: 885436955513700951
+    second: ExChara_38
+  - first:
+      213: 488162874952684517
+    second: ExChara_39
+  - first:
+      213: -1145803550713749894
+    second: ExChara_40
+  - first:
+      213: 475201876481588268
+    second: ExChara_41
+  - first:
+      213: -3081440407905983730
+    second: ExChara_42
+  - first:
+      213: 3151320658190246343
+    second: ExChara_43
+  - first:
+      213: -6216461524331341968
+    second: ExChara_44
+  - first:
+      213: -6452267215373915145
+    second: ExChara_45
+  - first:
+      213: -6554380015034650762
+    second: ExChara_46
+  - first:
+      213: 2613794618948248970
+    second: ExChara_47
+  - first:
+      213: 8837199844039439324
+    second: ExChara_48
+  - first:
+      213: 6326679407984780136
+    second: ExChara_49
+  - first:
+      213: -3912453041060466947
+    second: ExChara_50
+  - first:
+      213: -3720102003681112080
+    second: ExChara_51
+  - first:
+      213: 6286656708063188762
+    second: ExChara_52
+  - first:
+      213: -1526751428422200885
+    second: ExChara_53
+  - first:
+      213: -5666269894717172222
+    second: ExChara_54
+  - first:
+      213: 1977427165646123940
+    second: ExChara_55
+  - first:
+      213: -5016303564569758117
+    second: ExChara_56
+  - first:
+      213: 5783738355256603679
+    second: ExChara_57
+  - first:
+      213: -2367420601171321870
+    second: ExChara_58
+  - first:
+      213: 1564348338722702200
+    second: ExChara_59
+  - first:
+      213: 5282159471703396838
+    second: ExChara_60
+  - first:
+      213: 8023788906597025414
+    second: ExChara_61
+  - first:
+      213: 4875523804971310956
+    second: ExChara_62
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ExChara_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 506
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17587cef6d3a77650800000000000000
+      internalID: 6230628753283188081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 509
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4dcea51a76824a0800000000000000
+      internalID: -6617925709708077849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 512
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea090373f35c5c490800000000000000
+      internalID: -7726552710384676690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 503
+        width: 146
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da60bb1dc69055b90800000000000000
+      internalID: -7253881261830502739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_4
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 503
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87ddf4eb3c750a30800000000000000
+      internalID: 4180884425770129292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_5
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 503
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745dbe9e55af1cdb0800000000000000
+      internalID: -4773258883132304057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_6
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 503
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550f865a12d61e700800000000000000
+      internalID: 567855019301859413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_7
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 506
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46bed7d0fd10f1a10800000000000000
+      internalID: 1882225226779847524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_8
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 509
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536be46aaafe57bd0800000000000000
+      internalID: -2632934890914531787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_9
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 512
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75650bec0ac21c10800000000000000
+      internalID: 2022901339474191740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 434
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d947c8d55cac330800000000000000
+      internalID: 3732012246808960375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_11
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 437
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84ee000d760a1bd0800000000000000
+      internalID: -2658805496067201907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_12
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 440
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c9d703c459e50e0800000000000000
+      internalID: -2279220206939300765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_13
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 431
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc694ddf1d00a200800000000000000
+      internalID: 189165614857284850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_14
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 431
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154006d28ba253bd0800000000000000
+      internalID: -2651165835114052527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_15
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 431
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63efaf455fb12350800000000000000
+      internalID: 5990279352509522797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_16
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 431
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf94e41ddfb484ef0800000000000000
+      internalID: -123765436242310661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_17
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 434
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0682a0b32e2cae770800000000000000
+      internalID: 8640933111972636768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_18
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 440
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7903ce503fe59ec10800000000000000
+      internalID: 2083300700504993943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_19
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 440
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c628126ac59d66550800000000000000
+      internalID: 6153844932795794028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 362
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0baccb0ec976090800000000000000
+      internalID: -8041286120592723730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_21
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 365
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568ca5ba519e44230800000000000000
+      internalID: 3622276279591159909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_22
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 368
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b087508e5457623a0800000000000000
+      internalID: -6690531253306427381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_23
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 359
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9acb766f84d23940800000000000000
+      internalID: 5274511825969072796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_24
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 359
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e10de3118de1620800000000000000
+      internalID: 2746870391322451607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_25
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 359
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41260cd6f43e3e950800000000000000
+      internalID: 6477270619372151316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_26
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 377
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce074ffeabc12f390800000000000000
+      internalID: -7786129216554897172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_27
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 362
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f677638383fab4a0800000000000000
+      internalID: -6576676559650326797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_28
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 410
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bde45ff490ab67d0800000000000000
+      internalID: -2924066971247645256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_29
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 368
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18cc5ae3ab3b54b90800000000000000
+      internalID: -7258197611941344127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_30
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 368
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d215805c9d69450800000000000000
+      internalID: 6095298585963867401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 215
+        width: 289
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96902783ce7d3d40800000000000000
+      internalID: 5565744092750583453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_32
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 299
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5752c6a35e8bbaef0800000000000000
+      internalID: -95779672391146123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_33
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 290
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6e3ec065a080520800000000000000
+      internalID: 2668394143916746454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_34
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 293
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e2f37f91de329a0800000000000000
+      internalID: -6258898361336779171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_35
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 296
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6bd723443cd3390800000000000000
+      internalID: -7836893078882502934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_36
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 218
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d159b47ff8bf920800000000000000
+      internalID: 3025169866997177671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_37
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 221
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f59bd95a0fab6e30800000000000000
+      internalID: 4497881111851668980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_38
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 224
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752c5644834b94c00800000000000000
+      internalID: 885436955513700951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_39
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 143
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e396126c8d46c600800000000000000
+      internalID: 488162874952684517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_40
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 146
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e5359cdb94910f0800000000000000
+      internalID: -1145803550713749894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_41
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 143
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2cb844c691489600800000000000000
+      internalID: 475201876481588268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_42
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 143
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03aa3276468c35d0800000000000000
+      internalID: -3081440407905983730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_43
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 146
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1a7c4317dbbbb20800000000000000
+      internalID: 3151320658190246343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_44
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 143
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077d85a0e21bab9a0800000000000000
+      internalID: -6216461524331341968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_45
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 146
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb2db73721f476a0800000000000000
+      internalID: -6452267215373915145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_46
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 149
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67fa0f85a1a2a05a0800000000000000
+      internalID: -6554380015034650762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_47
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 152
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85ec328b50164420800000000000000
+      internalID: 2613794618948248970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3bb19cf6a04aa70800000000000000
+      internalID: 8837199844039439324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_49
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 74
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86326b0c661ecc750800000000000000
+      internalID: 6326679407984780136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_50
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 71
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfea13f20bc24b9c0800000000000000
+      internalID: -3912453041060466947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_51
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 71
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff4e5600fa8f5cc0800000000000000
+      internalID: -3720102003681112080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_52
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 74
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17dee4c7f0be3750800000000000000
+      internalID: 6286656708063188762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_53
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 71
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc113983aa3efcae0800000000000000
+      internalID: -1526751428422200885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_54
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 74
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20694eb4d8d5d51b0800000000000000
+      internalID: -5666269894717172222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_55
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 122
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a37b81c78b317b10800000000000000
+      internalID: 1977427165646123940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_56
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 80
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b563b4c4c72826ab0800000000000000
+      internalID: -5016303564569758117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_57
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 77
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f143fdaf367f34050800000000000000
+      internalID: 5783738355256603679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 289
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbdd31a18b352fd0800000000000000
+      internalID: -2367420601171321870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_59
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 2
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8730a8a968ea5b510800000000000000
+      internalID: 1564348338722702200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_60
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 53
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e198ddad000e4940800000000000000
+      internalID: 5282159471703396838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_61
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 5
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6868f6aaf793a5f60800000000000000
+      internalID: 8023788906597025414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExChara_62
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 8
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f9649a11759a340800000000000000
+      internalID: 4875523804971310956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ExChara_0: 6230628753283188081
+      ExChara_1: -6617925709708077849
+      ExChara_10: 3732012246808960375
+      ExChara_11: -2658805496067201907
+      ExChara_12: -2279220206939300765
+      ExChara_13: 189165614857284850
+      ExChara_14: -2651165835114052527
+      ExChara_15: 5990279352509522797
+      ExChara_16: -123765436242310661
+      ExChara_17: 8640933111972636768
+      ExChara_18: 2083300700504993943
+      ExChara_19: 6153844932795794028
+      ExChara_2: -7726552710384676690
+      ExChara_20: -8041286120592723730
+      ExChara_21: 3622276279591159909
+      ExChara_22: -6690531253306427381
+      ExChara_23: 5274511825969072796
+      ExChara_24: 2746870391322451607
+      ExChara_25: 6477270619372151316
+      ExChara_26: -7786129216554897172
+      ExChara_27: -6576676559650326797
+      ExChara_28: -2924066971247645256
+      ExChara_29: -7258197611941344127
+      ExChara_3: -7253881261830502739
+      ExChara_30: 6095298585963867401
+      ExChara_31: 5565744092750583453
+      ExChara_32: -95779672391146123
+      ExChara_33: 2668394143916746454
+      ExChara_34: -6258898361336779171
+      ExChara_35: -7836893078882502934
+      ExChara_36: 3025169866997177671
+      ExChara_37: 4497881111851668980
+      ExChara_38: 885436955513700951
+      ExChara_39: 488162874952684517
+      ExChara_4: 4180884425770129292
+      ExChara_40: -1145803550713749894
+      ExChara_41: 475201876481588268
+      ExChara_42: -3081440407905983730
+      ExChara_43: 3151320658190246343
+      ExChara_44: -6216461524331341968
+      ExChara_45: -6452267215373915145
+      ExChara_46: -6554380015034650762
+      ExChara_47: 2613794618948248970
+      ExChara_48: 8837199844039439324
+      ExChara_49: 6326679407984780136
+      ExChara_5: -4773258883132304057
+      ExChara_50: -3912453041060466947
+      ExChara_51: -3720102003681112080
+      ExChara_52: 6286656708063188762
+      ExChara_53: -1526751428422200885
+      ExChara_54: -5666269894717172222
+      ExChara_55: 1977427165646123940
+      ExChara_56: -5016303564569758117
+      ExChara_57: 5783738355256603679
+      ExChara_58: -2367420601171321870
+      ExChara_59: 1564348338722702200
+      ExChara_6: 567855019301859413
+      ExChara_60: 5282159471703396838
+      ExChara_61: 8023788906597025414
+      ExChara_62: 4875523804971310956
+      ExChara_7: 1882225226779847524
+      ExChara_8: -2632934890914531787
+      ExChara_9: 2022901339474191740
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

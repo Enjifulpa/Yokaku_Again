@@ -1,0 +1,2080 @@
+fileFormatVersion: 2
+guid: 69b55fc75b4a1af49ad70db3f376e6df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2178084394283296415
+    second: '!Kirakira3_0'
+  - first:
+      213: 5988975034607251618
+    second: '!Kirakira3_1'
+  - first:
+      213: -7037659075167582813
+    second: '!Kirakira3_2'
+  - first:
+      213: 8124828689263205439
+    second: '!Kirakira3_3'
+  - first:
+      213: -2718451897722943753
+    second: '!Kirakira3_4'
+  - first:
+      213: 7058389201406798489
+    second: '!Kirakira3_5'
+  - first:
+      213: -7251525172673220126
+    second: '!Kirakira3_6'
+  - first:
+      213: 3736071222873614445
+    second: '!Kirakira3_7'
+  - first:
+      213: 6922427116729924222
+    second: '!Kirakira3_8'
+  - first:
+      213: -2885581649360881614
+    second: '!Kirakira3_9'
+  - first:
+      213: 6675698884578186479
+    second: '!Kirakira3_10'
+  - first:
+      213: -152313449183743088
+    second: '!Kirakira3_11'
+  - first:
+      213: 6242042502439009709
+    second: '!Kirakira3_12'
+  - first:
+      213: 4479033787909379887
+    second: '!Kirakira3_13'
+  - first:
+      213: 1410506733771508513
+    second: '!Kirakira3_14'
+  - first:
+      213: 7333016945046736269
+    second: '!Kirakira3_15'
+  - first:
+      213: 2096963336991168319
+    second: '!Kirakira3_16'
+  - first:
+      213: 4292341946842847825
+    second: '!Kirakira3_17'
+  - first:
+      213: 6928323798500934752
+    second: '!Kirakira3_18'
+  - first:
+      213: -1577408262175677099
+    second: '!Kirakira3_19'
+  - first:
+      213: -3489829893192340874
+    second: '!Kirakira3_20'
+  - first:
+      213: 7146231115794978909
+    second: '!Kirakira3_21'
+  - first:
+      213: -2779997747106092603
+    second: '!Kirakira3_22'
+  - first:
+      213: 2957254572674160416
+    second: '!Kirakira3_23'
+  - first:
+      213: -2929168705349578841
+    second: '!Kirakira3_24'
+  - first:
+      213: -6560946100431540483
+    second: '!Kirakira3_25'
+  - first:
+      213: 2519636965748512202
+    second: '!Kirakira3_26'
+  - first:
+      213: 7866820185037749394
+    second: '!Kirakira3_27'
+  - first:
+      213: 6286752788970166869
+    second: '!Kirakira3_28'
+  - first:
+      213: 1892094261925241491
+    second: '!Kirakira3_29'
+  - first:
+      213: -4112200539633565619
+    second: '!Kirakira3_30'
+  - first:
+      213: 3528242596628836841
+    second: '!Kirakira3_31'
+  - first:
+      213: -6812374846770045073
+    second: '!Kirakira3_32'
+  - first:
+      213: 1578257435083878422
+    second: '!Kirakira3_33'
+  - first:
+      213: -2101854793377377061
+    second: '!Kirakira3_34'
+  - first:
+      213: 6736760548547552775
+    second: '!Kirakira3_35'
+  - first:
+      213: 2439236518268291145
+    second: '!Kirakira3_36'
+  - first:
+      213: -517628577263200208
+    second: '!Kirakira3_37'
+  - first:
+      213: 4350416306248983852
+    second: '!Kirakira3_38'
+  - first:
+      213: 3534972743170462871
+    second: '!Kirakira3_39'
+  - first:
+      213: 995161530444624170
+    second: '!Kirakira3_40'
+  - first:
+      213: 3756557004542420313
+    second: '!Kirakira3_41'
+  - first:
+      213: 6762368999124695725
+    second: '!Kirakira3_42'
+  - first:
+      213: 4668883165646625494
+    second: '!Kirakira3_43'
+  - first:
+      213: -1943097685144495666
+    second: '!Kirakira3_44'
+  - first:
+      213: 2241800804900173192
+    second: '!Kirakira3_45'
+  - first:
+      213: -5827484299378773691
+    second: '!Kirakira3_46'
+  - first:
+      213: -8457676398494424378
+    second: '!Kirakira3_47'
+  - first:
+      213: -9128263922426194730
+    second: '!Kirakira3_48'
+  - first:
+      213: 6958125207674985724
+    second: '!Kirakira3_49'
+  - first:
+      213: 9134920472405775703
+    second: '!Kirakira3_50'
+  - first:
+      213: 4161019854570288152
+    second: '!Kirakira3_51'
+  - first:
+      213: 1509850293429066014
+    second: '!Kirakira3_52'
+  - first:
+      213: -835517247088252467
+    second: '!Kirakira3_53'
+  - first:
+      213: 8050462912731931271
+    second: '!Kirakira3_54'
+  - first:
+      213: 7549789839672615968
+    second: '!Kirakira3_55'
+  - first:
+      213: 2820788536114043065
+    second: '!Kirakira3_56'
+  - first:
+      213: -880664399178096879
+    second: '!Kirakira3_57'
+  - first:
+      213: -3447635850009962516
+    second: '!Kirakira3_58'
+  - first:
+      213: -3526983975896474280
+    second: '!Kirakira3_59'
+  - first:
+      213: 2570478408323014071
+    second: '!Kirakira3_60'
+  - first:
+      213: 421883494398612756
+    second: '!Kirakira3_61'
+  - first:
+      213: -8152592595488330604
+    second: '!Kirakira3_62'
+  - first:
+      213: -6551585771764511086
+    second: '!Kirakira3_63'
+  - first:
+      213: 1863291140684523100
+    second: '!Kirakira3_64'
+  - first:
+      213: -7977500652459481199
+    second: '!Kirakira3_65'
+  - first:
+      213: 5226667163516782116
+    second: '!Kirakira3_66'
+  - first:
+      213: 8251892476177604567
+    second: '!Kirakira3_67'
+  - first:
+      213: 4568909120624336298
+    second: '!Kirakira3_68'
+  - first:
+      213: -6879086818592339139
+    second: '!Kirakira3_69'
+  - first:
+      213: -3626323974133726848
+    second: '!Kirakira3_70'
+  - first:
+      213: 3589795868755248686
+    second: '!Kirakira3_71'
+  - first:
+      213: 8006885188831575556
+    second: '!Kirakira3_72'
+  - first:
+      213: 1017831325408882065
+    second: '!Kirakira3_73'
+  - first:
+      213: -1792478480701195907
+    second: '!Kirakira3_74'
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '!Kirakira3_0'
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 344
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1691ceb88c3e5c1e0800000000000000
+      internalID: -2178084394283296415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_1'
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 341
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0b272201d1d1350800000000000000
+      internalID: 5988975034607251618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_2'
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 341
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a50556bb56355e90800000000000000
+      internalID: -7037659075167582813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_3'
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 338
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c9f6c45a031c070800000000000000
+      internalID: 8124828689263205439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_4'
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 338
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6cc39e66e164ad0800000000000000
+      internalID: -2718451897722943753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_5'
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 335
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a2e4ce49f64f160800000000000000
+      internalID: 7058389201406798489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_6'
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 335
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1720396486d5b90800000000000000
+      internalID: -7251525172673220126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_7'
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 353
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68e0fe8bf039d330800000000000000
+      internalID: 3736071222873614445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_8'
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 290
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7af73c39c6611060800000000000000
+      internalID: 6922427116729924222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_9'
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 290
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238757347ca54f7d0800000000000000
+      internalID: -2885581649360881614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_10'
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 293
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe411c224c8d4ac50800000000000000
+      internalID: 6675698884578186479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_11'
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 290
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09373e699bfd2edf0800000000000000
+      internalID: -152313449183743088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_12'
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 293
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad74ce859030a650800000000000000
+      internalID: 6242042502439009709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_13'
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 287
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f279f49cf79b82e30800000000000000
+      internalID: 4479033787909379887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_14'
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 287
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b4fb3b660239310800000000000000
+      internalID: 1410506733771508513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_15'
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 305
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d4e6d3f0c14c560800000000000000
+      internalID: 7333016945046736269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_16'
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 245
+        width: 8
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3750687b09e91d10800000000000000
+      internalID: 2096963336991168319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_17'
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 260
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a93144246719b30800000000000000
+      internalID: 4292341946842847825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_18'
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 275
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064888279c9562060800000000000000
+      internalID: 6928323798500934752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_19'
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 239
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555a0430b8beb1ae0800000000000000
+      internalID: -1577408262175677099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_20'
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 239
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a2bb9b332a19fc0800000000000000
+      internalID: -3489829893192340874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_21'
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 257
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d589dc366538c2360800000000000000
+      internalID: 7146231115794978909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_22'
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 281
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9ea5f27c67b69d0800000000000000
+      internalID: -2779997747106092603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_23'
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 245
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02794aa9d574a0920800000000000000
+      internalID: 2957254572674160416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_24'
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 245
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af8276f4908957d0800000000000000
+      internalID: -2929168705349578841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_25'
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 242
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe2b457846d2f4a0800000000000000
+      internalID: -6560946100431540483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_26'
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 251
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac51262887c87f220800000000000000
+      internalID: 2519636965748512202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_27'
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 194
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c3c01374f8c2d60800000000000000
+      internalID: 7866820185037749394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_28'
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 197
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a53495a580f3750800000000000000
+      internalID: 6286752788970166869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_29'
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 197
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392eb9bd4b1124a10800000000000000
+      internalID: 1892094261925241491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_30'
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 209
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40c8f585678ee6c0800000000000000
+      internalID: -4112200539633565619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_31'
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 194
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1b67db2f5d6f030800000000000000
+      internalID: 3528242596628836841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_32'
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 203
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f177d9b259571a0800000000000000
+      internalID: -6812374846770045073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_33'
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 191
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6103b4676c817e510800000000000000
+      internalID: 1578257435083878422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_34'
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 173
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd41a479336b4d2e0800000000000000
+      internalID: -2101854793377377061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_35'
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 209
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706ea09a608cd7d50800000000000000
+      internalID: 6736760548547552775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_36'
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 143
+        width: 110
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948ca8290b8e9d120800000000000000
+      internalID: 2439236518268291145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_37'
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 152
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038d2ae2d8301d8f0800000000000000
+      internalID: -517628577263200208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_38'
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 149
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25a90fb498cf5c30800000000000000
+      internalID: 4350416306248983852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_39'
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 50
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7941d571bfebe0130800000000000000
+      internalID: 3534972743170462871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_40'
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 143
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21394ca3268fcd00800000000000000
+      internalID: 995161530444624170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_41'
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 161
+        width: 11
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955a14a41b8f12430800000000000000
+      internalID: 3756557004542420313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_42'
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 161
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daaf0f0b6c2c8dd50800000000000000
+      internalID: 6762368999124695725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_43'
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 143
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da1b2a90843bc040800000000000000
+      internalID: 4668883165646625494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_44'
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 143
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9141943fab805e0800000000000000
+      internalID: -1943097685144495666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_45'
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 110
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885724954f97c1f10800000000000000
+      internalID: 2241800804900173192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_46'
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 98
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541bc51b7ed902fa0800000000000000
+      internalID: -5827484299378773691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_47'
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 98
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2e882502c40aa80800000000000000
+      internalID: -8457676398494424378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_48'
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 98
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4d5cf7354e15180800000000000000
+      internalID: -9128263922426194730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_49'
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 98
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc982ab20a309060800000000000000
+      internalID: 6958125207674985724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_50'
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 98
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755903155c1c5ce70800000000000000
+      internalID: 9134920472405775703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_51'
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 95
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814720ff289eeb930800000000000000
+      internalID: 4161019854570288152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_52'
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 47
+        width: 44
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19dbd3a7d014f410800000000000000
+      internalID: 1509850293429066014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_53'
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 119
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9a7939d75a764f0800000000000000
+      internalID: -835517247088252467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_54'
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 95
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782e7dead5df8bf60800000000000000
+      internalID: 8050462912731931271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_55'
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 95
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0242a82dbdd36c860800000000000000
+      internalID: 7549789839672615968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_56'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 53
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b852997a34752720800000000000000
+      internalID: 2820788536114043065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_57'
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 50
+        width: 95
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f18a8156047c3f0800000000000000
+      internalID: -880664399178096879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_58'
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 53
+        width: 8
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce71145f5798720d0800000000000000
+      internalID: -3447635850009962516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_59'
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 47
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d123cb2c2ad0fc0800000000000000
+      internalID: -3526983975896474280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_60'
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 65
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd97ee4e7c2ca320800000000000000
+      internalID: 2570478408323014071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_61'
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 47
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415da3c8dc4dad500800000000000000
+      internalID: 421883494398612756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_62'
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 53
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c207b8a3c2cde80800000000000000
+      internalID: -8152592595488330604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_63'
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 47
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e097ec3771415a0800000000000000
+      internalID: -6551585771764511086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_64'
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 47
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5622a99b6dbbd910800000000000000
+      internalID: 1863291140684523100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_65'
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197a4b65c693a4190800000000000000
+      internalID: -7977500652459481199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_66'
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 5
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426cd98d71ad88840800000000000000
+      internalID: 5226667163516782116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_67'
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 8
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dfd8479c7c948270800000000000000
+      internalID: 8251892476177604567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_68'
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 8
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad1bd953a6086f30800000000000000
+      internalID: 4568909120624336298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_69'
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 2
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b4bb64cf29880a0800000000000000
+      internalID: -6879086818592339139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_70'
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081c6410f85bcadc0800000000000000
+      internalID: -3626323974133726848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_71'
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e264255b25481d130800000000000000
+      internalID: 3589795868755248686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_72'
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 0
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e74ad28ab2e1f60800000000000000
+      internalID: 8006885188831575556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_73'
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 0
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19de240a230102e00800000000000000
+      internalID: 1017831325408882065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Kirakira3_74'
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 0
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79f54a9156df17e0800000000000000
+      internalID: -1792478480701195907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      '!Kirakira3_0': -2178084394283296415
+      '!Kirakira3_1': 5988975034607251618
+      '!Kirakira3_10': 6675698884578186479
+      '!Kirakira3_11': -152313449183743088
+      '!Kirakira3_12': 6242042502439009709
+      '!Kirakira3_13': 4479033787909379887
+      '!Kirakira3_14': 1410506733771508513
+      '!Kirakira3_15': 7333016945046736269
+      '!Kirakira3_16': 2096963336991168319
+      '!Kirakira3_17': 4292341946842847825
+      '!Kirakira3_18': 6928323798500934752
+      '!Kirakira3_19': -1577408262175677099
+      '!Kirakira3_2': -7037659075167582813
+      '!Kirakira3_20': -3489829893192340874
+      '!Kirakira3_21': 7146231115794978909
+      '!Kirakira3_22': -2779997747106092603
+      '!Kirakira3_23': 2957254572674160416
+      '!Kirakira3_24': -2929168705349578841
+      '!Kirakira3_25': -6560946100431540483
+      '!Kirakira3_26': 2519636965748512202
+      '!Kirakira3_27': 7866820185037749394
+      '!Kirakira3_28': 6286752788970166869
+      '!Kirakira3_29': 1892094261925241491
+      '!Kirakira3_3': 8124828689263205439
+      '!Kirakira3_30': -4112200539633565619
+      '!Kirakira3_31': 3528242596628836841
+      '!Kirakira3_32': -6812374846770045073
+      '!Kirakira3_33': 1578257435083878422
+      '!Kirakira3_34': -2101854793377377061
+      '!Kirakira3_35': 6736760548547552775
+      '!Kirakira3_36': 2439236518268291145
+      '!Kirakira3_37': -517628577263200208
+      '!Kirakira3_38': 4350416306248983852
+      '!Kirakira3_39': 3534972743170462871
+      '!Kirakira3_4': -2718451897722943753
+      '!Kirakira3_40': 995161530444624170
+      '!Kirakira3_41': 3756557004542420313
+      '!Kirakira3_42': 6762368999124695725
+      '!Kirakira3_43': 4668883165646625494
+      '!Kirakira3_44': -1943097685144495666
+      '!Kirakira3_45': 2241800804900173192
+      '!Kirakira3_46': -5827484299378773691
+      '!Kirakira3_47': -8457676398494424378
+      '!Kirakira3_48': -9128263922426194730
+      '!Kirakira3_49': 6958125207674985724
+      '!Kirakira3_5': 7058389201406798489
+      '!Kirakira3_50': 9134920472405775703
+      '!Kirakira3_51': 4161019854570288152
+      '!Kirakira3_52': 1509850293429066014
+      '!Kirakira3_53': -835517247088252467
+      '!Kirakira3_54': 8050462912731931271
+      '!Kirakira3_55': 7549789839672615968
+      '!Kirakira3_56': 2820788536114043065
+      '!Kirakira3_57': -880664399178096879
+      '!Kirakira3_58': -3447635850009962516
+      '!Kirakira3_59': -3526983975896474280
+      '!Kirakira3_6': -7251525172673220126
+      '!Kirakira3_60': 2570478408323014071
+      '!Kirakira3_61': 421883494398612756
+      '!Kirakira3_62': -8152592595488330604
+      '!Kirakira3_63': -6551585771764511086
+      '!Kirakira3_64': 1863291140684523100
+      '!Kirakira3_65': -7977500652459481199
+      '!Kirakira3_66': 5226667163516782116
+      '!Kirakira3_67': 8251892476177604567
+      '!Kirakira3_68': 4568909120624336298
+      '!Kirakira3_69': -6879086818592339139
+      '!Kirakira3_7': 3736071222873614445
+      '!Kirakira3_70': -3626323974133726848
+      '!Kirakira3_71': 3589795868755248686
+      '!Kirakira3_72': 8006885188831575556
+      '!Kirakira3_73': 1017831325408882065
+      '!Kirakira3_74': -1792478480701195907
+      '!Kirakira3_8': 6922427116729924222
+      '!Kirakira3_9': -2885581649360881614
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

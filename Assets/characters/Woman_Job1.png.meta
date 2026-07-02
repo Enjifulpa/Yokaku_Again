@@ -1,0 +1,2080 @@
+fileFormatVersion: 2
+guid: fa8a5c0a4f1db234cac9e8394235fcb9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7457280054518523919
+    second: Woman_Job1_0
+  - first:
+      213: 6134891988759059180
+    second: Woman_Job1_1
+  - first:
+      213: -5969431925104916370
+    second: Woman_Job1_2
+  - first:
+      213: 5003169461095022147
+    second: Woman_Job1_3
+  - first:
+      213: 5509373996894387941
+    second: Woman_Job1_4
+  - first:
+      213: 4995652273772405242
+    second: Woman_Job1_5
+  - first:
+      213: 2037126845138174340
+    second: Woman_Job1_6
+  - first:
+      213: 70432794043069434
+    second: Woman_Job1_7
+  - first:
+      213: 5823997051683983416
+    second: Woman_Job1_8
+  - first:
+      213: -6192234903207859323
+    second: Woman_Job1_9
+  - first:
+      213: 7913528480269641868
+    second: Woman_Job1_10
+  - first:
+      213: -3006786415512260497
+    second: Woman_Job1_11
+  - first:
+      213: -1090151200307799497
+    second: Woman_Job1_12
+  - first:
+      213: 4583992912945798927
+    second: Woman_Job1_13
+  - first:
+      213: -6202494489826349578
+    second: Woman_Job1_14
+  - first:
+      213: 9049253410842886399
+    second: Woman_Job1_15
+  - first:
+      213: 7822999814083919215
+    second: Woman_Job1_16
+  - first:
+      213: -6818340250956939218
+    second: Woman_Job1_17
+  - first:
+      213: 7328777887746288687
+    second: Woman_Job1_18
+  - first:
+      213: 7668907392642943496
+    second: Woman_Job1_19
+  - first:
+      213: -5010343175707776343
+    second: Woman_Job1_20
+  - first:
+      213: -4753291373554899316
+    second: Woman_Job1_21
+  - first:
+      213: -7450263045649020957
+    second: Woman_Job1_22
+  - first:
+      213: 2529535744689029468
+    second: Woman_Job1_23
+  - first:
+      213: -2013940034614143983
+    second: Woman_Job1_24
+  - first:
+      213: -4674006361497684377
+    second: Woman_Job1_25
+  - first:
+      213: 3288147101919946295
+    second: Woman_Job1_26
+  - first:
+      213: -2532411686483955314
+    second: Woman_Job1_27
+  - first:
+      213: 93230875714182923
+    second: Woman_Job1_28
+  - first:
+      213: -3507768154672817695
+    second: Woman_Job1_29
+  - first:
+      213: 2235323413682610522
+    second: Woman_Job1_30
+  - first:
+      213: 830515236119779919
+    second: Woman_Job1_31
+  - first:
+      213: -5818920386853649253
+    second: Woman_Job1_32
+  - first:
+      213: -3965345784383700759
+    second: Woman_Job1_33
+  - first:
+      213: 7501690675050331539
+    second: Woman_Job1_34
+  - first:
+      213: -1452958942320589776
+    second: Woman_Job1_35
+  - first:
+      213: 3544232076667101201
+    second: Woman_Job1_36
+  - first:
+      213: 8179304340238329441
+    second: Woman_Job1_37
+  - first:
+      213: -6249140582237453542
+    second: Woman_Job1_38
+  - first:
+      213: -6321443189972827479
+    second: Woman_Job1_39
+  - first:
+      213: 3914745993160605873
+    second: Woman_Job1_40
+  - first:
+      213: 6147523352391925871
+    second: Woman_Job1_41
+  - first:
+      213: 2281187188620381779
+    second: Woman_Job1_42
+  - first:
+      213: 1323720886035552142
+    second: Woman_Job1_43
+  - first:
+      213: -7733209012930249654
+    second: Woman_Job1_44
+  - first:
+      213: -5084416686790360605
+    second: Woman_Job1_45
+  - first:
+      213: -3448503794747023334
+    second: Woman_Job1_46
+  - first:
+      213: -8784377942691403564
+    second: Woman_Job1_47
+  - first:
+      213: -7228150607097721945
+    second: Woman_Job1_48
+  - first:
+      213: -6200087335846210370
+    second: Woman_Job1_49
+  - first:
+      213: 3987325414075671789
+    second: Woman_Job1_50
+  - first:
+      213: -5580313130839074898
+    second: Woman_Job1_51
+  - first:
+      213: 395745309763376946
+    second: Woman_Job1_52
+  - first:
+      213: 1562172207874157649
+    second: Woman_Job1_53
+  - first:
+      213: -1420606184420893725
+    second: Woman_Job1_54
+  - first:
+      213: -4463081792496398484
+    second: Woman_Job1_55
+  - first:
+      213: 6057544035132331980
+    second: Woman_Job1_56
+  - first:
+      213: 9201678515931119640
+    second: Woman_Job1_57
+  - first:
+      213: 6021569077466664604
+    second: Woman_Job1_58
+  - first:
+      213: 4985384623318761389
+    second: Woman_Job1_59
+  - first:
+      213: 4692910124293087903
+    second: Woman_Job1_60
+  - first:
+      213: 5447463050700700783
+    second: Woman_Job1_61
+  - first:
+      213: -6967789287956007165
+    second: Woman_Job1_62
+  - first:
+      213: 7779448285044253704
+    second: Woman_Job1_63
+  - first:
+      213: -922345208650689967
+    second: Woman_Job1_64
+  - first:
+      213: -8431322514615940906
+    second: Woman_Job1_65
+  - first:
+      213: -2037024933842763430
+    second: Woman_Job1_66
+  - first:
+      213: 2500622671242233662
+    second: Woman_Job1_67
+  - first:
+      213: 429423291355814245
+    second: Woman_Job1_68
+  - first:
+      213: 8209521684755381629
+    second: Woman_Job1_69
+  - first:
+      213: -4959646393611226974
+    second: Woman_Job1_70
+  - first:
+      213: -8690565950168714754
+    second: Woman_Job1_71
+  - first:
+      213: -106938731450954426
+    second: Woman_Job1_72
+  - first:
+      213: 8893232967244535488
+    second: Woman_Job1_73
+  - first:
+      213: 4912112520989382817
+    second: Woman_Job1_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Woman_Job1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 503
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08ae2003b49d7760800000000000000
+      internalID: 7457280054518523919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 503
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea9f5d72c3832550800000000000000
+      internalID: 6134891988759059180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 503
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68ce31aa41582da0800000000000000
+      internalID: -5969431925104916370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 503
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34eb6afed14de6540800000000000000
+      internalID: 5003169461095022147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_4
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 503
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eef9a3d57a357c40800000000000000
+      internalID: 5509373996894387941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 503
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1a39f564f145540800000000000000
+      internalID: 4995652273772405242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_6
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 503
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4818fde8214554c10800000000000000
+      internalID: 2037126845138174340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_7
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 503
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3b975c04a3af000800000000000000
+      internalID: 70432794043069434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_8
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 503
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830db8e267ef2d050800000000000000
+      internalID: 5823997051683983416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_9
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 503
+        width: 140
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b2584d923c01aa0800000000000000
+      internalID: -6192234903207859323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 431
+        width: 190
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88a862a93082dd60800000000000000
+      internalID: 7913528480269641868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_11
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 431
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60fbeb8fafb546d0800000000000000
+      internalID: -3006786415512260497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_12
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 431
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a103a52410fd0f0800000000000000
+      internalID: -1090151200307799497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_13
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 431
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0fda0d644d9d9f30800000000000000
+      internalID: 4583992912945798927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_14
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 431
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd259caf105ce9a0800000000000000
+      internalID: -6202494489826349578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_15
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 431
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff048cb3808659d70800000000000000
+      internalID: 9049253410842886399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_16
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 431
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d3b6402e0e09c60800000000000000
+      internalID: 7822999814083919215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_17
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 431
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20c6f7baa36061a0800000000000000
+      internalID: -6818340250956939218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_18
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 431
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ceadcc8ac05b560800000000000000
+      internalID: 7328777887746288687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 359
+        width: 145
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a89d954ae6d6a60800000000000000
+      internalID: 7668907392642943496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_20
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 359
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aaa2297d6fa77ab0800000000000000
+      internalID: -5010343175707776343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_21
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 359
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86e4550eaae80eb0800000000000000
+      internalID: -4753291373554899316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_22
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 359
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7ced0bb395b9890800000000000000
+      internalID: -7450263045649020957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_23
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 359
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51c7d49b57ba1320800000000000000
+      internalID: 2529535744689029468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_24
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 359
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114d2e5753c0d04e0800000000000000
+      internalID: -2013940034614143983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_25
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 359
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766b3096af7922fb0800000000000000
+      internalID: -4674006361497684377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_26
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 359
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7362b2b2e58d1ad20800000000000000
+      internalID: 3288147101919946295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_27
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 359
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81731a0df01bdcd0800000000000000
+      internalID: -2532411686483955314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_28
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 359
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0fda0dccf83b4100800000000000000
+      internalID: 93230875714182923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_29
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 287
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e99c42c277e15fc0800000000000000
+      internalID: -3507768154672817695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_30
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 287
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a516aae2dc6750f10800000000000000
+      internalID: 2235323413682610522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_31
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 287
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a187df435968b00800000000000000
+      internalID: 830515236119779919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_32
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 287
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b944f45fcba0f3fa0800000000000000
+      internalID: -5818920386853649253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_33
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 287
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e08736b40348f8c0800000000000000
+      internalID: -3965345784383700759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_34
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 287
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d3c3d5ceb5b1860800000000000000
+      internalID: 7501690675050331539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_35
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 287
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03401c14a8d06dbe0800000000000000
+      internalID: -1452958942320589776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_36
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 287
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110a94bab44af2130800000000000000
+      internalID: 3544232076667101201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_37
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 287
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16667bd26f9b28170800000000000000
+      internalID: 8179304340238329441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_38
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 287
+        width: 140
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a134244ffb79649a0800000000000000
+      internalID: -6249140582237453542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 215
+        width: 190
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a28bd149e8b548a0800000000000000
+      internalID: -6321443189972827479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_40
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 215
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0c8345db8f35630800000000000000
+      internalID: 3914745993160605873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_41
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 215
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f604db30be3605550800000000000000
+      internalID: 6147523352391925871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_42
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 215
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ec3eb69a768af10800000000000000
+      internalID: 2281187188620381779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_43
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 215
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e871ae9e12dce5210800000000000000
+      internalID: 1323720886035552142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_44
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 215
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c7172006f1ea490800000000000000
+      internalID: -7733209012930249654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_45
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 215
+        width: 145
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1cac536f58079b0800000000000000
+      internalID: -5084416686790360605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 193
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a106483d1147420d0800000000000000
+      internalID: -3448503794747023334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_47
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 143
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d82a118dce971680800000000000000
+      internalID: -8784377942691403564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_48
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 143
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab8ae8b15370bb90800000000000000
+      internalID: -7228150607097721945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_49
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 143
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb41d72ea6dd4f9a0800000000000000
+      internalID: -6200087335846210370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_50
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 143
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de42edd9653d55730800000000000000
+      internalID: 3987325414075671789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_51
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 143
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea793e4f5cebe82b0800000000000000
+      internalID: -5580313130839074898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_52
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 143
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23719f13348fd7500800000000000000
+      internalID: 395745309763376946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_53
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 143
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ca358a853fda510800000000000000
+      internalID: 1562172207874157649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_54
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 143
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb9ed3b33ef84ce0800000000000000
+      internalID: -1420606184420893725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 145
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f0db291c2ff02c0800000000000000
+      internalID: -4463081792496398484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_56
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 71
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc75959a438b01450800000000000000
+      internalID: 6057544035132331980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_57
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 71
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8100b6f8bdde2bf70800000000000000
+      internalID: 9201678515931119640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_58
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 71
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e80ec1c29e09350800000000000000
+      internalID: 6021569077466664604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_59
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 71
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daffb95b6e4af2540800000000000000
+      internalID: 4985384623318761389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_60
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 71
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92e259d4e0902140800000000000000
+      internalID: 4692910124293087903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_61
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 71
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6cb41068c6499b40800000000000000
+      internalID: 5447463050700700783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_62
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 71
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3073c9d3f807d4f90800000000000000
+      internalID: -6967789287956007165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_63
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 71
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804a59a7ff626fb60800000000000000
+      internalID: 7779448285044253704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_64
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 71
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15297166beb2333f0800000000000000
+      internalID: -922345208650689967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 145
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8409118dcedfa80800000000000000
+      internalID: -8431322514615940906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_66
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5140b38d980bb3e0800000000000000
+      internalID: -2037024933842763430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_67
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e378ea4121ff3b220800000000000000
+      internalID: 2500622671242233662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_68
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 0
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569da83553e95f500800000000000000
+      internalID: 429423291355814245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_69
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7df5b3f9741ee170800000000000000
+      internalID: 8209521684755381629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_70
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 0
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a07141e1ebcb2bb0800000000000000
+      internalID: -4959646393611226974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_71
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 0
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1b61b1058e46780800000000000000
+      internalID: -8690565950168714754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_72
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 0
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d82235ac3148ef0800000000000000
+      internalID: -106938731450954426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_73
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 0
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6576de34c1b6b70800000000000000
+      internalID: 8893232967244535488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Job1_74
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 0
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a81256ff445b2440800000000000000
+      internalID: 4912112520989382817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Woman_Job1_0: 7457280054518523919
+      Woman_Job1_1: 6134891988759059180
+      Woman_Job1_10: 7913528480269641868
+      Woman_Job1_11: -3006786415512260497
+      Woman_Job1_12: -1090151200307799497
+      Woman_Job1_13: 4583992912945798927
+      Woman_Job1_14: -6202494489826349578
+      Woman_Job1_15: 9049253410842886399
+      Woman_Job1_16: 7822999814083919215
+      Woman_Job1_17: -6818340250956939218
+      Woman_Job1_18: 7328777887746288687
+      Woman_Job1_19: 7668907392642943496
+      Woman_Job1_2: -5969431925104916370
+      Woman_Job1_20: -5010343175707776343
+      Woman_Job1_21: -4753291373554899316
+      Woman_Job1_22: -7450263045649020957
+      Woman_Job1_23: 2529535744689029468
+      Woman_Job1_24: -2013940034614143983
+      Woman_Job1_25: -4674006361497684377
+      Woman_Job1_26: 3288147101919946295
+      Woman_Job1_27: -2532411686483955314
+      Woman_Job1_28: 93230875714182923
+      Woman_Job1_29: -3507768154672817695
+      Woman_Job1_3: 5003169461095022147
+      Woman_Job1_30: 2235323413682610522
+      Woman_Job1_31: 830515236119779919
+      Woman_Job1_32: -5818920386853649253
+      Woman_Job1_33: -3965345784383700759
+      Woman_Job1_34: 7501690675050331539
+      Woman_Job1_35: -1452958942320589776
+      Woman_Job1_36: 3544232076667101201
+      Woman_Job1_37: 8179304340238329441
+      Woman_Job1_38: -6249140582237453542
+      Woman_Job1_39: -6321443189972827479
+      Woman_Job1_4: 5509373996894387941
+      Woman_Job1_40: 3914745993160605873
+      Woman_Job1_41: 6147523352391925871
+      Woman_Job1_42: 2281187188620381779
+      Woman_Job1_43: 1323720886035552142
+      Woman_Job1_44: -7733209012930249654
+      Woman_Job1_45: -5084416686790360605
+      Woman_Job1_46: -3448503794747023334
+      Woman_Job1_47: -8784377942691403564
+      Woman_Job1_48: -7228150607097721945
+      Woman_Job1_49: -6200087335846210370
+      Woman_Job1_5: 4995652273772405242
+      Woman_Job1_50: 3987325414075671789
+      Woman_Job1_51: -5580313130839074898
+      Woman_Job1_52: 395745309763376946
+      Woman_Job1_53: 1562172207874157649
+      Woman_Job1_54: -1420606184420893725
+      Woman_Job1_55: -4463081792496398484
+      Woman_Job1_56: 6057544035132331980
+      Woman_Job1_57: 9201678515931119640
+      Woman_Job1_58: 6021569077466664604
+      Woman_Job1_59: 4985384623318761389
+      Woman_Job1_6: 2037126845138174340
+      Woman_Job1_60: 4692910124293087903
+      Woman_Job1_61: 5447463050700700783
+      Woman_Job1_62: -6967789287956007165
+      Woman_Job1_63: 7779448285044253704
+      Woman_Job1_64: -922345208650689967
+      Woman_Job1_65: -8431322514615940906
+      Woman_Job1_66: -2037024933842763430
+      Woman_Job1_67: 2500622671242233662
+      Woman_Job1_68: 429423291355814245
+      Woman_Job1_69: 8209521684755381629
+      Woman_Job1_7: 70432794043069434
+      Woman_Job1_70: -4959646393611226974
+      Woman_Job1_71: -8690565950168714754
+      Woman_Job1_72: -106938731450954426
+      Woman_Job1_73: 8893232967244535488
+      Woman_Job1_74: 4912112520989382817
+      Woman_Job1_8: 5823997051683983416
+      Woman_Job1_9: -6192234903207859323
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

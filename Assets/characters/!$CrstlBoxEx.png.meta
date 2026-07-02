@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 5e08ddcad0c68cc49908dc79050a3180
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8767439854260428738
+    second: '!$CrstlBoxEx_0'
+  - first:
+      213: -6693502682878343364
+    second: '!$CrstlBoxEx_1'
+  - first:
+      213: -4956445150077795408
+    second: '!$CrstlBoxEx_2'
+  - first:
+      213: 1327178929783435194
+    second: '!$CrstlBoxEx_3'
+  - first:
+      213: -3977682178775455269
+    second: '!$CrstlBoxEx_4'
+  - first:
+      213: -3751243200030258522
+    second: '!$CrstlBoxEx_5'
+  - first:
+      213: -8487778262098756386
+    second: '!$CrstlBoxEx_6'
+  - first:
+      213: -6206630118087037971
+    second: '!$CrstlBoxEx_7'
+  - first:
+      213: 113975179646023763
+    second: '!$CrstlBoxEx_8'
+  - first:
+      213: -8052176890007509469
+    second: '!$CrstlBoxEx_9'
+  - first:
+      213: -6054926260140103523
+    second: '!$CrstlBoxEx_10'
+  - first:
+      213: -6167743180308628771
+    second: '!$CrstlBoxEx_11'
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '!$CrstlBoxEx_0'
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 597
+        width: 157
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30643987ebc35680800000000000000
+      internalID: -8767439854260428738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$CrstlBoxEx_1'
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 597
+        width: 157
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3789eb06c6eb13a0800000000000000
+      internalID: -6693502682878343364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$CrstlBoxEx_2'
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 597
+        width: 157
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3c7e8756b273bb0800000000000000
+      internalID: -4956445150077795408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$CrstlBoxEx_3'
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 405
+        width: 157
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abfef1774361b6210800000000000000
+      internalID: 1327178929783435194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$CrstlBoxEx_4'
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 405
+        width: 157
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9efa0122f6cc8c0800000000000000
+      internalID: -3977682178775455269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$CrstlBoxEx_5'
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 405
+        width: 157
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aac81c3f28e0fbc0800000000000000
+      internalID: -3751243200030258522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$CrstlBoxEx_6'
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 213
+        width: 157
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc325b04aa553a80800000000000000
+      internalID: -8487778262098756386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$CrstlBoxEx_7'
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 213
+        width: 157
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb6e2faace9dd9a0800000000000000
+      internalID: -6206630118087037971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$CrstlBoxEx_8'
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 213
+        width: 157
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358330072dbe49100800000000000000
+      internalID: 113975179646023763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$CrstlBoxEx_9'
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 21
+        width: 157
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3262e72e7cbe04090800000000000000
+      internalID: -8052176890007509469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$CrstlBoxEx_10'
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 21
+        width: 157
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d982a2395a498fba0800000000000000
+      internalID: -6054926260140103523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$CrstlBoxEx_11'
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 21
+        width: 157
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddabddf6146c76aa0800000000000000
+      internalID: -6167743180308628771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      '!$CrstlBoxEx_0': -8767439854260428738
+      '!$CrstlBoxEx_1': -6693502682878343364
+      '!$CrstlBoxEx_10': -6054926260140103523
+      '!$CrstlBoxEx_11': -6167743180308628771
+      '!$CrstlBoxEx_2': -4956445150077795408
+      '!$CrstlBoxEx_3': 1327178929783435194
+      '!$CrstlBoxEx_4': -3977682178775455269
+      '!$CrstlBoxEx_5': -3751243200030258522
+      '!$CrstlBoxEx_6': -8487778262098756386
+      '!$CrstlBoxEx_7': -6206630118087037971
+      '!$CrstlBoxEx_8': 113975179646023763
+      '!$CrstlBoxEx_9': -8052176890007509469
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

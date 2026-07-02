@@ -1,0 +1,2522 @@
+fileFormatVersion: 2
+guid: 1fb8e4ef680172b4d9517663126ef11b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3220996580944231928
+    second: Woman_Mob_DLC2_0
+  - first:
+      213: 7027714374044101841
+    second: Woman_Mob_DLC2_1
+  - first:
+      213: -1858842055331024019
+    second: Woman_Mob_DLC2_2
+  - first:
+      213: -5190981843716424972
+    second: Woman_Mob_DLC2_3
+  - first:
+      213: 9068717409058142432
+    second: Woman_Mob_DLC2_4
+  - first:
+      213: -8718653590291563017
+    second: Woman_Mob_DLC2_5
+  - first:
+      213: -863343007783329067
+    second: Woman_Mob_DLC2_6
+  - first:
+      213: 1203874398220653406
+    second: Woman_Mob_DLC2_7
+  - first:
+      213: 3651564045075592218
+    second: Woman_Mob_DLC2_8
+  - first:
+      213: -2354332742534932509
+    second: Woman_Mob_DLC2_9
+  - first:
+      213: 2260714468466858802
+    second: Woman_Mob_DLC2_10
+  - first:
+      213: 3861705659735368692
+    second: Woman_Mob_DLC2_11
+  - first:
+      213: -3716957162679771723
+    second: Woman_Mob_DLC2_12
+  - first:
+      213: 8614765907023253058
+    second: Woman_Mob_DLC2_13
+  - first:
+      213: -6781528853821777083
+    second: Woman_Mob_DLC2_14
+  - first:
+      213: 7062762138407798695
+    second: Woman_Mob_DLC2_15
+  - first:
+      213: -3016646445775992178
+    second: Woman_Mob_DLC2_16
+  - first:
+      213: -6801966491334922846
+    second: Woman_Mob_DLC2_17
+  - first:
+      213: 5030794606513714112
+    second: Woman_Mob_DLC2_18
+  - first:
+      213: -8954252595299807346
+    second: Woman_Mob_DLC2_19
+  - first:
+      213: -8711964815225051317
+    second: Woman_Mob_DLC2_20
+  - first:
+      213: -4746853327023750989
+    second: Woman_Mob_DLC2_21
+  - first:
+      213: 8053376848381072335
+    second: Woman_Mob_DLC2_22
+  - first:
+      213: -2950256453864753948
+    second: Woman_Mob_DLC2_23
+  - first:
+      213: 4237338826592544962
+    second: Woman_Mob_DLC2_24
+  - first:
+      213: 3571463222461390039
+    second: Woman_Mob_DLC2_25
+  - first:
+      213: -6852748848530511091
+    second: Woman_Mob_DLC2_26
+  - first:
+      213: -7070255775454585500
+    second: Woman_Mob_DLC2_27
+  - first:
+      213: 3025930734497957189
+    second: Woman_Mob_DLC2_28
+  - first:
+      213: 3017798156370564564
+    second: Woman_Mob_DLC2_29
+  - first:
+      213: 8741743874485275782
+    second: Woman_Mob_DLC2_30
+  - first:
+      213: 2450098915299160035
+    second: Woman_Mob_DLC2_31
+  - first:
+      213: -3134890487759741755
+    second: Woman_Mob_DLC2_32
+  - first:
+      213: 6687657210426946429
+    second: Woman_Mob_DLC2_33
+  - first:
+      213: 3974690581846397023
+    second: Woman_Mob_DLC2_34
+  - first:
+      213: -6120470622473414814
+    second: Woman_Mob_DLC2_35
+  - first:
+      213: 5637613473728765396
+    second: Woman_Mob_DLC2_36
+  - first:
+      213: -6549255662487864110
+    second: Woman_Mob_DLC2_37
+  - first:
+      213: 7528121864849045060
+    second: Woman_Mob_DLC2_38
+  - first:
+      213: -6401861057007001607
+    second: Woman_Mob_DLC2_39
+  - first:
+      213: -3354457235512326832
+    second: Woman_Mob_DLC2_40
+  - first:
+      213: -1694641216151511356
+    second: Woman_Mob_DLC2_41
+  - first:
+      213: 5741489693581667744
+    second: Woman_Mob_DLC2_42
+  - first:
+      213: -4274947247231854794
+    second: Woman_Mob_DLC2_43
+  - first:
+      213: 2898802650053829053
+    second: Woman_Mob_DLC2_44
+  - first:
+      213: 7782425572171574766
+    second: Woman_Mob_DLC2_45
+  - first:
+      213: -2537129025031346344
+    second: Woman_Mob_DLC2_46
+  - first:
+      213: -427499958544688877
+    second: Woman_Mob_DLC2_47
+  - first:
+      213: 4504347208695789107
+    second: Woman_Mob_DLC2_48
+  - first:
+      213: 7835197679047160333
+    second: Woman_Mob_DLC2_49
+  - first:
+      213: -7287393920539489591
+    second: Woman_Mob_DLC2_50
+  - first:
+      213: -6638483473401639555
+    second: Woman_Mob_DLC2_51
+  - first:
+      213: -647968148383080768
+    second: Woman_Mob_DLC2_52
+  - first:
+      213: -2075296825129994305
+    second: Woman_Mob_DLC2_53
+  - first:
+      213: -9197832774002625944
+    second: Woman_Mob_DLC2_54
+  - first:
+      213: 8711665304929379498
+    second: Woman_Mob_DLC2_55
+  - first:
+      213: -3743830716957473078
+    second: Woman_Mob_DLC2_56
+  - first:
+      213: 3229488042814000345
+    second: Woman_Mob_DLC2_57
+  - first:
+      213: 1277121018992470060
+    second: Woman_Mob_DLC2_58
+  - first:
+      213: 7242024012289186540
+    second: Woman_Mob_DLC2_59
+  - first:
+      213: 6620953601642479860
+    second: Woman_Mob_DLC2_60
+  - first:
+      213: 8885515013166887038
+    second: Woman_Mob_DLC2_61
+  - first:
+      213: 4614307379237212774
+    second: Woman_Mob_DLC2_62
+  - first:
+      213: -4621287251214460310
+    second: Woman_Mob_DLC2_63
+  - first:
+      213: -223393957284118042
+    second: Woman_Mob_DLC2_64
+  - first:
+      213: -5054464679730315027
+    second: Woman_Mob_DLC2_65
+  - first:
+      213: -2721689033343204175
+    second: Woman_Mob_DLC2_66
+  - first:
+      213: -1500332156818697074
+    second: Woman_Mob_DLC2_67
+  - first:
+      213: 8802139938293307628
+    second: Woman_Mob_DLC2_68
+  - first:
+      213: 3396987523094669651
+    second: Woman_Mob_DLC2_69
+  - first:
+      213: 8969398787968731219
+    second: Woman_Mob_DLC2_70
+  - first:
+      213: 619030154346019338
+    second: Woman_Mob_DLC2_71
+  - first:
+      213: 4722940797484649534
+    second: Woman_Mob_DLC2_72
+  - first:
+      213: 4652106621077308856
+    second: Woman_Mob_DLC2_73
+  - first:
+      213: -7801553445747806871
+    second: Woman_Mob_DLC2_74
+  - first:
+      213: 2527225039997804183
+    second: Woman_Mob_DLC2_75
+  - first:
+      213: 1344421010302218376
+    second: Woman_Mob_DLC2_76
+  - first:
+      213: -6915642999534893500
+    second: Woman_Mob_DLC2_77
+  - first:
+      213: -8320593395132369369
+    second: Woman_Mob_DLC2_78
+  - first:
+      213: 5040729924387759675
+    second: Woman_Mob_DLC2_79
+  - first:
+      213: 7435722383027630714
+    second: Woman_Mob_DLC2_80
+  - first:
+      213: -2560333217239666942
+    second: Woman_Mob_DLC2_81
+  - first:
+      213: -7562300253033452817
+    second: Woman_Mob_DLC2_82
+  - first:
+      213: -2855774651838793100
+    second: Woman_Mob_DLC2_83
+  - first:
+      213: 5028698147700480757
+    second: Woman_Mob_DLC2_84
+  - first:
+      213: -5406215315920950580
+    second: Woman_Mob_DLC2_85
+  - first:
+      213: 3346550278928409379
+    second: Woman_Mob_DLC2_86
+  - first:
+      213: -7071978998272996338
+    second: Woman_Mob_DLC2_87
+  - first:
+      213: 3015881686992395446
+    second: Woman_Mob_DLC2_88
+  - first:
+      213: -3584413811373976653
+    second: Woman_Mob_DLC2_89
+  - first:
+      213: -6786406910121752100
+    second: Woman_Mob_DLC2_90
+  - first:
+      213: -8285988754593728952
+    second: Woman_Mob_DLC2_91
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 503
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802421adca8bc43d0800000000000000
+      internalID: -3220996580944231928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 503
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc2ecf1df4778160800000000000000
+      internalID: 7027714374044101841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 503
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63ff6ecff01436e0800000000000000
+      internalID: -1858842055331024019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 503
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fab7c1248de5f7b0800000000000000
+      internalID: -5190981843716424972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_4
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 503
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8bf477f6e8add70800000000000000
+      internalID: 9068717409058142432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 503
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fdbcf6c0ce110780800000000000000
+      internalID: -8718653590291563017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_6
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 503
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2e1cdcb1ac404f0800000000000000
+      internalID: -863343007783329067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_7
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 503
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e531124036505b010800000000000000
+      internalID: 1203874398220653406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_8
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 503
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14b155f626fca230800000000000000
+      internalID: 3651564045075592218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_9
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 503
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7522e28dab35fd0800000000000000
+      internalID: -2354332742534932509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_10
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 503
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b9d8fc4dbaf5f10800000000000000
+      internalID: 2260714468466858802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_11
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 503
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f364ab56d8879530800000000000000
+      internalID: 3861705659735368692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 431
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bdd0216727ba6cc0800000000000000
+      internalID: -3716957162679771723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_13
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 431
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e444f03fbcd8770800000000000000
+      internalID: 8614765907023253058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_14
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 431
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b14e1007b23e1a0800000000000000
+      internalID: -6781528853821777083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_15
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 431
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a700e8aeb8f30260800000000000000
+      internalID: 7062762138407798695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_16
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 431
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ac39a5a08b226d0800000000000000
+      internalID: -3016646445775992178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_17
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 431
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad2fd5b38f8a91a0800000000000000
+      internalID: -6801966491334922846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_18
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 431
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c373335a09f0d540800000000000000
+      internalID: 5030794606513714112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_19
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 431
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f090cc4ba1cb380800000000000000
+      internalID: -8954252595299807346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_20
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 431
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b472fc49822e81780800000000000000
+      internalID: -8711964815225051317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_21
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 431
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b04ed98c0acf1eb0800000000000000
+      internalID: -4746853327023750989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_22
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 431
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3db12339753cf60800000000000000
+      internalID: 8053376848381072335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_23
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 431
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e47617e2659e07d0800000000000000
+      internalID: -2950256453864753948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 359
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8e400663d0eca30800000000000000
+      internalID: 4237338826592544962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_25
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 359
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dcde2fd0e2609130800000000000000
+      internalID: 3571463222461390039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_26
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 359
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b2f5cca3526e0a0800000000000000
+      internalID: -6852748848530511091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_27
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 359
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d10e005d761ed90800000000000000
+      internalID: -7070255775454585500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_28
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 359
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54500b098f34ef920800000000000000
+      internalID: 3025930734497957189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_29
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 359
+        width: 89
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5db4a2f6f51e920800000000000000
+      internalID: 3017798156370564564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_30
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 359
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c4424fcb9e05970800000000000000
+      internalID: 8741743874485275782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_31
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 359
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efe9f67bff700220800000000000000
+      internalID: 2450098915299160035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_32
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 359
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc5453f5b1ae74d0800000000000000
+      internalID: -3134890487759741755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_33
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 359
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73f317dcc45fcc50800000000000000
+      internalID: 6687657210426946429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_34
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 359
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f509b0f7600f82730800000000000000
+      internalID: 3974690581846397023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 287
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26712418568bf0ba0800000000000000
+      internalID: -6120470622473414814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_36
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 287
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd1f82c593dc3e40800000000000000
+      internalID: 5637613473728765396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_37
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 287
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dcf136acae5c15a0800000000000000
+      internalID: -6549255662487864110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_38
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 287
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446bd2c43f2497860800000000000000
+      internalID: 7528121864849045060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_39
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 287
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ffd0b389450827a0800000000000000
+      internalID: -6401861057007001607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_40
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 287
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0558c0fbae29271d0800000000000000
+      internalID: -3354457235512326832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_41
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 287
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce9d81eacc6b78e0800000000000000
+      internalID: -1694641216151511356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_42
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 287
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad6083e47eddaf40800000000000000
+      internalID: 5741489693581667744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_43
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 287
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6371637d0265ca4c0800000000000000
+      internalID: -4274947247231854794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_44
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 287
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db16b66d6ad9a3820800000000000000
+      internalID: 2898802650053829053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_45
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 287
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eede33823dab00c60800000000000000
+      internalID: 7782425572171574766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_46
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 287
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8576ca1189e4accd0800000000000000
+      internalID: -2537129025031346344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_47
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 215
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 319137d7d07311af0800000000000000
+      internalID: -427499958544688877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_48
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 215
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336b557dbe7a28e30800000000000000
+      internalID: 4504347208695789107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_49
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 215
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d023294c6c63cbc60800000000000000
+      internalID: 7835197679047160333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_50
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 215
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca07ebe6d9fdda90800000000000000
+      internalID: -7287393920539489591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_51
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 215
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d0890047e5fd3a0800000000000000
+      internalID: -6638483473401639555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_52
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 215
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cedbd1f664f107f0800000000000000
+      internalID: -647968148383080768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_53
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 215
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb771ae68801333e0800000000000000
+      internalID: -2075296825129994305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_54
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 215
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862b02203dbba5080800000000000000
+      internalID: -9197832774002625944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_55
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 215
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4296e307d06e870800000000000000
+      internalID: 8711665304929379498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_56
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 215
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6cd807ccd3b0cc0800000000000000
+      internalID: -3743830716957473078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_57
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 215
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dccc4ea34271dc20800000000000000
+      internalID: 3229488042814000345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_58
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 215
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c282b30ecce39b110800000000000000
+      internalID: 1277121018992470060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea98532876d08460800000000000000
+      internalID: 7242024012289186540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_60
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 143
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f04e3ca83a52eb50800000000000000
+      internalID: 6620953601642479860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_61
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 143
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e707636b3d0bf4b70800000000000000
+      internalID: 8885515013166887038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_62
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 143
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662d5ef1d10590040800000000000000
+      internalID: 4614307379237212774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_63
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 143
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a125acab3eddfb0800000000000000
+      internalID: -4621287251214460310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_64
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 143
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e18c13216856ecf0800000000000000
+      internalID: -223393957284118042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_65
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 143
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de08aea472fead9b0800000000000000
+      internalID: -5054464679730315027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_66
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 143
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4808a8e3e9a3ad0800000000000000
+      internalID: -2721689033343204175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_67
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 143
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84d9bb3adfbd2be0800000000000000
+      internalID: -1500332156818697074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_68
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 143
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8504d53ab772a70800000000000000
+      internalID: 8802139938293307628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_69
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 143
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359ed7c7726842f20800000000000000
+      internalID: 3396987523094669651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_70
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 143
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35802bdfca4b97c70800000000000000
+      internalID: 8969398787968731219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_71
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 71
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0abc0745ac379800800000000000000
+      internalID: 619030154346019338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_72
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 71
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3cc541d1a14b8140800000000000000
+      internalID: 4722940797484649534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_73
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 71
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b54e8ee25a9f8040800000000000000
+      internalID: 4652106621077308856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_74
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 71
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d2af9b9705bb390800000000000000
+      internalID: -7801553445747806871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_75
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 71
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e9a88b8c1821320800000000000000
+      internalID: 2527225039997804183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_76
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 71
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880b2ab29c758a210800000000000000
+      internalID: 1344421010302218376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_77
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 71
+        width: 95
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4464e432553b600a0800000000000000
+      internalID: -6915642999534893500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_78
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 71
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7267caa3460578c80800000000000000
+      internalID: -8320593395132369369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_79
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 71
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3660d7c82544f540800000000000000
+      internalID: 5040729924387759675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_80
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 71
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7278c87c1ef03760800000000000000
+      internalID: 7435722383027630714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_81
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 71
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20febcf018ed77cd0800000000000000
+      internalID: -2560333217239666942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_82
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea28159cff4d0790800000000000000
+      internalID: -7562300253033452817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_83
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a759ea5104e58d0800000000000000
+      internalID: -2855774651838793100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_84
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa1a58725689c540800000000000000
+      internalID: 5028698147700480757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_85
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 146
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca614340d349f4b0800000000000000
+      internalID: -5406215315920950580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_86
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32323867fb5517e20800000000000000
+      internalID: 3346550278928409379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_87
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c4aece1984bdd90800000000000000
+      internalID: -7071978998272996338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_88
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 0
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc99cd5a609ad920800000000000000
+      internalID: 3015881686992395446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_89
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 0
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3dc0d21aa914ec0800000000000000
+      internalID: -3584413811373976653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_90
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 0
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9cfe40fd6d1d1a0800000000000000
+      internalID: -6786406910121752100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Mob_DLC2_91
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 0
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8463f85f021420d80800000000000000
+      internalID: -8285988754593728952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Woman_Mob_DLC2_0: -3220996580944231928
+      Woman_Mob_DLC2_1: 7027714374044101841
+      Woman_Mob_DLC2_10: 2260714468466858802
+      Woman_Mob_DLC2_11: 3861705659735368692
+      Woman_Mob_DLC2_12: -3716957162679771723
+      Woman_Mob_DLC2_13: 8614765907023253058
+      Woman_Mob_DLC2_14: -6781528853821777083
+      Woman_Mob_DLC2_15: 7062762138407798695
+      Woman_Mob_DLC2_16: -3016646445775992178
+      Woman_Mob_DLC2_17: -6801966491334922846
+      Woman_Mob_DLC2_18: 5030794606513714112
+      Woman_Mob_DLC2_19: -8954252595299807346
+      Woman_Mob_DLC2_2: -1858842055331024019
+      Woman_Mob_DLC2_20: -8711964815225051317
+      Woman_Mob_DLC2_21: -4746853327023750989
+      Woman_Mob_DLC2_22: 8053376848381072335
+      Woman_Mob_DLC2_23: -2950256453864753948
+      Woman_Mob_DLC2_24: 4237338826592544962
+      Woman_Mob_DLC2_25: 3571463222461390039
+      Woman_Mob_DLC2_26: -6852748848530511091
+      Woman_Mob_DLC2_27: -7070255775454585500
+      Woman_Mob_DLC2_28: 3025930734497957189
+      Woman_Mob_DLC2_29: 3017798156370564564
+      Woman_Mob_DLC2_3: -5190981843716424972
+      Woman_Mob_DLC2_30: 8741743874485275782
+      Woman_Mob_DLC2_31: 2450098915299160035
+      Woman_Mob_DLC2_32: -3134890487759741755
+      Woman_Mob_DLC2_33: 6687657210426946429
+      Woman_Mob_DLC2_34: 3974690581846397023
+      Woman_Mob_DLC2_35: -6120470622473414814
+      Woman_Mob_DLC2_36: 5637613473728765396
+      Woman_Mob_DLC2_37: -6549255662487864110
+      Woman_Mob_DLC2_38: 7528121864849045060
+      Woman_Mob_DLC2_39: -6401861057007001607
+      Woman_Mob_DLC2_4: 9068717409058142432
+      Woman_Mob_DLC2_40: -3354457235512326832
+      Woman_Mob_DLC2_41: -1694641216151511356
+      Woman_Mob_DLC2_42: 5741489693581667744
+      Woman_Mob_DLC2_43: -4274947247231854794
+      Woman_Mob_DLC2_44: 2898802650053829053
+      Woman_Mob_DLC2_45: 7782425572171574766
+      Woman_Mob_DLC2_46: -2537129025031346344
+      Woman_Mob_DLC2_47: -427499958544688877
+      Woman_Mob_DLC2_48: 4504347208695789107
+      Woman_Mob_DLC2_49: 7835197679047160333
+      Woman_Mob_DLC2_5: -8718653590291563017
+      Woman_Mob_DLC2_50: -7287393920539489591
+      Woman_Mob_DLC2_51: -6638483473401639555
+      Woman_Mob_DLC2_52: -647968148383080768
+      Woman_Mob_DLC2_53: -2075296825129994305
+      Woman_Mob_DLC2_54: -9197832774002625944
+      Woman_Mob_DLC2_55: 8711665304929379498
+      Woman_Mob_DLC2_56: -3743830716957473078
+      Woman_Mob_DLC2_57: 3229488042814000345
+      Woman_Mob_DLC2_58: 1277121018992470060
+      Woman_Mob_DLC2_59: 7242024012289186540
+      Woman_Mob_DLC2_6: -863343007783329067
+      Woman_Mob_DLC2_60: 6620953601642479860
+      Woman_Mob_DLC2_61: 8885515013166887038
+      Woman_Mob_DLC2_62: 4614307379237212774
+      Woman_Mob_DLC2_63: -4621287251214460310
+      Woman_Mob_DLC2_64: -223393957284118042
+      Woman_Mob_DLC2_65: -5054464679730315027
+      Woman_Mob_DLC2_66: -2721689033343204175
+      Woman_Mob_DLC2_67: -1500332156818697074
+      Woman_Mob_DLC2_68: 8802139938293307628
+      Woman_Mob_DLC2_69: 3396987523094669651
+      Woman_Mob_DLC2_7: 1203874398220653406
+      Woman_Mob_DLC2_70: 8969398787968731219
+      Woman_Mob_DLC2_71: 619030154346019338
+      Woman_Mob_DLC2_72: 4722940797484649534
+      Woman_Mob_DLC2_73: 4652106621077308856
+      Woman_Mob_DLC2_74: -7801553445747806871
+      Woman_Mob_DLC2_75: 2527225039997804183
+      Woman_Mob_DLC2_76: 1344421010302218376
+      Woman_Mob_DLC2_77: -6915642999534893500
+      Woman_Mob_DLC2_78: -8320593395132369369
+      Woman_Mob_DLC2_79: 5040729924387759675
+      Woman_Mob_DLC2_8: 3651564045075592218
+      Woman_Mob_DLC2_80: 7435722383027630714
+      Woman_Mob_DLC2_81: -2560333217239666942
+      Woman_Mob_DLC2_82: -7562300253033452817
+      Woman_Mob_DLC2_83: -2855774651838793100
+      Woman_Mob_DLC2_84: 5028698147700480757
+      Woman_Mob_DLC2_85: -5406215315920950580
+      Woman_Mob_DLC2_86: 3346550278928409379
+      Woman_Mob_DLC2_87: -7071978998272996338
+      Woman_Mob_DLC2_88: 3015881686992395446
+      Woman_Mob_DLC2_89: -3584413811373976653
+      Woman_Mob_DLC2_9: -2354332742534932509
+      Woman_Mob_DLC2_90: -6786406910121752100
+      Woman_Mob_DLC2_91: -8285988754593728952
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

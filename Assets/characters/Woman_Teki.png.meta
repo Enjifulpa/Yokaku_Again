@@ -1,0 +1,1534 @@
+fileFormatVersion: 2
+guid: aba5cc6af48f91e49b9837b93e8b439d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3478995542707388486
+    second: Woman_Teki_0
+  - first:
+      213: -8492921682808931818
+    second: Woman_Teki_1
+  - first:
+      213: -7799085095181108309
+    second: Woman_Teki_2
+  - first:
+      213: 4655287241631524527
+    second: Woman_Teki_3
+  - first:
+      213: 3993295806367020813
+    second: Woman_Teki_4
+  - first:
+      213: -6161311384349427225
+    second: Woman_Teki_5
+  - first:
+      213: 452934172681846723
+    second: Woman_Teki_6
+  - first:
+      213: 3329030841812777756
+    second: Woman_Teki_7
+  - first:
+      213: 2431912190862009905
+    second: Woman_Teki_8
+  - first:
+      213: -8642564588457865692
+    second: Woman_Teki_9
+  - first:
+      213: -9166426729554555958
+    second: Woman_Teki_10
+  - first:
+      213: -6797032316526532859
+    second: Woman_Teki_11
+  - first:
+      213: 135497077070065847
+    second: Woman_Teki_12
+  - first:
+      213: 6745920862108546598
+    second: Woman_Teki_13
+  - first:
+      213: 3894668643294592785
+    second: Woman_Teki_14
+  - first:
+      213: -2886234479880132746
+    second: Woman_Teki_15
+  - first:
+      213: -952065818727285405
+    second: Woman_Teki_16
+  - first:
+      213: -5665403311519722653
+    second: Woman_Teki_17
+  - first:
+      213: 4661989157225786432
+    second: Woman_Teki_18
+  - first:
+      213: -3164427211881795176
+    second: Woman_Teki_19
+  - first:
+      213: -1884755741003195531
+    second: Woman_Teki_20
+  - first:
+      213: -5508454289285990143
+    second: Woman_Teki_21
+  - first:
+      213: -6901222087518995928
+    second: Woman_Teki_22
+  - first:
+      213: 2904230710893798136
+    second: Woman_Teki_23
+  - first:
+      213: -5973412092158879064
+    second: Woman_Teki_24
+  - first:
+      213: 258864821867185672
+    second: Woman_Teki_25
+  - first:
+      213: 4048226920172585385
+    second: Woman_Teki_26
+  - first:
+      213: 2471717331546273458
+    second: Woman_Teki_27
+  - first:
+      213: -3556209626163566635
+    second: Woman_Teki_28
+  - first:
+      213: -673458389556274887
+    second: Woman_Teki_29
+  - first:
+      213: 694702612101175629
+    second: Woman_Teki_30
+  - first:
+      213: 5225500681445706387
+    second: Woman_Teki_31
+  - first:
+      213: -7545117088615990335
+    second: Woman_Teki_32
+  - first:
+      213: 2805762732984662938
+    second: Woman_Teki_33
+  - first:
+      213: -7229494181515266716
+    second: Woman_Teki_34
+  - first:
+      213: 3604445258894217312
+    second: Woman_Teki_35
+  - first:
+      213: 8303276629818654491
+    second: Woman_Teki_36
+  - first:
+      213: 107400217945402626
+    second: Woman_Teki_37
+  - first:
+      213: -5512953533976272512
+    second: Woman_Teki_38
+  - first:
+      213: 604873755968347528
+    second: Woman_Teki_39
+  - first:
+      213: -1682182088913219199
+    second: Woman_Teki_40
+  - first:
+      213: 4462042752601493449
+    second: Woman_Teki_41
+  - first:
+      213: 314502543328259264
+    second: Woman_Teki_42
+  - first:
+      213: 6815427251134599325
+    second: Woman_Teki_43
+  - first:
+      213: -2631333250120254029
+    second: Woman_Teki_44
+  - first:
+      213: -5923157754567477107
+    second: Woman_Teki_45
+  - first:
+      213: -2178629751934117094
+    second: Woman_Teki_46
+  - first:
+      213: 7124995124152014932
+    second: Woman_Teki_47
+  - first:
+      213: -7520984991462310796
+    second: Woman_Teki_48
+  - first:
+      213: 7490869547663737738
+    second: Woman_Teki_49
+  - first:
+      213: -2938004143373097383
+    second: Woman_Teki_50
+  - first:
+      213: -3455813495227627844
+    second: Woman_Teki_51
+  - first:
+      213: -7573888719040659357
+    second: Woman_Teki_52
+  - first:
+      213: 1035291403748343738
+    second: Woman_Teki_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Woman_Teki_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 503
+        width: 289
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640cd3a7300e74030800000000000000
+      internalID: 3478995542707388486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Teki_1
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 503
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61af5f61ab4132a80800000000000000
+      internalID: -8492921682808931818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Teki_2
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 503
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: babbfa06d6514c390800000000000000
+      internalID: -7799085095181108309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Teki_3
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 503
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6eadcd417ea9040800000000000000
+      internalID: 4655287241631524527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Teki_4
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 359
+        width: 145
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d073095e0690b6730800000000000000
+      internalID: 3993295806367020813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Teki_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 431
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e93841a0ff9e7aa0800000000000000
+      internalID: -6161311384349427225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Teki_6
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 431
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf3655fa35294600800000000000000
+      internalID: 452934172681846723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Teki_7
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 431
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1bf194a9e7133e20800000000000000
+      internalID: 3329030841812777756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Teki_8
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 431
+        width: 146
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136a545b043efb120800000000000000
+      internalID: 2431912190862009905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Teki_9
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 431
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e499c0c417f0880800000000000000
+      internalID: -8642564588457865692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Teki_10
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 431
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb414d847f4ac080800000000000000
+      internalID: -9166426729554555958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Teki_11
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 431
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507e59ece171ca1a0800000000000000
+      internalID: -6797032316526532859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Teki_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 359
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b07ddaafd161e100800000000000000
+      internalID: 135497077070065847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Teki_13
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 359
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62670ec58435e9d50800000000000000
+      internalID: 6745920862108546598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Teki_14
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 359
+        width: 194
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f3d690f74ac0630800000000000000
+      internalID: 3894668643294592785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Teki_15
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 359
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677a240580902f7d0800000000000000
+      internalID: -2886234479880132746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Teki_16
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 359
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36df7ff9e2599c2f0800000000000000
+      internalID: -952065818727285405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Teki_17
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 359
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3639b8b64b17061b0800000000000000
+      internalID: -5665403311519722653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Teki_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 289
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c6a2f2076b2b040800000000000000
+      internalID: 4661989157225786432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Teki_19
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 287
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891b4367732b514d0800000000000000
+      internalID: -3164427211881795176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Teki_20
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 287
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b5021b3a008d5e0800000000000000
+      internalID: -1884755741003195531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Teki_21
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 287
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109b1a9420a0e83b0800000000000000
+      internalID: -5508454289285990143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Teki_22
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 287
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ab95d531fe930a0800000000000000
+      internalID: -6901222087518995928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Teki_23
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 287
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2ea9cb176ed4820800000000000000
+      internalID: 2904230710893798136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Teki_24
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 287
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aad8d5c95d2a1da0800000000000000
+      internalID: -5973412092158879064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Teki_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 215
+        width: 334
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8060d381f2ca79300800000000000000
+      internalID: 258864821867185672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Teki_26
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 215
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a18f0b7fe03e2830800000000000000
+      internalID: 4048226920172585385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Teki_27
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 215
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6fdfb31dd4d4220800000000000000
+      internalID: 2471717331546273458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Teki_28
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 215
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d722b5cf2ec5aec0800000000000000
+      internalID: -3556209626163566635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Teki_29
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 215
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939dd7fa92567a6f0800000000000000
+      internalID: -673458389556274887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Teki_30
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 215
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4993d2585414a900800000000000000
+      internalID: 694702612101175629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Teki_31
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 143
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a02231f25b48840800000000000000
+      internalID: 5225500681445706387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Teki_32
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 143
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb7050dbfb5a4790800000000000000
+      internalID: -7545117088615990335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Teki_33
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 143
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b749f075210f620800000000000000
+      internalID: 2805762732984662938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Teki_34
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 143
+        width: 95
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465770d685dabab90800000000000000
+      internalID: -7229494181515266716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Teki_35
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 143
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0601bb4addf850230800000000000000
+      internalID: 3604445258894217312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Teki_36
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 143
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fb4282a1a2b3370800000000000000
+      internalID: 8303276629818654491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Teki_37
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 143
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d6f6fddef8d7100800000000000000
+      internalID: 107400217945402626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Teki_38
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 143
+        width: 190
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0812c1048fd0e73b0800000000000000
+      internalID: -5512953533976272512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Teki_39
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 71
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d137ee971f46800800000000000000
+      internalID: 604873755968347528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Teki_40
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 71
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1819dce7d40b7a8e0800000000000000
+      internalID: -1682182088913219199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Teki_41
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 71
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf0b691e3c5ced30800000000000000
+      internalID: 4462042752601493449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Teki_42
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 71
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cca90895665d5400800000000000000
+      internalID: 314502543328259264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Teki_43
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 71
+        width: 140
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d901568a9f2459e50800000000000000
+      internalID: 6815427251134599325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Teki_44
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 71
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd78e4b950ab7bd0800000000000000
+      internalID: -2631333250120254029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Teki_45
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 71
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88b76a8767bccda0800000000000000
+      internalID: -5923157754567477107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Teki_46
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 71
+        width: 145
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b9ed298c3f3c1e0800000000000000
+      internalID: -2178629751934117094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Teki_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 289
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4589879c05111e260800000000000000
+      internalID: 7124995124152014932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Teki_48
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c38d68ff710a790800000000000000
+      internalID: -7520984991462310796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Teki_49
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 0
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83c94f4a2ae4f760800000000000000
+      internalID: 7490869547663737738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Teki_50
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 0
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956ee9d3ccc1a37d0800000000000000
+      internalID: -2938004143373097383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Teki_51
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 0
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6c4fe8feb7a00d0800000000000000
+      internalID: -3455813495227627844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Teki_52
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 0
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3604e35965424e690800000000000000
+      internalID: -7573888719040659357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman_Teki_53
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 0
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf7f67eb081e5e00800000000000000
+      internalID: 1035291403748343738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Woman_Teki_0: 3478995542707388486
+      Woman_Teki_1: -8492921682808931818
+      Woman_Teki_10: -9166426729554555958
+      Woman_Teki_11: -6797032316526532859
+      Woman_Teki_12: 135497077070065847
+      Woman_Teki_13: 6745920862108546598
+      Woman_Teki_14: 3894668643294592785
+      Woman_Teki_15: -2886234479880132746
+      Woman_Teki_16: -952065818727285405
+      Woman_Teki_17: -5665403311519722653
+      Woman_Teki_18: 4661989157225786432
+      Woman_Teki_19: -3164427211881795176
+      Woman_Teki_2: -7799085095181108309
+      Woman_Teki_20: -1884755741003195531
+      Woman_Teki_21: -5508454289285990143
+      Woman_Teki_22: -6901222087518995928
+      Woman_Teki_23: 2904230710893798136
+      Woman_Teki_24: -5973412092158879064
+      Woman_Teki_25: 258864821867185672
+      Woman_Teki_26: 4048226920172585385
+      Woman_Teki_27: 2471717331546273458
+      Woman_Teki_28: -3556209626163566635
+      Woman_Teki_29: -673458389556274887
+      Woman_Teki_3: 4655287241631524527
+      Woman_Teki_30: 694702612101175629
+      Woman_Teki_31: 5225500681445706387
+      Woman_Teki_32: -7545117088615990335
+      Woman_Teki_33: 2805762732984662938
+      Woman_Teki_34: -7229494181515266716
+      Woman_Teki_35: 3604445258894217312
+      Woman_Teki_36: 8303276629818654491
+      Woman_Teki_37: 107400217945402626
+      Woman_Teki_38: -5512953533976272512
+      Woman_Teki_39: 604873755968347528
+      Woman_Teki_4: 3993295806367020813
+      Woman_Teki_40: -1682182088913219199
+      Woman_Teki_41: 4462042752601493449
+      Woman_Teki_42: 314502543328259264
+      Woman_Teki_43: 6815427251134599325
+      Woman_Teki_44: -2631333250120254029
+      Woman_Teki_45: -5923157754567477107
+      Woman_Teki_46: -2178629751934117094
+      Woman_Teki_47: 7124995124152014932
+      Woman_Teki_48: -7520984991462310796
+      Woman_Teki_49: 7490869547663737738
+      Woman_Teki_5: -6161311384349427225
+      Woman_Teki_50: -2938004143373097383
+      Woman_Teki_51: -3455813495227627844
+      Woman_Teki_52: -7573888719040659357
+      Woman_Teki_53: 1035291403748343738
+      Woman_Teki_6: 452934172681846723
+      Woman_Teki_7: 3329030841812777756
+      Woman_Teki_8: 2431912190862009905
+      Woman_Teki_9: -8642564588457865692
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
